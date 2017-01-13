@@ -383,7 +383,6 @@ msgstr "Doctor"
 msgid "Kuwait"
 msgstr "Kuwait"
 
-
 #: orb.models.Tag.name:254
 msgid "Costa Rica"
 msgstr "Costa Rica"
@@ -824,6 +823,7 @@ msgstr "Creative Commons 2.0 (CC-BY)"
 #: orb.models.Tag.name:188
 msgid "Niue"
 msgstr "Niue"
+
 
 #: orb.models.Tag.name:146
 msgid "Korku"
@@ -1937,7 +1937,6 @@ msgstr ""
 "La campaña de Zinc+ORS está respaldada por la Comisión de Productos Básicos "
 "para Mujeres y Niños que Salvan Vidas de la ONU"
 
-
 #: orb.models.Tag.name:236
 msgid "Belize"
 msgstr "Belice"
@@ -2727,7 +2726,7 @@ msgstr "Capacitador"
 
 #: orb.models.Tag.name:671
 msgid "poster"
-msgstr "afiche"	
+msgstr "afiche"
 
 #: orb.models.Tag.name:230
 msgid "Croatia"
