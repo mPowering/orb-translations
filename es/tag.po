@@ -1,0 +1,2979 @@
+# Translators:
+# Alex Little <alex@digital-campus.org>, 2016
+# Tomás Medeot <a1projects@alphaomegatranslations.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-21 00:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Tomás Medeot <a1projects@alphaomegatranslations.com>, 2016\n"
+"Language-Team: Spanish (https://www.transifex.com/bennylope/teams/64448/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: orb.models.Tag.name:165
+msgid "Canada"
+msgstr "Canadá"
+
+#: orb.models.Tag.name:182
+msgid "Saint Helena"
+msgstr "Santa Helena"
+
+#: orb.models.Tag.name:424
+msgid "PTB & AYH"
+msgstr "Parto prematuro (PTB) y Salud de los Adolescentes y Jóvenes (AYH)"
+
+#: orb.models.Tag.name:601
+msgid "Pushto; Pashto"
+msgstr "Pushto; Pashto"
+
+#: orb.models.Tag.name:125
+msgid "Emergency preparedness"
+msgstr "Preparación para emergencias"
+
+#: orb.models.Tag.name:227
+msgid "Swaziland"
+msgstr "Suazilandia"
+
+#: orb.models.Tag.name:689
+msgid "Dimagi"
+msgstr "Dimagi"
+
+#: orb.models.Tag.name:662
+msgid "and Abt Associates"
+msgstr "and Abt Associates"
+
+#: orb.models.Tag.name:72
+msgid "Cameroon"
+msgstr "Camerún"
+
+#: orb.models.Tag.name:262
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: orb.models.Tag.name:742
+msgid "FHI 360"
+msgstr "FHI 360"
+
+#: orb.models.Tag.name:206
+msgid "Togo"
+msgstr "Togo"
+
+#: orb.models.Tag.name:489
+msgid "Bambara"
+msgstr "Bambara"
+
+#: orb.models.Tag.name:32
+msgid "Digital Green"
+msgstr "Digital Green"
+
+#: orb.models.Tag.name:356
+msgid "United States Minor Outlying Islands"
+msgstr "Islas Menores de los Estados Unidos"
+
+#: orb.models.Tag.name:174
+msgid "Cocos (Keeling) Islands"
+msgstr "Islas Cocos (Keeling)"
+
+#: orb.models.Tag.name:613
+msgid "Samoan"
+msgstr "Samoano"
+
+#: orb.models.Tag.name:415
+msgid "re a kgona community health preojects"
+msgstr "Proyectos de salud comunitaria"
+
+#: orb.models.Tag.name:633
+msgid "Tsonga"
+msgstr "Tsonga"
+
+#: orb.models.Tag.name:221
+msgid "Dominica"
+msgstr "Dominica"
+
+#: orb.models.Tag.name:554
+msgid "Kanuri"
+msgstr "Kanuri"
+
+#: orb.models.Tag.name:451
+msgid "MAP/Global Ehealth Unit University of Edinburgh"
+msgstr "MAP/Unidad de Salud Global de la Universidad de Edimburgo"
+
+#: orb.models.Tag.name:667
+msgid "Every Breath Counts"
+msgstr "Every Breath Counts"
+
+#: orb.models.Tag.name:120
+msgid "Obstetric"
+msgstr "Obstétrico"
+
+#: orb.models.Tag.name:560
+msgid "Komi"
+msgstr "Komi"
+
+#: orb.models.Tag.name:91
+msgid "GSMA"
+msgstr "GSMA"
+
+#: orb.models.Tag.name:709
+msgid "Safe pregnancy"
+msgstr "Embarazo seguro"
+
+#: orb.models.Tag.name:357
+msgid "Jersey"
+msgstr "Jersey"
+
+#: orb.models.Tag.name:443
+msgid "MAP"
+msgstr "MAP"
+
+#: orb.models.Tag.name:285
+msgid "Macau"
+msgstr "Macao"
+
+#: orb.models.Tag.name:708
+msgid "Fistula"
+msgstr "Fístula"
+
+#: orb.models.Tag.name:60
+msgid "Global"
+msgstr "Global"
+
+#: orb.models.Tag.name:39
+msgid "mPowering Frontline Health Workers"
+msgstr "mPowering Frontline Health Workers"
+
+#: orb.models.Tag.name:19
+msgid "Course"
+msgstr "Curso"
+
+#: orb.models.Tag.name:48
+msgid "Reproductive Health"
+msgstr "Salud reproductiva"
+
+#: orb.models.Tag.name:409
+msgid "allergic rhinitis"
+msgstr "rinitis alérgica"
+
+#: orb.models.Tag.name:646
+msgid "Yiddish"
+msgstr "Yiddish"
+
+#: orb.models.Tag.name:399
+msgid "University of Malawi College of Medicine"
+msgstr "University of Malawi College of Medicine"
+
+#: orb.models.Tag.name:21
+msgid "Job Aid"
+msgstr "Recurso de ayuda"
+
+#: orb.models.Tag.name:181
+msgid "Tajikistan"
+msgstr "Tayikistán"
+
+#: orb.models.Tag.name:380
+msgid "Turkey"
+msgstr "Turquía"
+
+#: orb.models.Tag.name:387
+msgid "Ukraine"
+msgstr "Ucrania"
+
+#: orb.models.Tag.name:10
+msgid "Tablet"
+msgstr "Comprimido"
+
+#: orb.models.Tag.name:43
+msgid "HealthPhone"
+msgstr "HealthPhone"
+
+#: orb.models.Tag.name:280
+msgid "Palestine"
+msgstr "Palestina"
+
+#: orb.models.Tag.name:215
+msgid "Slovakia"
+msgstr "Eslovaquia"
+
+#: orb.models.Tag.name:183
+msgid "Nauru"
+msgstr "Nauru"
+
+#: orb.models.Tag.name:375
+msgid "Norway"
+msgstr "Noruega"
+
+#: orb.models.Tag.name:464
+msgid "HEAT inc"
+msgstr "HEAT inc"
+
+#: orb.models.Tag.name:566
+msgid "Latin"
+msgstr "Latín"
+
+#: orb.models.Tag.name:42
+msgid "JHUCCP"
+msgstr "JHUCCP"
+
+#: orb.models.Tag.name:649
+msgid "Zulu"
+msgstr "Zulú"
+
+#: orb.models.Tag.name:602
+msgid "Quechua"
+msgstr "Quechua"
+
+#: orb.models.Tag.name:526
+msgid "Georgian"
+msgstr "Georgiano"
+
+#: orb.models.Tag.name:212
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: orb.models.Tag.name:87
+msgid "Creative Commons 3.0 (CC-BY-NC-SA)"
+msgstr "Creative Commons 3.0 (CC-BY-NC-SA)"
+
+#: orb.models.Tag.name:630
+msgid "Tigrinya"
+msgstr "Tigrinya"
+
+#: orb.models.Tag.name:3
+msgid "Labor & Delivery"
+msgstr "Trabajo de parto y parto"
+
+#: orb.models.Tag.name:688
+msgid "London School of Hygiene and Tropical Medicine"
+msgstr "London School of Hygiene and Tropical Medicine"
+
+#: orb.models.Tag.name:453
+msgid "General Hospital Abaji"
+msgstr "General Hospital Abaji"
+
+#: orb.models.Tag.name:462
+msgid "TTC"
+msgstr "Asesoramiento medido y orientado (TTC)"
+
+#: orb.models.Tag.name:407
+msgid "international"
+msgstr "internacional"
+
+#: orb.models.Tag.name:495
+msgid "Tibetan"
+msgstr "Tibetano"
+
+#: orb.models.Tag.name:397
+msgid "UCT"
+msgstr "UCT"
+
+#: orb.models.Tag.name:341
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: orb.models.Tag.name:585
+msgid "Ndebele, North; North Ndebele"
+msgstr "Ndebele, norte; ndebele norte"
+
+#: orb.models.Tag.name:556
+msgid "Central Khmer"
+msgstr "Khmer central"
+
+#: orb.models.Tag.name:720
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: orb.models.Tag.name:531
+msgid "Guarani"
+msgstr "Guaraní"
+
+#: orb.models.Tag.name:731
+msgid "Ministère de la Santé"
+msgstr "Ministère de la Santé"
+
+#: orb.models.Tag.name:298
+msgid "Finland"
+msgstr "Finlandia"
+
+#: orb.models.Tag.name:271
+msgid "Central African Republic"
+msgstr "República Centroafricana"
+
+#: orb.models.Tag.name:192
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: orb.models.Tag.name:567
+msgid "Latvian"
+msgstr "Letón"
+
+#: orb.models.Tag.name:61
+msgid "English"
+msgstr "Inglés"
+
+#: orb.models.Tag.name:538
+msgid "Croatian"
+msgstr "Croata"
+
+#: orb.models.Tag.name:736
+msgid "United States"
+msgstr "Estados Unidos"
+
+#: orb.models.Tag.name:405
+msgid "AKH Inc."
+msgstr "AKH Inc."
+
+#: orb.models.Tag.name:5
+msgid "Child Health"
+msgstr "Salud infantil"
+
+#: orb.models.Tag.name:33
+msgid "Digital Campus"
+msgstr "Digital Campus"
+
+#: orb.models.Tag.name:504
+msgid "Chinese"
+msgstr "Chino"
+
+#: orb.models.Tag.name:194
+msgid "Cyprus"
+msgstr "Chipre"
+
+#: orb.models.Tag.name:544
+msgid "Inuktitut"
+msgstr "Inuktitut"
+
+#: orb.models.Tag.name:625
+msgid "Tatar"
+msgstr "Tatar"
+
+#: orb.models.Tag.name:598
+msgid "Pali"
+msgstr "Pali"
+
+#: orb.models.Tag.name:471
+msgid "Osmosis"
+msgstr "Ósmosis"
+
+#: orb.models.Tag.name:480
+msgid "Arabic"
+msgstr "Árabe"
+
+#: orb.models.Tag.name:640
+msgid "Venda"
+msgstr "Venda"
+
+#: orb.models.Tag.name:200
+msgid "Saint Martin"
+msgstr "San Martín"
+
+#: orb.models.Tag.name:470
+msgid "Makerere University College of Health Sciences"
+msgstr "Makerere University College of Health Sciences"
+
+#: orb.models.Tag.name:58
+msgid "Doctor"
+msgstr "Doctor"
+
+#: orb.models.Tag.name:312
+msgid "Kuwait"
+msgstr "Kuwait"
+
+
+#: orb.models.Tag.name:254
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: orb.models.Tag.name:548
+msgid "Inupiaq"
+msgstr "Inupiaq"
+
+#: orb.models.Tag.name:732
+msgid "Development Wisdom"
+msgstr "Development Wisdom"
+
+#: orb.models.Tag.name:71
+msgid "Hindi"
+msgstr "Hindú"
+
+#: orb.models.Tag.name:664
+msgid "Health Worker"
+msgstr "Trabajador de la salud"
+
+#: orb.models.Tag.name:104
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: orb.models.Tag.name:56
+msgid "Pharmacist"
+msgstr "Farmacéutico"
+
+#: orb.models.Tag.name:297
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: orb.models.Tag.name:606
+msgid "Russian"
+msgstr "Ruso"
+
+#: orb.models.Tag.name:674
+msgid "In-Drawing"
+msgstr "Retracción costal"
+
+#: orb.models.Tag.name:282
+msgid "Australia"
+msgstr "Australia"
+
+#: orb.models.Tag.name:539
+msgid "Hungarian"
+msgstr "Húngaro"
+
+#: orb.models.Tag.name:395
+msgid "Svalbard"
+msgstr "Svalbard"
+
+#: orb.models.Tag.name:644
+msgid "Wolof"
+msgstr "Wolof"
+
+#: orb.models.Tag.name:496
+msgid "Bosnian"
+msgstr "Bosnio"
+
+#: orb.models.Tag.name:81
+msgid "Creative Commons 2.0 (CC-BY-NC-ND)"
+msgstr "Creative Commons 2.0 (CC-BY-NC-ND)"
+
+#: orb.models.Tag.name:437
+msgid "JSI"
+msgstr "JSI"
+
+#: orb.models.Tag.name:184
+msgid "Pitcairn Islands"
+msgstr "Islas Pitcairn"
+
+#: orb.models.Tag.name:198
+msgid "Netherlands Antilles"
+msgstr "Antillas Neerlandesas"
+
+#: orb.models.Tag.name:272
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: orb.models.Tag.name:237
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia y Herzegovina"
+
+#: orb.models.Tag.name:537
+msgid "Hiri Motu"
+msgstr "Hiri Motu"
+
+#: orb.models.Tag.name:473
+msgid "Family Health International (FHI 360)"
+msgstr "Family Health International (FHI 360)"
+
+#: orb.models.Tag.name:288
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: orb.models.Tag.name:377
+msgid "Philippines"
+msgstr "Filipinas"
+
+#: orb.models.Tag.name:524
+msgid "Western Frisian"
+msgstr "Frisio occidental"
+
+#: orb.models.Tag.name:242
+msgid "Morocco"
+msgstr "Marruecos"
+
+#: orb.models.Tag.name:611
+msgid "Slovenian"
+msgstr "Eslovenio"
+
+#: orb.models.Tag.name:158
+msgid "EDC"
+msgstr "EDC"
+
+#: orb.models.Tag.name:263
+msgid "Estonia"
+msgstr "Estonia"
+
+#: orb.models.Tag.name:512
+msgid "German"
+msgstr "Alemán"
+
+#: orb.models.Tag.name:167
+msgid "Lebanon"
+msgstr "Líbano"
+
+#: orb.models.Tag.name:314
+msgid "Falkland Islands (Malvinas)"
+msgstr "Islas Falkland (Malvinas)"
+
+#: orb.models.Tag.name:137
+msgid "Bettercare"
+msgstr "Bettercare"
+
+#: orb.models.Tag.name:12
+msgid "Video"
+msgstr "Video"
+
+#: orb.models.Tag.name:246
+msgid "Colombia"
+msgstr "Colombia"
+
+#: orb.models.Tag.name:490
+msgid "Basque"
+msgstr "Vasco"
+
+#: orb.models.Tag.name:685
+msgid "Any region"
+msgstr "Cualquier región"
+
+#: orb.models.Tag.name:514
+msgid "Dutch; Flemish"
+msgstr "Danés, flamenco"
+
+#: orb.models.Tag.name:404
+msgid "mPower Social Enterprises Ltd."
+msgstr "mPower Social Enterprises Ltd."
+
+#: orb.models.Tag.name:394
+msgid "Palau"
+msgstr "Palao"
+
+#: orb.models.Tag.name:641
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: orb.models.Tag.name:78
+msgid "Earth Institute, 1 Million Community Health Workers Campaign"
+msgstr ""
+"Earth Institute, Campaña 1 Millón de Trabajadores de la Salud de la "
+"Comunidad"
+
+#: orb.models.Tag.name:310
+msgid "Nepal"
+msgstr "Nepal"
+
+#: orb.models.Tag.name:672
+msgid "Training"
+msgstr "Capacitación"
+
+#: orb.models.Tag.name:255
+msgid "Netherlands"
+msgstr "Holanda"
+
+#: orb.models.Tag.name:503
+msgid "Chechen"
+msgstr "Checheno"
+
+#: orb.models.Tag.name:364
+msgid "Suriname"
+msgstr "Surinam"
+
+#: orb.models.Tag.name:608
+msgid "Sanskrit"
+msgstr "Sánscrito"
+
+#: orb.models.Tag.name:612
+msgid "Northern Sami"
+msgstr "Sami del Norte"
+
+#: orb.models.Tag.name:9
+msgid "Smartphone"
+msgstr "Teléfono inteligente"
+
+#: orb.models.Tag.name:510
+msgid "Welsh"
+msgstr "Galés"
+
+#: orb.models.Tag.name:724
+msgid "South America"
+msgstr "Sudamérica"
+
+#: orb.models.Tag.name:141
+msgid "Madhya Pradesh"
+msgstr "Madhya Pradesh"
+
+#: orb.models.Tag.name:247
+msgid "Jordan"
+msgstr "Jordania"
+
+#: orb.models.Tag.name:432
+msgid "siaya combined music and cultural group"
+msgstr "Grupo cultural y musical combinado de Siaya"
+
+#: orb.models.Tag.name:621
+msgid "Sundanese"
+msgstr "Sondanés"
+
+#: orb.models.Tag.name:86
+msgid "Creative Commons 3.0 (CC-BY-NC-ND)"
+msgstr "Creative Commons 3.0 (CC-BY-NC-ND)"
+
+#: orb.models.Tag.name:694
+msgid "Zika"
+msgstr "Zika"
+
+#: orb.models.Tag.name:163
+msgid "Johns Hopkins Center for Communication Programs"
+msgstr "Johns Hopkins Center for Communication Programs"
+
+#: orb.models.Tag.name:208
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: orb.models.Tag.name:488
+msgid "Bashkir"
+msgstr "Bashkir"
+
+#: orb.models.Tag.name:739
+msgid "LAC Region"
+msgstr "Región de América Latina y el Caribe"
+
+#: orb.models.Tag.name:454
+msgid "Praekelt Foundation"
+msgstr "Praekelt Foundation"
+
+#: orb.models.Tag.name:684
+msgid "Maternal and Child Survival Program"
+msgstr "Maternal and Child Survival Program"
+
+#: orb.models.Tag.name:663
+msgid "Flier"
+msgstr "Panfleto"
+
+#: orb.models.Tag.name:730
+msgid "Public Health Agency of Canada"
+msgstr "Public Health Agency of Canada"
+
+#: orb.models.Tag.description:74
+msgid "Welcome to the country page for Tanzania!"
+msgstr "¡Bienvenido a la página de país de Tanzania!"
+
+#: orb.models.Tag.name:302
+msgid "Equatorial Guinea"
+msgstr "Guinea Ecuatorial"
+
+#: orb.models.Tag.name:128
+msgid "folic acid"
+msgstr "ácido fólico"
+
+#: orb.models.Tag.name:342
+msgid "Serbia"
+msgstr "Serbia"
+
+#: orb.models.Tag.name:551
+msgid "Japanese"
+msgstr "Japonés"
+
+#: orb.models.Tag.name:728
+msgid "Community"
+msgstr "Comunidad"
+
+#: orb.models.Tag.name:535
+msgid "Hebrew"
+msgstr "Hebreo"
+
+#: orb.models.Tag.name:517
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: orb.models.Tag.name:687
+msgid "Hesperian Health Guides"
+msgstr "Hesperian Health Guides"
+
+#: orb.models.Tag.name:153
+msgid "CENTER FOR PUBLIC HEALTH INTERVENTION NIGERIA (CEPIN)"
+msgstr "CENTER FOR PUBLIC HEALTH INTERVENTION NIGERIA (CEPIN)"
+
+#: orb.models.Tag.name:113
+msgid "Swahili"
+msgstr "Swahili"
+
+#: orb.models.Tag.name:234
+msgid "Sao Tome and Principe"
+msgstr "Santo Tomé y Príncipe"
+
+#: orb.models.Tag.name:626
+msgid "Telugu"
+msgstr "Telugu"
+
+#: orb.models.Tag.name:658
+msgid "Meridian Group International, Inc. "
+msgstr "Meridian Group International, Inc. "
+
+#: orb.models.Tag.name:619
+msgid "Serbian"
+msgstr "Serbio"
+
+#: orb.models.Tag.name:637
+msgid "Uighur; Uyghur"
+msgstr "Uighur; Uyghur"
+
+#: orb.models.Tag.name:701
+msgid "global (French language)"
+msgstr "global (idioma francés)"
+
+#: orb.models.Tag.name:209
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: orb.models.Tag.name:46
+msgid "Ghana"
+msgstr "Ghana"
+
+#: orb.models.Tag.name:376
+msgid "Saudi Arabia"
+msgstr "Arabia Saudita"
+
+#: orb.models.Tag.name:733
+msgid "College of Nursing, Islamic University of Gaza"
+msgstr "College of Nursing, Islamic University of Gaza"
+
+#: orb.models.Tag.name:245
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#: orb.models.Tag.name:591
+msgid "Chichewa; Chewa; Nyanja"
+msgstr "Chichewa; Chewa; Nyanja"
+
+#: orb.models.Tag.name:322
+msgid "Zimbabwe"
+msgstr "Zimbabue"
+
+#: orb.models.Tag.name:142
+msgid "Neemadi"
+msgstr "Nimadi"
+
+#: orb.models.Tag.name:482
+msgid "Armenian"
+msgstr "Armenio"
+
+#: orb.models.Tag.name:90
+msgid "World"
+msgstr "Mundo"
+
+#: orb.models.Tag.name:180
+msgid "Saint Barthelemy"
+msgstr "San Bartolomé"
+
+#: orb.models.Tag.name:419
+msgid "IntraHealth International"
+msgstr "IntraHealth International"
+
+#: orb.models.Tag.name:624
+msgid "Tamil"
+msgstr "Tamil"
+
+#: orb.models.Tag.name:15
+msgid "Public Domain (CC0)"
+msgstr "Dominio público (CC0)"
+
+#: orb.models.Tag.name:233
+msgid "Spain"
+msgstr "España"
+
+#: orb.models.Tag.name:101
+msgid "Caesarean Section"
+msgstr "Cesárea"
+
+#: orb.models.Tag.description:36
+msgid ""
+"Creating videos to train health workers and serve communities worldwide"
+msgstr ""
+"Crear videos para capacitar a los trabajadores de la salud y prestar "
+"servicios a la comunidad en todo el mundo"
+
+#: orb.models.Tag.name:36
+msgid "Global Health Media Project"
+msgstr "Global Health Media Project"
+
+#: orb.models.Tag.name:653
+msgid "URC"
+msgstr "URC"
+
+#: orb.models.Tag.name:347
+msgid "Oman"
+msgstr "Omán"
+
+#: orb.models.Tag.name:94
+msgid "Safe Delivery"
+msgstr "Parto seguro"
+
+#: orb.models.Tag.name:391
+msgid "United States Virgin Islands"
+msgstr "Islas Vírgenes de los Estados Unidos"
+
+#: orb.models.Tag.name:661
+msgid "USAID"
+msgstr "USAID"
+
+#: orb.models.Tag.name:80
+msgid "Creative Commons 2.0 (CC-BY)"
+msgstr "Creative Commons 2.0 (CC-BY)"
+
+#: orb.models.Tag.name:188
+msgid "Niue"
+msgstr "Niue"
+
+#: orb.models.Tag.name:146
+msgid "Korku"
+msgstr "Korku"
+
+#: orb.models.Tag.name:4
+msgid "Newborn Care"
+msgstr "Cuidado del recién nacido"
+
+#: orb.models.Tag.name:617
+msgid "Spanish; Castilian"
+msgstr "Español; Castellano"
+
+#: orb.models.Tag.name:423
+msgid "Debremarkos referral hospital"
+msgstr "Debremarkos referral hospital"
+
+#: orb.models.Tag.name:201
+msgid "Greenland"
+msgstr "Groenlandia"
+
+#: orb.models.Tag.name:706
+msgid "alex"
+msgstr "alex"
+
+#: orb.models.Tag.name:122
+msgid "UNICEF"
+msgstr "UNICEF"
+
+#: orb.models.Tag.name:41
+msgid "Intrahealth"
+msgstr "Intrahealth"
+
+#: orb.models.Tag.name:393
+msgid "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
+
+#: orb.models.Tag.name:8
+msgid "Laptop"
+msgstr "Computadora portátil"
+
+#: orb.models.Tag.name:29
+msgid "India"
+msgstr "India"
+
+#: orb.models.Tag.name:616
+msgid "Sotho, Southern"
+msgstr "Sotho, sur"
+
+#: orb.models.Tag.name:428
+msgid "The Mother and Child Health and Education Trust"
+msgstr "The Mother and Child Health and Education Trust"
+
+#: orb.models.Tag.name:529
+msgid "Galician"
+msgstr "Gallego"
+
+#: orb.models.Tag.name:257
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#: orb.models.Tag.name:51
+msgid "Zinc+ORS"
+msgstr "Zinc+ORS"
+
+#: orb.models.Tag.name:16
+msgid "Midwife"
+msgstr "Partera"
+
+#: orb.models.Tag.name:651
+msgid "Solthis"
+msgstr "Solthis"
+
+#: orb.models.Tag.name:105
+msgid "Kenya"
+msgstr "Kenia"
+
+#: orb.models.Tag.name:152
+msgid "FGAE"
+msgstr "FGAE"
+
+#: orb.models.Tag.name:575
+msgid "Marshallese"
+msgstr "Nativo de las Islas Marshall"
+
+#: orb.models.Tag.name:220
+msgid "Czech Republic"
+msgstr "República checa"
+
+#: orb.models.Tag.description:79
+msgid ""
+"CCP is a center within the Department of Health, Behavior and Society at the"
+" Bloomberg School of Public Health that recognizes the pivotal role "
+"communication plays in the way people think and behave about health and "
+"development issues. We design communication solutions that solve public "
+"health problems."
+msgstr ""
+"CCP es un centro dentro del Departamento de Salud, Conducta y Sociedad de la"
+" Escuela de Salud Pública Bloomberg que reconoce el rol cambiante de la "
+"comunicación para determinar la manera en que la gente piensa y se comporta "
+"respecto de la salud y el desarrollo. Diseñamos soluciones de comunicaciones"
+" que resuelven problemas de salud públicos."
+
+#: orb.models.Tag.name:333
+msgid "Iran (Islamic Republic of)"
+msgstr "Irán (República Islámica de)"
+
+#: orb.models.Tag.name:578
+msgid "Marathi"
+msgstr "Marathi"
+
+#: orb.models.Tag.name:389
+msgid "San Marino"
+msgstr "San Marino"
+
+#: orb.models.Tag.name:670
+msgid "Flipchart"
+msgstr "Rotafolio"
+
+#: orb.models.Tag.name:155
+msgid "Things Prime"
+msgstr "Things Prime"
+
+#: orb.models.Tag.name:284
+msgid "Bermuda"
+msgstr "Bermudas"
+
+#: orb.models.Tag.name:366
+msgid "Peru"
+msgstr "Perú"
+
+#: orb.models.Tag.name:487
+msgid "Azerbaijani"
+msgstr "Azerbaijano"
+
+#: orb.models.Tag.name:460
+msgid "home visiting"
+msgstr "visita al hogar"
+
+#: orb.models.Tag.name:238
+msgid "Benin"
+msgstr "Benin"
+
+#: orb.models.Tag.name:24
+msgid "Creative Commons 4.0 (CC-BY-SA)"
+msgstr "Creative Commons 4.0 (CC-BY-SA)"
+
+#: orb.models.Tag.name:727
+msgid "U.S. Center for Disease Control"
+msgstr "U.S. Center for Disease Control"
+
+#: orb.models.Tag.name:88
+msgid "Creative Commons 3.0 (CC-BY-ND)"
+msgstr "Creative Commons 3.0 (CC-BY-ND)"
+
+#: orb.models.Tag.name:406
+msgid "Advancing Knowledge in Healthcare"
+msgstr "Advancing Knowledge in Healthcare"
+
+#: orb.models.Tag.name:678
+msgid "Training Health Worker"
+msgstr "Capacitación a trabajador de la salud"
+
+#: orb.models.Tag.name:20
+msgid "Other training resource"
+msgstr "Otros recursos de capacitación"
+
+#: orb.models.Tag.name:45
+msgid "LINKAGES"
+msgstr "LINKAGES"
+
+#: orb.models.Tag.name:590
+msgid "Norwegian"
+msgstr "Noruego"
+
+#: orb.models.Tag.name:573
+msgid "Ganda"
+msgstr "Ganda"
+
+#: orb.models.Tag.name:294
+msgid "China"
+msgstr "China"
+
+#: orb.models.Tag.description:104
+msgid "Welcome to the country page for Nigeria!"
+msgstr "¡Bienvenido a la página de país de Nigeria!"
+
+#: orb.models.Tag.description:148
+msgid ""
+"<p>Living the GoodLife in Ghana: Encouraging families to eat healthier, more"
+" nutritious foods.</p>\\r\\n\\r\\n<p>The Ghana Behavior Change Support (BCS)"
+" project was a four-year, USAID-funded project managed by the Johns Hopkins "
+"Center for Communication Programs (CCP) in partnership with the Ministry of "
+"Health and the Ghana Health Service (GHS). The overall purpose of the "
+"project was to assist the GHS at the national, regional and district levels "
+"to support its efforts to achieve health-related millennium development "
+"goals through sustained and coherent social and behavior change "
+"communication (BCC) interventions. BCS aimed to increase demand and use of "
+"commodities and services and create positive behaviors in the areas of: "
+"Maternal Neonatal & Child Health; Family Planning; Malaria Prevention & "
+"Treatment; Nutrition; Water, Sanitation, & Hygiene. </p>\\r\\n"
+msgstr ""
+"<p>Vivir una buena vida en Ghana: alentar a las familias a comer alimentos "
+"más sanos y nutritivos.</p>\\r\\n\\r\\n<p>El proyecto Apoyo para el Cambio "
+"de Conductas en Ghana (BCS) fue un proyecto de cuatro años financiado por "
+"USAID y administrado por el Centro para Programas de Comunicación (CCP) "
+"Johns Hopkins en asociación con el Ministerio de Salud y el Servicio de "
+"Salud de Ghana (GHS). El propósito general del proyecto fue ayudar al GHS a "
+"nivel nacional, regional y de distrito, para respaldar los esfuerzos por "
+"lograr los objetivos de desarrollo del milenio a través de comunicaciones "
+"para cambiar conductas (BCC) y generar cambios sociales sostenidos y "
+"coherentes. El proyecto BCS tuvo como objetivo aumentar la demanda y el uso "
+"de productos básicos y servicios, y crear conductas positivas en las áreas "
+"de: Salud Materna, Infantil y Neonatal; Planificación familiar; Prevención y"
+" tratamiento de la malaria; Nutrición; Agua; Sanidad e Higiene. </p>\\r\\n"
+
+#: orb.models.Tag.name:481
+msgid "Aragonese"
+msgstr "Aragonés"
+
+#: orb.models.Tag.name:100
+msgid "Basic Obstetric Ultrasound"
+msgstr "Ultrasonido obstétrico básico"
+
+#: orb.models.Tag.name:459
+msgid "maternal and newborn care"
+msgstr "cuidado materno y neonatal"
+
+#: orb.models.Tag.name:98
+msgid "Cervical Cancer"
+msgstr "Cáncer cervical"
+
+#: orb.models.Tag.name:634
+msgid "Turkmen"
+msgstr "Turcomano"
+
+#: orb.models.Tag.name:726
+msgid "U.S. Centre for Disease Control"
+msgstr "U.S. Centre for Disease Control"
+
+#: orb.models.Tag.name:691
+msgid "University of Wisconsin"
+msgstr "University of Wisconsin"
+
+#: orb.models.Tag.name:386
+msgid "Tonga"
+msgstr "Tonga"
+
+#: orb.models.Tag.name:23
+msgid "Creative Commons 4.0 (CC-BY-ND)"
+msgstr "Creative Commons 4.0 (CC-BY-ND)"
+
+#: orb.models.Tag.name:82
+msgid "Creative Commons 2.0 (CC-BY-NC-SA)"
+msgstr "Creative Commons 2.0 (CC-BY-NC-SA)"
+
+#: orb.models.Tag.name:316
+msgid "Cayman Islands"
+msgstr "Islas Caimán"
+
+#: orb.models.Tag.name:243
+msgid "Mauritius"
+msgstr "Mauricio"
+
+#: orb.models.Tag.name:449
+msgid "Urdu"
+msgstr "Urdu"
+
+#: orb.models.Tag.name:328
+msgid "Mali"
+msgstr "Malí"
+
+#: orb.models.Tag.name:83
+msgid "Creative Commons 2.0 (CC-BY-SA)"
+msgstr "Creative Commons 2.0 (CC-BY-SA)"
+
+#: orb.models.Tag.name:493
+msgid "Bihari languages"
+msgstr "Idiomas magahi"
+
+#: orb.models.Tag.name:217
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: orb.models.Tag.name:268
+msgid "Angola"
+msgstr "Angola"
+
+#: orb.models.Tag.name:240
+msgid "Chad"
+msgstr "Chad"
+
+#: orb.models.Tag.name:73
+msgid "South Africa"
+msgstr "Sudáfrica"
+
+#: orb.models.Tag.name:371
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: orb.models.Tag.name:305
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: orb.models.Tag.name:354
+msgid "Senegal"
+msgstr "Senegal"
+
+#: orb.models.Tag.name:133
+msgid "Creative Commons 4.0 (CC-BY-NC)"
+msgstr "Creative Commons 4.0 (CC-BY-NC)"
+
+#: orb.models.Tag.name:132
+msgid "Uganda"
+msgstr "Uganda"
+
+#: orb.models.Tag.name:540
+msgid "Igbo"
+msgstr "Igbo"
+
+#: orb.models.Tag.name:281
+msgid "Hungary"
+msgstr "Hungría"
+
+#: orb.models.Tag.name:291
+msgid "Niger"
+msgstr "Níger"
+
+#: orb.models.Tag.name:705
+msgid "University of Ibadan, Ibadan, Nigeria"
+msgstr "University of Ibadan, Ibadan, Nigeria"
+
+#: orb.models.Tag.name:123
+msgid "Circulatory System"
+msgstr "Sistema circulatorio"
+
+#: orb.models.Tag.name:304
+msgid "Brazil"
+msgstr "Brasil"
+
+#: orb.models.Tag.name:738
+msgid "Center for Disease Control"
+msgstr "Center for Disease Control"
+
+#: orb.models.Tag.name:251
+msgid "Republic of Moldova"
+msgstr "República de Moldavia"
+
+#: orb.models.Tag.name:135
+msgid "Asia"
+msgstr "Asia"
+
+#: orb.models.Tag.name:79
+msgid "Johns Hopkins Center for Communication Programs (CCP)"
+msgstr "Johns Hopkins Center for Communication Programs (CCP)"
+
+#: orb.models.Tag.name:516
+msgid "Greek, Modern (1453-)"
+msgstr "Griego, moderno (1453-)"
+
+#: orb.models.Tag.name:109
+msgid "Integrated Management"
+msgstr "Tratamiento integrado"
+
+#: orb.models.Tag.name:580
+msgid "Malagasy"
+msgstr "Malagasi"
+
+#: orb.models.Tag.name:577
+msgid "Maori"
+msgstr "Maorí"
+
+#: orb.models.Tag.name:648
+msgid "Zhuang; Chuang"
+msgstr "Zhuang; Chuang"
+
+#: orb.models.Tag.name:592
+msgid "Occitan (post 1500)"
+msgstr "Occitano (después de 1500)"
+
+#: orb.models.Tag.name:264
+msgid "Algeria"
+msgstr "Argelia"
+
+#: orb.models.Tag.name:734
+msgid "Regional Hospital Buea Cameroon"
+msgstr "Regional Hospital Buea Cameroon"
+
+#: orb.models.Tag.name:748
+msgid "African Woman Foundation"
+msgstr "African Woman Foundation"
+
+#: orb.models.Tag.name:559
+msgid "Kirghiz; Kyrgyz"
+msgstr "Kirghiz; Kyrgyz"
+
+#: orb.models.Tag.name:388
+msgid "Marshall Islands"
+msgstr "Islas Marshall"
+
+#: orb.models.Tag.name:126
+msgid "danger signs"
+msgstr "signos de peligro"
+
+#: orb.models.Tag.name:293
+msgid "Belgium"
+msgstr "Bélgica"
+
+#: orb.models.Tag.name:340
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: orb.models.Tag.name:214
+msgid "Haiti"
+msgstr "Haití"
+
+#: orb.models.Tag.name:325
+msgid "Iraq"
+msgstr "Iraq"
+
+#: orb.models.Tag.name:444
+msgid "ActiveHealth Management"
+msgstr "ActiveHealth Management"
+
+#: orb.models.Tag.name:414
+msgid "IMC"
+msgstr "IMC"
+
+#: orb.models.Tag.name:318
+msgid "Gambia"
+msgstr "Gambia"
+
+#: orb.models.Tag.name:59
+msgid "BBC Media Action"
+msgstr "BBC Media Action"
+
+#: orb.models.Tag.name:588
+msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
+msgstr "Nynorsk noruego; nynorsk, noruego"
+
+#: orb.models.Tag.name:57
+msgid "Clinical Officer"
+msgstr "Oficial clínico"
+
+#: orb.models.Tag.name:369
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: orb.models.Tag.name:317
+msgid "France"
+msgstr "Francia"
+
+#: orb.models.Tag.name:534
+msgid "Hausa"
+msgstr "Hausa"
+
+#: orb.models.Tag.name:275
+msgid "Isle of Man"
+msgstr "Isla de Man"
+
+#: orb.models.Tag.name:144
+msgid "Karnataka"
+msgstr "Karnataka"
+
+#: orb.models.Tag.name:463
+msgid "Latin and Central America region"
+msgstr "Región de América Latina y Central"
+
+#: orb.models.Tag.name:276
+msgid "Bouvet Island"
+msgstr "Isla Bouvet"
+
+#: orb.models.Tag.name:527
+msgid "Gaelic; Scottish Gaelic"
+msgstr "Gaélico; gaélico escocés"
+
+#: orb.models.Tag.name:431
+msgid "D-tree International"
+msgstr "D-tree International"
+
+#: orb.models.Tag.name:289
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: orb.models.Tag.name:11
+msgid "Feature phone"
+msgstr "Teléfono destacado"
+
+#: orb.models.Tag.name:216
+msgid "Antigua and Barbuda"
+msgstr "Antigua y Barbuda"
+
+#: orb.models.Tag.name:579
+msgid "Malay"
+msgstr "Malayo"
+
+#: orb.models.Tag.name:127
+msgid "iron"
+msgstr "hierro"
+
+#: orb.models.Tag.name:693
+msgid "Latin and Central America region (Spanish-speaking)"
+msgstr "Región de América Latina y Central (de habla española)"
+
+#: orb.models.Tag.name:18
+msgid "Volunteer Community Health Worker"
+msgstr "Trabajador de la salud de la comunidad voluntario"
+
+#: orb.models.Tag.name:160
+msgid "ZEM AFRICA FOUNDATION"
+msgstr "ZEM AFRICA FOUNDATION"
+
+#: orb.models.Tag.name:400
+msgid "Health Poverty Action"
+msgstr "Health Poverty Action"
+
+#: orb.models.Tag.name:604
+msgid "Romanian; Moldavian; Moldovan"
+msgstr "Rumano; moldavo"
+
+#: orb.models.Tag.name:416
+msgid "private practitioner "
+msgstr "profesional privado"
+
+#: orb.models.Tag.name:68
+msgid "English (subtitles)"
+msgstr "Inglés (subtítulos)"
+
+#: orb.models.Tag.name:124
+msgid "Fetal circulation"
+msgstr "Circulación fetal"
+
+#: orb.models.Tag.name:103
+msgid "Malawi"
+msgstr "Malaui"
+
+#: orb.models.Tag.name:278
+msgid "Democratic Republic of the Congo"
+msgstr "República Democrática del Congo"
+
+#: orb.models.Tag.name:620
+msgid "Swati"
+msgstr "Swati"
+
+#: orb.models.Tag.name:74
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: orb.models.Tag.name:558
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: orb.models.Tag.name:439
+msgid "Basic Health Center Ikun Ekiti"
+msgstr "Basic Health Center Ikun Ekiti"
+
+#: orb.models.Tag.name:422
+msgid "PATH"
+msgstr "PATH"
+
+#: orb.models.Tag.name:385
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: orb.models.Tag.name:55
+msgid "Nurse"
+msgstr "Enfermera"
+
+#: orb.models.Tag.name:474
+msgid "university"
+msgstr "universidad"
+
+#: orb.models.Tag.name:97
+msgid "Understanding Your Body"
+msgstr "Comprender su cuerpo"
+
+#: orb.models.Tag.name:433
+msgid "Apollo Hospitals Dhaka"
+msgstr "Apollo Hospitals Dhaka"
+
+#: orb.models.Tag.name:650
+msgid "PolyFam Clinic, Kigali, Rwanda"
+msgstr "PolyFam Clinic, Kigali, Rwanda"
+
+#: orb.models.Tag.name:638
+msgid "Ukrainian"
+msgstr "Ucraniano"
+
+#: orb.models.Tag.name:331
+msgid "Iceland"
+msgstr "Islandia"
+
+#: orb.models.Tag.name:129
+msgid "Zambia"
+msgstr "Zambia"
+
+#: orb.models.Tag.name:509
+msgid "Cree"
+msgstr "Cree"
+
+#: orb.models.Tag.name:323
+msgid "Germany"
+msgstr "Alemania"
+
+#: orb.models.Tag.name:436
+msgid "FSU College of Medicine"
+msgstr "FSU College of Medicine"
+
+#: orb.models.Tag.name:581
+msgid "Maltese"
+msgstr "Maltés"
+
+#: orb.models.Tag.name:543
+msgid "Sichuan Yi; Nuosu"
+msgstr "Sichuan Yi; nuosu"
+
+#: orb.models.Tag.name:483
+msgid "Assamese"
+msgstr "Asamés"
+
+#: orb.models.Tag.name:335
+msgid "Kazakhstan"
+msgstr "Kazajistán"
+
+#: orb.models.Tag.name:267
+msgid "Kyrgyzstan"
+msgstr "Kirguistán"
+
+#: orb.models.Tag.name:722
+msgid "Ministry of Health, Ebonyi State, Nigeria"
+msgstr "Ministry of Health, Ebonyi State, Nigeria"
+
+#: orb.models.Tag.name:330
+msgid "Greece"
+msgstr "Grecia"
+
+#: orb.models.Tag.name:35
+msgid "Medic Mobile"
+msgstr "Medic Mobile"
+
+#: orb.models.Tag.name:632
+msgid "Tswana"
+msgstr "Tswana"
+
+#: orb.models.Tag.name:229
+msgid "Guyana"
+msgstr "Guyana"
+
+#: orb.models.Tag.name:652
+msgid "Children's National Health System"
+msgstr "Sistema Nacional de Salud Infantil"
+
+#: orb.models.Tag.name:718
+msgid "Burma"
+msgstr "Birmania"
+
+#: orb.models.Tag.name:287
+msgid "Honduras"
+msgstr "Honduras"
+
+#: orb.models.Tag.name:172
+msgid "Egypt"
+msgstr "Egipto"
+
+#: orb.models.Tag.name:485
+msgid "Avestan"
+msgstr "Avestán"
+
+#: orb.models.Tag.name:207
+msgid "Antarctica"
+msgstr "Antártida"
+
+#: orb.models.Tag.name:2
+msgid "Antenatal Care"
+msgstr "Cuidado prenatal"
+
+#: orb.models.Tag.name:26
+msgid "Creative Commons 4.0 (CC-BY-NC-ND)"
+msgstr "Creative Commons 4.0 (CC-BY-NC-ND)"
+
+#: orb.models.Tag.name:241
+msgid "Comoros"
+msgstr "Comoros"
+
+#: orb.models.Tag.name:157
+msgid "Arba Minch University (Ethiopia)"
+msgstr "Arba Minch University (Etiopía)"
+
+#: orb.models.Tag.name:469
+msgid "Peace Corps"
+msgstr "Peace Corps"
+
+#: orb.models.Tag.name:147
+msgid "NURHI"
+msgstr "NURHI"
+
+#: orb.models.Tag.name:373
+msgid "Turkmenistan"
+msgstr "Turkmenistán"
+
+#: orb.models.Tag.name:723
+msgid "U.S. Department of Health and Human Sciences"
+msgstr "U.S. Department of Health and Human Sciences"
+
+#: orb.models.Tag.name:161
+msgid "Bureau of Public Procurement "
+msgstr "Bureau of Public Procurement "
+
+#: orb.models.Tag.name:568
+msgid "Limburgan; Limburger; Limburgish"
+msgstr "Limburgo"
+
+#: orb.models.Tag.name:430
+msgid "World Vision International"
+msgstr "World Vision International"
+
+#: orb.models.Tag.name:185
+msgid "Saint Pierre and Miquelon"
+msgstr "San Pedro y Miquelón"
+
+#: orb.models.Tag.name:102
+msgid "Ethiopia"
+msgstr "Etiopía"
+
+#: orb.models.Tag.name:716
+msgid "South East Asia"
+msgstr "Sudeste Asiático"
+
+#: orb.models.Tag.name:84
+msgid "Creative Commons 2.0 (CC-BY-ND)"
+msgstr "Creative Commons 2.0 (CC-BY-ND)"
+
+#: orb.models.Tag.name:597
+msgid "Panjabi; Punjabi"
+msgstr "Panjabi; Punjabi"
+
+#: orb.models.Tag.name:507
+msgid "Cornish"
+msgstr "Cornish"
+
+#: orb.models.Tag.name:498
+msgid "Bulgarian"
+msgstr "Búlgaro"
+
+#: orb.models.Tag.name:457
+msgid "integrated service delivery"
+msgstr "prestación de servicios integrales"
+
+#: orb.models.Tag.name:647
+msgid "Yoruba"
+msgstr "Yoruba"
+
+#: orb.models.Tag.name:112
+msgid "French"
+msgstr "Francés"
+
+#: orb.models.Tag.name:492
+msgid "Bengali"
+msgstr "Bengalí"
+
+#: orb.models.Tag.name:191
+msgid "Holy See (Vatican City)"
+msgstr "Santa Sede (solo Vaticano)"
+
+#: orb.models.Tag.name:636
+msgid "Twi"
+msgstr "Twi"
+
+#: orb.models.Tag.name:324
+msgid "Liberia"
+msgstr "Liberia"
+
+#: orb.models.Tag.name:596
+msgid "Ossetian; Ossetic"
+msgstr "Osetio"
+
+#: orb.models.Tag.name:359
+msgid "Maldives"
+msgstr "Maldivas"
+
+#: orb.models.Tag.name:587
+msgid "Nepali"
+msgstr "Nepalí"
+
+#: orb.models.Tag.name:523
+msgid "Finnish"
+msgstr "Finlandés"
+
+#: orb.models.Tag.description:32
+msgid ""
+"Digital Green is a not-for-profit international development organization "
+"that uses an innovative digital platform for community engagement to improve"
+" lives of rural communities across South Asia and Sub-Saharan Africa."
+msgstr ""
+"Digital Green es una organización de desarrollo internacional sin fines de "
+"lucro que usa una plataforma digital innovadora para la participación de la "
+"comunidad en la mejora de las vidas de las comunidades rurales del Sur de "
+"Asia y de África Subsahariana."
+
+#: orb.models.Tag.name:479
+msgid "Albanian"
+msgstr "Albano"
+
+#: orb.models.Tag.name:178
+msgid "Christmas Island"
+msgstr "Isla Navidad"
+
+#: orb.models.Tag.name:628
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#: orb.models.Tag.name:286
+msgid "Monaco"
+msgstr "Mónaco"
+
+#: orb.models.Tag.name:549
+msgid "Italian"
+msgstr "Italiano"
+
+#: orb.models.Tag.name:643
+msgid "Walloon"
+msgstr "Valón"
+
+#: orb.models.Tag.name:700
+msgid "madres guias"
+msgstr "madres guías"
+
+#: orb.models.Tag.name:502
+msgid "Chamorro"
+msgstr "Chamorro"
+
+#: orb.models.Tag.name:119
+msgid "Amharic"
+msgstr "Amhárico"
+
+#: orb.models.Tag.name:30
+msgid "partograph"
+msgstr "partograma"
+
+#: orb.models.Tag.name:707
+msgid "Obstetric care"
+msgstr "Cuidado obstétrico"
+
+#: orb.models.Tag.name:627
+msgid "Tajik"
+msgstr "Tayiko"
+
+#: orb.models.Tag.name:631
+msgid "Tonga (Tonga Islands)"
+msgstr "Tonga (Islas Tonga)"
+
+#: orb.models.Tag.description:46
+msgid "Welcome to the Ghana country page!"
+msgstr "¡Bienvenido a la página de país de Ghana!"
+
+#: orb.models.Tag.name:118
+msgid "Afghanistan"
+msgstr "Afganistán"
+
+#: orb.models.Tag.name:711
+msgid "Caribbean"
+msgstr "Caribe"
+
+#: orb.models.Tag.description:31
+msgid "Welcome to the country page for Bangladesh!"
+msgstr "¡Bienvenido a la página de país de Bangladesh!"
+
+#: orb.models.Tag.name:525
+msgid "Fulah"
+msgstr "Fulani"
+
+#: orb.models.Tag.name:363
+msgid "Vanuatu"
+msgstr "Vanautu"
+
+#: orb.models.Tag.name:675
+msgid "Fast Breathing"
+msgstr "Respiración rápida"
+
+#: orb.models.Tag.name:547
+msgid "Indonesian"
+msgstr "Indonesio"
+
+#: orb.models.Tag.name:319
+msgid "Libya"
+msgstr "Libia"
+
+#: orb.models.Tag.name:468
+msgid "3B Technos"
+msgstr "3B Technos"
+
+#: orb.models.Tag.name:396
+msgid "South Georgia South Sandwich Islands"
+msgstr "Islas Sándwich del Sur y Georgia del Sur"
+
+#: orb.models.Tag.description:34
+msgid ""
+"Medical Aid Films aims to save the lives of vulnerable women and children in"
+" developing countries by providing innovative training and education through"
+" film. "
+msgstr ""
+"Medical Aid Films tiene como objetivo salvar las vidas de mujeres y niños "
+"vulnerables en países en desarrollo brindando capacitación y formación "
+"innovadora a través de películas."
+
+#: orb.models.Tag.name:150
+msgid "HST Health Systems Trust"
+msgstr "HST Health Systems Trust"
+
+#: orb.models.Tag.name:311
+msgid "Micronesia, Federated States of"
+msgstr "Micronesia, Estados Federados de"
+
+#: orb.models.Tag.name:412
+msgid "ebola"
+msgstr "ébola"
+
+#: orb.models.Tag.name:190
+msgid "Timor-Leste"
+msgstr "Timor Oriental"
+
+#: orb.models.Tag.name:295
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: orb.models.Tag.name:477
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: orb.models.Tag.name:655
+msgid "Susu Mamas PNG INc"
+msgstr "Susu Mamas PNG INc"
+
+#: orb.models.Tag.name:484
+msgid "Avaric"
+msgstr "Avárico"
+
+#: orb.models.Tag.name:639
+msgid "Uzbek"
+msgstr "Uzbeko"
+
+#: orb.models.Tag.name:203
+msgid "Reunion"
+msgstr "Reunión"
+
+#: orb.models.Tag.name:536
+msgid "Herero"
+msgstr "Herero"
+
+#: orb.models.Tag.name:360
+msgid "Mexico"
+msgstr "México"
+
+#: orb.models.Tag.name:610
+msgid "Slovak"
+msgstr "Eslovaco"
+
+#: orb.models.Tag.name:108
+msgid "Immunization"
+msgstr "Vacunación"
+
+#: orb.models.Tag.name:513
+msgid "Divehi; Dhivehi; Maldivian"
+msgstr "Divehi; Dhivehi; Maldivo"
+
+#: orb.models.Tag.name:695
+msgid "Dengue"
+msgstr "Dengue"
+
+#: orb.models.Tag.name:413
+msgid "Women Health and Action Research Centre"
+msgstr "Women Health and Action Research Centre"
+
+#: orb.models.Tag.name:569
+msgid "Lingala"
+msgstr "Lingala"
+
+#: orb.models.Tag.name:420
+msgid "Pathfinder International"
+msgstr "Pathfinder International"
+
+#: orb.models.Tag.name:656
+msgid "Universidad Javeriana, Colombia"
+msgstr "Universidad Javeriana, Colombia"
+
+#: orb.models.Tag.name:95
+msgid "Post Partum Haemorrage"
+msgstr "Hemorragia posparto"
+
+#: orb.models.Tag.name:337
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: orb.models.Tag.name:499
+msgid "Burmese"
+msgstr "Birmano"
+
+#: orb.models.Tag.name:345
+msgid "Malaysia"
+msgstr "Malasia"
+
+#: orb.models.Tag.name:398
+msgid "RCOG"
+msgstr "RCOG"
+
+#: orb.models.Tag.name:743
+msgid "Victoria University of Wellington"
+msgstr "Victoria University of Wellington"
+
+#: orb.models.Tag.name:497
+msgid "Breton"
+msgstr "Bretón"
+
+#: orb.models.Tag.name:93
+msgid "Healthy Pregnancy"
+msgstr "Embarazo saludable"
+
+#: orb.models.Tag.name:76
+msgid "cancer"
+msgstr "cáncer"
+
+#: orb.models.Tag.name:635
+msgid "Turkish"
+msgstr "Turco"
+
+#: orb.models.Tag.name:226
+msgid "Guinea"
+msgstr "Guinea"
+
+#: orb.models.Tag.name:552
+msgid "Kalaallisut; Greenlandic"
+msgstr "Kalaallisut; groenlandés "
+
+#: orb.models.Tag.name:417
+msgid "Ipas"
+msgstr "Ipas"
+
+#: orb.models.Tag.name:131
+msgid "Diarrhea"
+msgstr "Diarrea"
+
+#: orb.models.Tag.name:290
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+
+#: orb.models.Tag.name:171
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#: orb.models.Tag.name:274
+msgid "Bahamas"
+msgstr "Bahamas "
+
+#: orb.models.Tag.name:500
+msgid "Catalan; Valencian"
+msgstr "Catalán; valenciano"
+
+#: orb.models.Tag.name:202
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: orb.models.Tag.name:301
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: orb.models.Tag.name:721
+msgid "Khmer"
+msgstr "Khmer"
+
+#: orb.models.Tag.name:506
+msgid "Chuvash"
+msgstr "Chuvash"
+
+#: orb.models.Tag.name:115
+msgid "Somali"
+msgstr "Somalí"
+
+#: orb.models.Tag.name:106
+msgid "Adolescent"
+msgstr "Adolescente"
+
+#: orb.models.Tag.name:445
+msgid "BluPoint Ltd"
+msgstr "BluPoint Ltd"
+
+#: orb.models.Tag.name:199
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: orb.models.Tag.name:570
+msgid "Lithuanian"
+msgstr "Lituano"
+
+#: orb.models.Tag.name:231
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: orb.models.Tag.name:740
+msgid "the university of Hargeisa"
+msgstr "the university of Hargeisa"
+
+#: orb.models.Tag.name:429
+msgid "JHpiego- Ghana"
+msgstr "Jhpiego- Ghana"
+
+#: orb.models.Tag.description:51
+msgid ""
+"The Zinc+ORS campaign is supported by the UN Commission on Life-Saving "
+"Commodities for Women and Children"
+msgstr ""
+"La campaña de Zinc+ORS está respaldada por la Comisión de Productos Básicos "
+"para Mujeres y Niños que Salvan Vidas de la ONU"
+
+
+#: orb.models.Tag.name:236
+msgid "Belize"
+msgstr "Belice"
+
+#: orb.models.Tag.name:299
+msgid "Sierra Leone"
+msgstr "Sierra Leona"
+
+#: orb.models.Tag.name:211
+msgid "Georgia"
+msgstr "Georgia"
+
+#: orb.models.Tag.name:741
+msgid "SOS telemedicina venezuela"
+msgstr "SOS telemedicina venezuela"
+
+#: orb.models.Tag.name:367
+msgid "Poland"
+msgstr "Polonia"
+
+#: orb.models.Tag.name:25
+msgid "Creative Commons 4.0 (CC-BY-NC-SA)"
+msgstr "Creative Commons 4.0 (CC-BY-NC-SA)"
+
+#: orb.models.Tag.name:603
+msgid "Romansh"
+msgstr "Romanche"
+
+#: orb.models.Tag.name:37
+msgid "iHeed"
+msgstr "iHeed"
+
+#: orb.models.Tag.name:179
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: orb.models.Tag.name:550
+msgid "Javanese"
+msgstr "Javanés"
+
+#: orb.models.Tag.name:725
+msgid "U.S. Department of Labor"
+msgstr "U.S. Department of Labor"
+
+#: orb.models.Tag.description:105
+msgid "Welcome to the country page for Kenya!"
+msgstr "¡Bienvenido a la página de país de Kenia!"
+
+#: orb.models.Tag.name:121
+msgid "Ultrasound"
+msgstr "Ultrasonido"
+
+#: orb.models.Tag.name:77
+msgid "McCann Global Health"
+msgstr "McCann Global Health"
+
+#: orb.models.Tag.name:344
+msgid "Portugal"
+msgstr "Portugal"
+
+#: orb.models.Tag.name:435
+msgid "Marie Stopes Nigeria"
+msgstr "Marie Stopes Nigeria"
+
+#: orb.models.Tag.name:438
+msgid "Children for Health"
+msgstr "Children for Health"
+
+#: orb.models.Tag.name:145
+msgid "Kannada"
+msgstr "Canarés"
+
+#: orb.models.Tag.name:381
+msgid "Uzbekistan"
+msgstr "Uzbekistán"
+
+#: orb.models.Tag.name:156
+msgid "pace"
+msgstr "ritmo"
+
+#: orb.models.Tag.name:521
+msgid "Persian"
+msgstr "Persa"
+
+#: orb.models.Tag.name:582
+msgid "Mongolian"
+msgstr "Mongol"
+
+#: orb.models.Tag.name:515
+msgid "Dzongkha"
+msgstr "Dzongkha"
+
+#: orb.models.Tag.name:486
+msgid "Aymara"
+msgstr "Aimará"
+
+#: orb.models.Tag.name:361
+msgid "Taiwan"
+msgstr "Taiwán"
+
+#: orb.models.Tag.name:313
+msgid "Fiji"
+msgstr "Fiyi"
+
+#: orb.models.Tag.name:223
+msgid "Barbados"
+msgstr "Barbados"
+
+#: orb.models.Tag.name:326
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: orb.models.Tag.name:338
+msgid "Italy"
+msgstr "Italia"
+
+#: orb.models.Tag.name:149
+msgid "Global Health eLearning Center"
+msgstr "Global Health eLearning Center"
+
+#: orb.models.Tag.name:378
+msgid "Sudan"
+msgstr "Sudán"
+
+#: orb.models.Tag.name:614
+msgid "Shona"
+msgstr "Shona"
+
+#: orb.models.Tag.name:159
+msgid "Bangla"
+msgstr "Bangla"
+
+#: orb.models.Tag.name:508
+msgid "Corsican"
+msgstr "Corsicano"
+
+#: orb.models.Tag.name:40
+msgid "JHU"
+msgstr "JHU"
+
+#: orb.models.Tag.name:441
+msgid "MSF"
+msgstr "MSF"
+
+#: orb.models.Tag.name:250
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: orb.models.Tag.name:14
+msgid "Creative Commons 4.0 (CC-BY)"
+msgstr "Creative Commons 4.0 (CC-BY)"
+
+#: orb.models.Tag.name:478
+msgid "Akan"
+msgstr "Akan"
+
+#: orb.models.Tag.name:173
+msgid "Israel"
+msgstr "Israel"
+
+#: orb.models.Tag.description:147
+msgid ""
+"NURHI is a five year (2009 ‐2014) project funded by the Bill and Melinda "
+"Gates Foundation and led by the Johns Hopkins Bloomberg School of Public "
+"Health Center for Communication Programs (JHU•CCP) that aims to increase the"
+" use of modern family planning methods among the urban poor in Nigeria. As "
+"part of its efforts, NURHI has spent the past three years training providers"
+" in family planning counseling and provision of IUDs and implants, and "
+"improving health facility management systems."
+msgstr ""
+"NURHI es un proyecto de cinco años (2009-2014) financiado por la Fundación "
+"Bill and Melinda Gates y dirigido por el Centro para Programas de "
+"Comunicación (CCP) de la Escuela de Salud Pública Johns Hopkins Bloomberg "
+"(JHU-CCP) que tiene como objetivo aumentar el uso de métodos modernos de "
+"planificación familiar entre las clases pobres de Nigeria. Como parte de sus"
+" esfuerzos, NURHI ha dedicado los últimos tres años a capacitar proveedores "
+"en materia de asesoramiento para la planificación familiar y a proveer DIU e"
+" implantes, y mejorar los sistemas de gestión de centros de salud."
+
+#: orb.models.Tag.name:698
+msgid "maternal health"
+msgstr "salud materna"
+
+#: orb.models.Tag.name:96
+msgid "PPH"
+msgstr "Hemorragia posparto (PPH)"
+
+#: orb.models.Tag.name:372
+msgid "Papua New Guinea"
+msgstr "Papúa Nueva Guinea"
+
+#: orb.models.Tag.name:623
+msgid "Tahitian"
+msgstr "Tahitiano"
+
+#: orb.models.Tag.name:440
+msgid "nnpc"
+msgstr "nnpc"
+
+#: orb.models.Tag.name:169
+msgid "Martinique"
+msgstr "Martinica"
+
+#: orb.models.Tag.name:346
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: orb.models.Tag.name:692
+msgid "Ministry of Health Bayelsa State"
+msgstr "Ministry of Health Bayelsa State"
+
+#: orb.models.Tag.name:589
+msgid "Bokmål, Norwegian; Norwegian Bokmål"
+msgstr "Bokmål, noruego; Bokmål noruego"
+
+#: orb.models.Tag.description:103
+msgid "Welcome to the country page for Malawi!"
+msgstr "¡Bienvenido a la página de país de Malaui!"
+
+#: orb.models.Tag.name:332
+msgid "Trinidad and Tobago"
+msgstr "Trinidad y Tobago"
+
+#: orb.models.Tag.name:472
+msgid "International Rescue Committee"
+msgstr "International Rescue Committee"
+
+#: orb.models.Tag.name:306
+msgid "Latvia"
+msgstr "Letonia"
+
+#: orb.models.Tag.name:607
+msgid "Sango"
+msgstr "Sango"
+
+#: orb.models.Tag.name:260
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#: orb.models.Tag.name:89
+msgid "Creative Commons 3.0 (CC-BY-SA)"
+msgstr "Creative Commons 3.0 (CC-BY-SA)"
+
+#: orb.models.Tag.name:595
+msgid "Oromo"
+msgstr "Oromo"
+
+#: orb.models.Tag.name:107
+msgid "Youth"
+msgstr "Juventud"
+
+#: orb.models.Tag.name:696
+msgid "Chikungunya"
+msgstr "Chikungunya"
+
+#: orb.models.Tag.name:401
+msgid "Trocaire "
+msgstr "Trocaire "
+
+#: orb.models.Tag.name:680
+msgid "Quickstart Guide"
+msgstr "Guía de inicio rápido"
+
+#: orb.models.Tag.name:130
+msgid "Bemba"
+msgstr "Bemba"
+
+#: orb.models.Tag.name:382
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+#: orb.models.Tag.name:69
+msgid "Odisha"
+msgstr "Odisha"
+
+#: orb.models.Tag.name:270
+msgid "Congo"
+msgstr "Congo"
+
+#: orb.models.Tag.name:668
+msgid "Abt Associates"
+msgstr "Abt Associates"
+
+#: orb.models.Tag.name:336
+msgid "Korea, Democratic People's Republic of"
+msgstr "Corea, República Democrática de"
+
+#: orb.models.Tag.name:256
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: orb.models.Tag.name:210
+msgid "Gabon"
+msgstr "Gabón"
+
+#: orb.models.Tag.name:308
+msgid "Botswana"
+msgstr "Botsuana"
+
+#: orb.models.Tag.name:697
+msgid "prevention"
+msgstr "prevención"
+
+#: orb.models.Tag.name:47
+msgid "breastfeeding"
+msgstr "lactancia materna"
+
+#: orb.models.Tag.name:49
+msgid "Khan Academy"
+msgstr "Khan Academy"
+
+#: orb.models.Tag.name:518
+msgid "Estonian"
+msgstr "Estonio"
+
+#: orb.models.Tag.name:34
+msgid "Medical Aid Films"
+msgstr "Medical Aid Films"
+
+#: orb.models.Tag.name:213
+msgid "Lithuania"
+msgstr "Lituania"
+
+#: orb.models.Tag.name:717
+msgid "Cambodia"
+msgstr "Camboya"
+
+#: orb.models.Tag.name:403
+msgid "CCM"
+msgstr "CCM"
+
+#: orb.models.Tag.name:249
+msgid "Aruba"
+msgstr "Aruba"
+
+#: orb.models.Tag.name:609
+msgid "Sinhala; Sinhalese"
+msgstr "Sinhala; cingalés"
+
+#: orb.models.Tag.name:676
+msgid "South Asia"
+msgstr "Sur de Asia"
+
+#: orb.models.Tag.name:269
+msgid "Argentina"
+msgstr "Argentina"
+
+#: orb.models.Tag.name:669
+msgid "caregiver"
+msgstr "cuidador"
+
+#: orb.models.Tag.name:411
+msgid "human trafficking"
+msgstr "tráfico de humanos"
+
+#: orb.models.Tag.name:427
+msgid "Millennium Villages Project"
+msgstr "Millennium Villages Project"
+
+#: orb.models.Tag.name:384
+msgid "Switzerland"
+msgstr "Suiza"
+
+#: orb.models.Tag.name:402
+msgid "Medical Mission Institute"
+msgstr "Medical Mission Institute"
+
+#: orb.models.Tag.name:283
+msgid "Bahrain"
+msgstr "Bahréin"
+
+#: orb.models.Tag.name:408
+msgid "asthma"
+msgstr "asma"
+
+#: orb.models.Tag.name:140
+msgid "Creative Commons 2.5 (CC-BY-NC-SA-IN) "
+msgstr "Creative Commons 2.5 (CC-BY-NC-SA-IN) "
+
+#: orb.models.Tag.name:450
+msgid "checklist"
+msgstr "lista de verificación"
+
+#: orb.models.Tag.name:351
+msgid "Slovenia"
+msgstr "Eslovenia"
+
+#: orb.models.Tag.name:522
+msgid "Fijian"
+msgstr "Fijiano"
+
+#: orb.models.Tag.name:138
+msgid "birth defects"
+msgstr "defectos congénitos"
+
+#: orb.models.Tag.name:365
+msgid "Panama"
+msgstr "Panamá"
+
+#: orb.models.Tag.name:327
+msgid "Korea, Republic of"
+msgstr "Corea, República de"
+
+#: orb.models.Tag.name:111
+msgid "Audio"
+msgstr "Audio"
+
+#: orb.models.Tag.name:154
+msgid "Stand Consulting Limited"
+msgstr "Stand Consulting Limited"
+
+#: orb.models.Tag.name:232
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: orb.models.Tag.name:530
+msgid "Manx"
+msgstr "Manx"
+
+#: orb.models.Tag.name:505
+msgid ""
+"Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
+"Slavonic"
+msgstr ""
+"Eslavo litúrgico; eslavo antiguo; eslavo litúrgico; búlgaro antiguo; eslavo "
+"litúrgico antiguo"
+
+#: orb.models.Tag.name:729
+msgid "Haitian Creole"
+msgstr "Criollo haitiano"
+
+#: orb.models.Tag.name:168
+msgid "French Guiana"
+msgstr "Guayana Francesa"
+
+#: orb.models.Tag.name:465
+msgid "Koyo Digital"
+msgstr "Koyo Digital"
+
+#: orb.models.Tag.name:703
+msgid "Tropical Health and Education Trust (THET)"
+msgstr "Tropical Health and Education Trust (THET)"
+
+#: orb.models.Tag.name:576
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: orb.models.Tag.name:447
+msgid "Aptech Computer Education"
+msgstr "Aptech Computer Education"
+
+#: orb.models.Tag.name:368
+msgid "New Zealand"
+msgstr "Nueva Zelanda"
+
+#: orb.models.Tag.name:392
+msgid "Yemen"
+msgstr "Yemén"
+
+#: orb.models.Tag.name:136
+msgid "Latin America"
+msgstr "América Latina"
+
+#: orb.models.Tag.name:309
+msgid "Andorra"
+msgstr "Andorra"
+
+#: orb.models.Tag.name:715
+msgid "Saint Lucian Creole"
+msgstr "Criollo de Santa Lucía"
+
+#: orb.models.Tag.name:189
+msgid "Albania"
+msgstr "Albania"
+
+#: orb.models.Tag.name:222
+msgid "Samoa"
+msgstr "Samoa"
+
+#: orb.models.Tag.name:186
+msgid "Norfolk Island"
+msgstr "Isla Norfolk"
+
+#: orb.models.Tag.name:494
+msgid "Bislama"
+msgstr "Bislama"
+
+#: orb.models.Tag.name:561
+msgid "Kongo"
+msgstr "Kongo"
+
+#: orb.models.Tag.name:265
+msgid "Azerbaijan"
+msgstr "Azerbaiyán"
+
+#: orb.models.Tag.name:85
+msgid "Creative Commons 3.0 (CC-BY)"
+msgstr "Creative Commons 3.0 (CC-BY)"
+
+#: orb.models.Tag.name:1
+msgid "Family Planning"
+msgstr "Planificación familiar"
+
+#: orb.models.Tag.name:461
+msgid "West Africa"
+msgstr "África Occidental"
+
+#: orb.models.Tag.name:599
+msgid "Polish"
+msgstr "Polaco"
+
+#: orb.models.Tag.name:204
+msgid "Guam"
+msgstr "Guam"
+
+#: orb.models.Tag.name:645
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#: orb.models.Tag.name:686
+msgid "Tubal Ligation; Permanent Methods"
+msgstr "Ligadura de trompas; métodos permanentes"
+
+#: orb.models.Tag.name:622
+msgid "Swedish"
+msgstr "Sueco"
+
+#: orb.models.Tag.name:657
+msgid "care for uganda"
+msgstr "cuidar a uganda"
+
+#: orb.models.Tag.name:31
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: orb.models.Tag.name:321
+msgid "Saint Lucia"
+msgstr "Santa Lucía"
+
+#: orb.models.Tag.name:426
+msgid "Luganda"
+msgstr "Luganda"
+
+#: orb.models.Tag.name:519
+msgid "Ewe"
+msgstr "Ewe"
+
+#: orb.models.Tag.name:277
+msgid "Wallis and Futuna Islands"
+msgstr "Islas Wallis y Futuna"
+
+#: orb.models.Tag.name:735
+msgid "US Department of Health and Human Services"
+msgstr "US Department of Health and Human Services"
+
+#: orb.models.Tag.name:252
+msgid "Syrian Arab Republic"
+msgstr "República Árabe Siria"
+
+#: orb.models.Tag.name:253
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: orb.models.Tag.name:116
+msgid "Somalia"
+msgstr "Somalia"
+
+#: orb.models.Tag.name:704
+msgid "Mars"
+msgstr "Marte"
+
+#: orb.models.Tag.name:520
+msgid "Faroese"
+msgstr "Feroés"
+
+#: orb.models.Tag.name:143
+msgid "Bihar"
+msgstr "Bihar"
+
+#: orb.models.Tag.name:218
+msgid "Cook Islands"
+msgstr "Islas Cook"
+
+#: orb.models.Tag.name:511
+msgid "Danish"
+msgstr "Danés"
+
+#: orb.models.Tag.name:139
+msgid "mental health"
+msgstr "salud mental"
+
+#: orb.models.Tag.description:29
+msgid "Welcome to the country page for India!"
+msgstr "¡Bienvenido a la página de país de India!"
+
+#: orb.models.Tag.name:279
+msgid "Cuba"
+msgstr "Cuba"
+
+#: orb.models.Tag.name:434
+msgid "AMC"
+msgstr "AMC"
+
+#: orb.models.Tag.name:370
+msgid "Saint Kitts and Nevis"
+msgstr "San Cristóbal y Nieves"
+
+#: orb.models.Tag.name:572
+msgid "Luba-Katanga"
+msgstr "Luba-Katanga"
+
+#: orb.models.Tag.name:266
+msgid "Armenia"
+msgstr "Armenia"
+
+#: orb.models.Tag.name:196
+msgid "Saint Vincent and the Grenadines"
+msgstr "San Vicente y las Granadinas"
+
+#: orb.models.Tag.name:446
+msgid "Partners Relief and Development"
+msgstr "Partners Relief and Development"
+
+#: orb.models.Tag.name:170
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: orb.models.Tag.name:162
+msgid "Ikeja LGA primary health centre"
+msgstr "Ikeja LGA primary health centre"
+
+#: orb.models.Tag.name:418
+msgid "African health foundation"
+msgstr "African health foundation"
+
+#: orb.models.Tag.name:745
+msgid "North America"
+msgstr "Norteamérica"
+
+#: orb.models.Tag.name:383
+msgid "Sweden"
+msgstr "Suecia"
+
+#: orb.models.Tag.name:166
+msgid "British Virgin Islands"
+msgstr "Islas Vírgenes Británicas"
+
+#: orb.models.Tag.name:545
+msgid "Interlingue; Occidental"
+msgstr "Interlengua; occidental"
+
+#: orb.models.Tag.name:193
+msgid "Russia"
+msgstr "Rusia"
+
+#: orb.models.Tag.name:244
+msgid "Romania"
+msgstr "Rumania"
+
+#: orb.models.Tag.name:737
+msgid "U.S. Department of Health and Human Services"
+msgstr "U.S. Department of Health and Human Services"
+
+#: orb.models.Tag.name:583
+msgid "Navajo; Navaho"
+msgstr "Navajo; Navaho"
+
+#: orb.models.Tag.name:195
+msgid "Qatar"
+msgstr "Qatar"
+
+#: orb.models.Tag.name:219
+msgid "Austria"
+msgstr "Austria"
+
+#: orb.models.Tag.name:350
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: orb.models.Tag.name:261
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: orb.models.Tag.name:343
+msgid "Japan"
+msgstr "Japón"
+
+#: orb.models.Tag.name:557
+msgid "Kikuyu; Gikuyu"
+msgstr "Kikuyu; Gikuyu"
+
+#: orb.models.Tag.name:546
+msgid "Interlingua (International Auxiliary Language Association)"
+msgstr "Interlingua (International Auxiliary Language Association)"
+
+#: orb.models.Tag.name:541
+msgid "Icelandic"
+msgstr "Islandés"
+
+#: orb.models.Tag.name:303
+msgid "Faroe Islands"
+msgstr "Islas Faroe"
+
+#: orb.models.Tag.name:458
+msgid "continuum of care"
+msgstr "secuencia de cuidado"
+
+#: orb.models.Tag.name:110
+msgid "Johns Hopkins BSPH"
+msgstr "Johns Hopkins BSPH"
+
+#: orb.models.Tag.name:571
+msgid "Luxembourgish; Letzeburgesch"
+msgstr "Luxemburgués; Letzeburgesch"
+
+#: orb.models.Tag.name:532
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: orb.models.Tag.name:151
+msgid "Meningitis Research Foundation"
+msgstr "Meningitis Research Foundation"
+
+#: orb.models.Tag.name:339
+msgid "Ivory Coast"
+msgstr "Costa de Marfil"
+
+#: orb.models.Tag.name:448
+msgid "Pakistan"
+msgstr "Pakistán"
+
+#: orb.models.Tag.name:584
+msgid "Ndebele, South; South Ndebele"
+msgstr "Ndebele, sur; Ndebele sur"
+
+#: orb.models.Tag.name:615
+msgid "Sindhi"
+msgstr "Sindhi"
+
+#: orb.models.Tag.name:562
+msgid "Korean"
+msgstr "Coreano"
+
+#: orb.models.Tag.name:749
+msgid "Creole"
+msgstr "Criollo"
+
+#: orb.models.Tag.name:563
+msgid "Kuanyama; Kwanyama"
+msgstr "Kuanyama; Kwanyama"
+
+#: orb.models.Tag.name:6
+msgid "Nutrition"
+msgstr "Nutrición"
+
+#: orb.models.Tag.name:228
+msgid "Belarus"
+msgstr "Bielorrusia"
+
+#: orb.models.Tag.name:690
+msgid "University of Washington Dept. Global Health"
+msgstr "University of Washington Dept. Global Health"
+
+#: orb.models.Tag.name:292
+msgid "Solomon Islands"
+msgstr "Islas Salomón"
+
+#: orb.models.Tag.name:747
+msgid "Office of Population Affairs"
+msgstr "Office of Population Affairs"
+
+#: orb.models.Tag.name:315
+msgid "Chile"
+msgstr "Chile"
+
+#: orb.models.Tag.name:205
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: orb.models.Tag.name:553
+msgid "Kashmiri"
+msgstr "Cachemira"
+
+#: orb.models.Tag.name:66
+msgid "Trainer"
+msgstr "Capacitador"
+
+#: orb.models.Tag.name:671
+msgid "poster"
+msgstr "afiche"	
+
+#: orb.models.Tag.name:230
+msgid "Croatia"
+msgstr "Croacia"
+
+#: orb.models.Tag.name:175
+msgid "French Polynesia"
+msgstr "Polinesia Francesa"
+
+#: orb.models.Tag.name:358
+msgid "Namibia"
+msgstr "Namibia"
+
+#: orb.models.Tag.name:225
+msgid "Grenada"
+msgstr "Granada"
+
+#: orb.models.Tag.name:475
+msgid "Afar"
+msgstr "Afar"
+
+#: orb.models.Tag.name:334
+msgid "Åland Islands"
+msgstr "Islas Åland "
+
+#: orb.models.Tag.name:528
+msgid "Irish"
+msgstr "Irlandés"
+
+#: orb.models.Tag.name:296
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: orb.models.Tag.name:187
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: orb.models.Tag.name:501
+msgid "Czech"
+msgstr "Checo"
+
+#: orb.models.Tag.name:555
+msgid "Kazakh"
+msgstr "Kazajio"
+
+#: orb.models.Tag.name:442
+msgid "Amref Health Africa"
+msgstr "Amref Health Africa"
+
+#: orb.models.Tag.name:7
+msgid "Africa"
+msgstr "África"
+
+#: orb.models.Tag.name:491
+msgid "Belarusian"
+msgstr "Bielorruso"
+
+#: orb.models.Tag.name:574
+msgid "Macedonian"
+msgstr "Macedonio"
+
+#: orb.models.Tag.name:177
+msgid "Heard Island and McDonald Islands"
+msgstr "Isla Heard e Islas McDonald"
+
+#: orb.models.Tag.name:744
+msgid "YACHAY EP"
+msgstr "YACHAY EP"
+
+#: orb.models.Tag.name:197
+msgid "Burundi"
+msgstr "Burundi"
+
+#: orb.models.Tag.description:129
+msgid "Welcome to the country page for Zambia!"
+msgstr "¡Bienvenido a la página de país de Zambia!"
+
+#: orb.models.Tag.name:710
+msgid "Diabetes"
+msgstr "Diabetes"
+
+#: orb.models.Tag.name:329
+msgid "Turks and Caicos Islands"
+msgstr "Islas Turcas y Caicos"
+
+#: orb.models.Tag.name:660
+msgid "Clinton Health Access Institute"
+msgstr "Clinton Health Access Institute"
+
+#: orb.models.Tag.name:239
+msgid "Bhutan"
+msgstr "Bután"
+
+#: orb.models.Tag.name:452
+msgid "Greenstar Socia Marketing"
+msgstr "Greenstar Socia Marketing"
+
+#: orb.models.Tag.name:618
+msgid "Sardinian"
+msgstr "Sardo"
+
+#: orb.models.Tag.name:258
+msgid "Singapore"
+msgstr "Singapur"
+
+#: orb.models.Tag.name:176
+msgid "Malta"
+msgstr "Malta"
+
+#: orb.models.Tag.name:746
+msgid "LAC Countries"
+msgstr "Países de América Latina y el Caribe"
+
+#: orb.models.Tag.name:349
+msgid "Northern Mariana Islands"
+msgstr "Islas Mariana del Norte"
+
+#: orb.models.Tag.name:224
+msgid "Lao People's Democratic Republic"
+msgstr "República Democrática Popular de Laos"
+
+#: orb.models.Tag.name:248
+msgid "The former Yugoslav Republic of Macedonia"
+msgstr "Ex República Yugoslava de Macedonia"
+
+#: orb.models.Tag.name:421
+msgid "1mCHW Campaign"
+msgstr "1mCHW Campaign"
+
+#: orb.models.Tag.name:565
+msgid "Lao"
+msgstr "Laosiano"
+
+#: orb.models.Tag.name:642
+msgid "Volapük"
+msgstr "Volapük"
+
+#: orb.models.Tag.name:117
+msgid "Dari"
+msgstr "Dari"
+
+#: orb.models.Tag.name:148
+msgid "Ghana Behavior Change Support"
+msgstr "Ghana Behavior Change Support"
+
+#: orb.models.Tag.name:65
+msgid "Student"
+msgstr "Estudiante"
+
+#: orb.models.Tag.name:593
+msgid "Ojibwa"
+msgstr "Ojibwa"
+
+#: orb.models.Tag.name:70
+msgid "Uttar Pradesh"
+msgstr "Uttar Pradesh"
+
+#: orb.models.Tag.name:564
+msgid "Kurdish"
+msgstr "Curdo"
+
+#: orb.models.Tag.name:666
+msgid "Pneumonia Education"
+msgstr "Información sobre neumonía"
+
+#: orb.models.Tag.name:320
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: orb.models.Tag.name:355
+msgid "British Indian Ocean Territory"
+msgstr "Territorio Oceánico Británico Indio"
+
+#: orb.models.Tag.name:352
+msgid "New Caledonia"
+msgstr "Nueva Caledonia"
+
+#: orb.models.Tag.name:542
+msgid "Ido"
+msgstr "Esperandido"
+
+#: orb.models.Tag.name:654
+msgid "Presbyterian University of East Africa"
+msgstr "Presbyterian University of East Africa"
+
+#: orb.models.Tag.description:33
+msgid ""
+"Digital Campus is committed to promoting learning research, innovation and "
+"developing capacity through the use of appropriate technology."
+msgstr ""
+"Digital Campus está comprometida con la promoción de la investigación sobre "
+"aprendizaje, la innovación y el desarrollo de capacidades a través del uso "
+"de tecnología adecuada."
+
+#: orb.models.Tag.name:410
+msgid "childhood asthma"
+msgstr "asma infantil"
+
+#: orb.models.Tag.name:605
+msgid "Rundi"
+msgstr "Rundi"
+
+#: orb.models.Tag.name:476
+msgid "Abkhazian"
+msgstr "Abjasio"
+
+#: orb.models.Tag.description:102
+msgid "Welcome to the country page for Ethiopia!"
+msgstr "¡Bienvenido a la página de país de Etiopía!"
+
+#: orb.models.Tag.name:659
+msgid "United Methodist Health Board - South Sudan"
+msgstr "United Methodist Health Board - South Sudan"
+
+#: orb.models.Tag.name:259
+msgid "Tunisia"
+msgstr "Túnez"
+
+#: orb.models.Tag.name:353
+msgid "French Southern and Antarctic Lands"
+msgstr "Tierras francesas del sur y la Antártida"
+
+#: orb.models.Tag.name:586
+msgid "Ndonga"
+msgstr "Ndonga"
+
+#: orb.models.Tag.name:348
+msgid "Western Sahara"
+msgstr "Sahara Occidental"
+
+#: orb.models.Tag.name:134
+msgid "Spanish"
+msgstr "Español"
+
+#: orb.models.Tag.name:273
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: orb.models.Tag.name:425
+msgid "12"
+msgstr "12"
+
+#: orb.models.Tag.name:699
+msgid "community health workers"
+msgstr "trabajadores de la salud de la comunidad"
+
+#: orb.models.Tag.name:702
+msgid "VSO"
+msgstr "VSO"
