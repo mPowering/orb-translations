@@ -52,10 +52,6 @@ msgstr ""
 "Asesoramiento medido y orientado para Salud y Nutrición 1.º edición "
 "(Español): Sistema de Monitoreo TTC y registros"
 
-#: orb.models.ResourceFile.title:301
-msgid "Opciones de metodos anticonceptivos"
-msgstr "Opciones de métodos anticonceptivos"
-
 #: orb.models.ResourceFile.title:226
 msgid "Pneumonia Education - South Asian English - Health Worker Kit"
 msgstr ""
@@ -65,12 +61,6 @@ msgstr ""
 #: orb.models.ResourceFile.title:94
 msgid "Detailing Aid Skilled Providers (French)"
 msgstr "Detalles para proveedores con habilidades de asistencia (Francés)"
-
-#: orb.models.ResourceFile.title:311
-msgid "Who Needs Testing for Zika Virus? Areas WITHOUT Local Transmission"
-msgstr ""
-"¿Quién necesita pruebas de detección del virus del Zika? Áreas SIN "
-"transmisión local"
 
 #: orb.models.ResourceFile.title:295
 msgid ""
@@ -92,10 +82,6 @@ msgstr "descargar video"
 msgid "Poster option 2 (French)"
 msgstr "Afiche opción 2 (Francés)"
 
-#: orb.models.ResourceFile.title:290
-msgid "Birth Control Method Options in countries WITH Zika"
-msgstr "Opciones de métodos de control de la natalidad en países CON Zika"
-
 #: orb.models.ResourceFile.title:232
 msgid "Timed and Targeted Counselling (french). Manuel de ménage"
 msgstr "Asesoramiento medido y orientado (Francés). Manuel de ménage"
@@ -115,14 +101,6 @@ msgstr "Etapa de la vida para Cuidado Prenatal (ANC)"
 #: orb.models.ResourceFile.title:272
 msgid "Material de apoyo #8"
 msgstr "Material de apoyo n.º 8"
-
-#: orb.models.ResourceFile.title:312
-msgid ""
-"Counseling Male Clients about Risk of Zika Infection in Areas WITHOUT Local "
-"Transmission"
-msgstr ""
-"Asesoramiento para clientes masculinos sobre el riesgo de infección por Zika"
-" en áreas SIN transmisión local"
 
 #: orb.models.ResourceFile.title:267
 msgid "Material de apoyo #3"
@@ -149,10 +127,6 @@ msgstr "Material de apoyo n.º 6"
 #: orb.models.ResourceFile.title:269
 msgid "Material de apoyo #5"
 msgstr "Material de apoyo n.º 5"
-
-#: orb.models.ResourceFile.title:268
-msgid "Material de apoyo #4"
-msgstr "Material de apoyo n.º 4"
 
 #: orb.models.ResourceFile.title:278
 msgid "m4RH Basic messages, Swahili"
@@ -183,12 +157,6 @@ msgid "Zika Virus Protection for Outdoor Workers - QuickCard"
 msgstr ""
 "Protección contra el virus del Zika para personas que trabajan al aire libre"
 " - Tarjeta de referencia rápida"
-
-#: orb.models.ResourceFile.title:289
-msgid "Providing Client-Centered Contraceptive Counseling and Education"
-msgstr ""
-"Brindar asesoramiento e información centrada en los clientes sobre "
-"anticonceptivos"
 
 #: orb.models.ResourceFile.title:194
 msgid ""
@@ -317,12 +285,6 @@ msgstr ""
 "Asesoramiento medido y orientado para salud y nutrición 1.º edición "
 "(Español): Libros de Visitas"
 
-#: orb.models.ResourceFile.title:283
-msgid "Important Information about Zika for people living in areas with Zika"
-msgstr ""
-"Información importante sobre el Zika para personas que viven en áreas donde "
-"esta enfermedad está presente"
-
 #: orb.models.ResourceFile.title:165
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 1st Edition "
@@ -334,14 +296,6 @@ msgstr ""
 #: orb.models.ResourceFile.title:221
 msgid "Pneumonia Education - African French - Caregiver Kit"
 msgstr "Información sobre neumonía – Francés africano – Kit para el cuidador"
-
-#: orb.models.ResourceFile.title:313
-msgid ""
-"Protecting Yourself and Others from Zika for women living in areas where "
-"mosquitoes are not spreading Zika"
-msgstr ""
-"Protegerse a usted misma y a los demás del Zika para mujeres que viven en "
-"áreas en las que los mosquitos no están propagando esta enfermedad"
 
 #: orb.models.ResourceFile.title:92
 msgid "Detailing Aid Skilled Providers (Africa - in English)"
@@ -358,14 +312,6 @@ msgstr "Afiches sobre transmisión sexual del Zika"
 #: orb.models.ResourceFile.description:125
 msgid "LDC - Ethiopia"
 msgstr "Cuidado durante el Trabajo de Parto y el Parto (LDC) - Etiopía"
-
-#: orb.models.ResourceFile.title:262
-msgid ""
-"Lista de Control para la consulta con el medico: Para las mujeres "
-"embarazadas que viajaron a un area con zika"
-msgstr ""
-"Lista de control para la consulta con el médico: para las mujeres "
-"embarazadas que viajaron a un área con Zika"
 
 #: orb.models.ResourceFile.description:128
 msgid "NUT - Global"
@@ -401,13 +347,6 @@ msgid ""
 msgstr ""
 "Información sobre neumonía – Inglés sudasiático – Historia de cuidador con "
 "trabajador de la salud"
-
-#: orb.models.ResourceFile.title:284
-msgid ""
-"Protecting Yourself and Others from Zika for women living in areas with Zika"
-msgstr ""
-"Protegerse a usted misma y a los demás del Zika para mujeres que viven en "
-"áreas con Zika"
 
 #: orb.models.ResourceFile.title:203
 msgid ""
@@ -448,12 +387,6 @@ msgstr ""
 "Rotafolio de asesoramiento sobre síntomas, complicaciones, tratamiento y "
 "prevención del dengue, el chikungunya y el Zika."
 
-#: orb.models.ResourceFile.title:257
-msgid "For Women: A Positive Zika Virus Test- What does it mean for me?"
-msgstr ""
-"Para mujeres: Resultado positivo en la prueba de detección del virus del "
-"Zika: ¿qué implica esto para mí?"
-
 #: orb.models.ResourceFile.title:241
 msgid "Respuesta de los CDC ante el zika"
 msgstr "Respuesta de los CDC ante el zika"
@@ -462,14 +395,6 @@ msgstr "Respuesta de los CDC ante el zika"
 msgid "Pneumonia Education - South Asian English - Caregiver Flier"
 msgstr ""
 "Información sobre neumonía – Inglés sudasiático – Panfleto para el cuidador"
-
-#: orb.models.ResourceFile.title:307
-msgid ""
-"Initial Screening Questions for Female and Male Clients in Areas WITHOUT "
-"Local Transmission"
-msgstr ""
-"Preguntas iniciales de exploración para clientes femeninos y masculinos en "
-"áreas SIN transmisión local"
 
 #: orb.models.ResourceFile.title:245
 msgid ""
@@ -494,14 +419,6 @@ msgstr "Planificación Familiar (FP) - Global"
 msgid "Timed and Targeted Counselling (french). Livres des histoires"
 msgstr "Asesoramiento medido y orientado (Francés). Livres des histoires"
 
-#: orb.models.ResourceFile.title:314
-msgid ""
-"What Men Need to Know about Zika for men living in areas where mosquitoes "
-"are not spreading Zika"
-msgstr ""
-"Lo que los hombres deben saber sobre el Zika para hombres que viven en áreas"
-" en las que los mosquitos no están propagando esta enfermedad"
-
 #: orb.models.ResourceFile.title:199
 msgid "Pneumonia Education - African French - Caregiver Flier"
 msgstr ""
@@ -525,14 +442,6 @@ msgid ""
 msgstr ""
 "Asesoramiento medido y orientado para salud y nutrición 2.º edición: Manual "
 "para hogares"
-
-#: orb.models.ResourceFile.title:308
-msgid ""
-"Counseling Female Clients about Risk of Zika Infection in Areas WITHOUT "
-"Local Transmission"
-msgstr ""
-"Asesoramiento para clientes femeninos sobre el riesgo de infección por Zika "
-"en áreas SIN transmisión local"
 
 #: orb.models.ResourceFile.title:159
 msgid ""
@@ -561,14 +470,6 @@ msgstr ""
 #: orb.models.ResourceFile.title:281
 msgid "m4RH Youth messages, English"
 msgstr "Mensajes para los jóvenes de m4RH, Inglés"
-
-#: orb.models.ResourceFile.title:291
-msgid ""
-"Strategies to Prevent Zika Virus and its Consequences for Clients Living in "
-"Areas WITH Local Transmission"
-msgstr ""
-"Estrategias para prevenir el virus del Zika y sus consecuencias para "
-"clientes que viven en áreas CON transmisión local"
 
 #: orb.models.ResourceFile.title:296
 msgid ""
@@ -609,14 +510,6 @@ msgid "Pneumonia Education - African Muslim French - Caregiver Poster"
 msgstr ""
 "Información sobre neumonía - Francés africano musulmán - Afiche para el "
 "cuidador"
-
-#: orb.models.ResourceFile.title:287
-msgid ""
-"Initial Screening Questions for Female and Male Clients in Areas WITH Local "
-"Transmission"
-msgstr ""
-"Preguntas iniciales de exploración para clientes femeninos y masculinos en "
-"áreas CON transmisión local"
 
 #: orb.models.ResourceFile.title:217
 msgid "Pneumonia Education - African Muslim English - Caregiver Kit"
@@ -730,14 +623,6 @@ msgstr ""
 msgid "m4RH Plus messages, Swahili"
 msgstr "Mensajes adicionales de m4RH, Swahili"
 
-#: orb.models.ResourceFile.title:309
-msgid ""
-"Providing Client-Centered Contraceptive Counseling and Education for areas "
-"WITHOUT Zika"
-msgstr ""
-"Brindar asesoramiento e información centrada en los clientes sobre "
-"anticonceptivos para áreas SIN Zika"
-
 #: orb.models.ResourceFile.title:156
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 2nd Edition. "
@@ -792,14 +677,6 @@ msgstr ""
 msgid "Poster (in English)"
 msgstr "Afiche (en inglés)"
 
-#: orb.models.ResourceFile.title:288
-msgid ""
-"Counseling Female Clients about Risk of Zika Infection in Areas WITH Local "
-"Transmission"
-msgstr ""
-"Asesoramiento para clientes femeninos sobre el riesgo de infección por Zika "
-"en áreas CON transmisión local"
-
 #: orb.models.ResourceFile.title:84
 msgid "Protein: Body Building Foods"
 msgstr "Proteínas: alimentos que desarrollan masa muscular"
@@ -853,10 +730,6 @@ msgstr ""
 "Información sobre neumonía - Francés africano musulmán - Panfleto para "
 "trabajadores de la salud"
 
-#: orb.models.ResourceFile.title:254 orb.models.ResourceFile.title:255
-msgid "5 Premye Bagay Tout Moun Bezwen Konnen Sou Zika"
-msgstr "5 Premye Bagay Tout Moun Bezwen Konnen Sou Zika"
-
 #: orb.models.ResourceFile.title:294
 msgid ""
 "Informacion importante sobre el Zika para persona viviendo en areas donde "
@@ -883,14 +756,6 @@ msgstr ""
 msgid "IM - Global"
 msgstr "Vacunación (IM) - Global"
 
-#: orb.models.ResourceFile.title:310
-msgid ""
-"Strategies to Prevent Zika Virus and its Consequences for Clients Living in "
-"Areas WITHOUT Local Transmission"
-msgstr ""
-"Estrategias para prevenir el virus del Zika y sus consecuencias para "
-"clientes que viven en áreas SIN transmisión local"
-
 #: orb.models.ResourceFile.title:219
 msgid ""
 "Pneumonia Education - African Muslim French - Health Worker Training (with "
@@ -902,14 +767,6 @@ msgstr ""
 #: orb.models.ResourceFile.title:246
 msgid "Health Ministers Guide on Zika"
 msgstr "Guía sobre el Zika para ministros de salud"
-
-#: orb.models.ResourceFile.title:305
-msgid ""
-"Important Information about Zika for people living in areas where mosquitoes"
-" are not spreading Zika"
-msgstr ""
-"Información importante sobre el Zika para personas que viven en áreas donde "
-"los mosquitos no están propagando esta enfermedad"
 
 #: orb.models.ResourceFile.title:298
 msgid ""
@@ -927,22 +784,6 @@ msgstr "Afiche sobre signos de peligro (Francés)"
 msgid "Questions and Answers (French)"
 msgstr "Preguntas y respuestas (Francés)"
 
-#: orb.models.ResourceFile.title:286
-msgid ""
-"Family Planning Counseling Process for Female Clients in Areas WITH Local "
-"Transmission"
-msgstr ""
-"Proceso de asesoramiento para la planificación familiar para clientes "
-"femeninos en áreas CON transmisión local"
-
-#: orb.models.ResourceFile.title:306
-msgid ""
-"Family Planning Counseling Process for Female Clients in Areas WITHOUT Local"
-" Transmission"
-msgstr ""
-"Proceso de asesoramiento para la planificación familiar para clientes "
-"femeninos en áreas SIN transmisión local"
-
 #: orb.models.ResourceFile.title:223
 msgid "Pneumonia Education - African Muslim French - Caregiver Kit"
 msgstr ""
@@ -958,12 +799,6 @@ msgid "IMNCI Part 1 - Ethiopia"
 msgstr ""
 "Tratamiento Integrado de Enfermedades Infantiles y del Recién Nacido (IMNCI)"
 " Parte 1 - Etiopía"
-
-#: orb.models.ResourceFile.title:292
-msgid "Who Needs Testing for Zika Virus? Areas WITH Local Transmission"
-msgstr ""
-"¿Quién necesita pruebas de detección del virus del Zika? Áreas CON "
-"transmisión local"
 
 #: orb.models.ResourceFile.title:235
 msgid ""
@@ -1009,10 +844,6 @@ msgstr ""
 msgid "AYRH - Ethiopia"
 msgstr "Salud Reproductiva de Adolescentes y Jóvenes (AYRH) - Etiopía"
 
-#: orb.models.ResourceFile.title:252
-msgid "Top 5 Things Everyone Needs to Know About Zika"
-msgstr "Los 5 datos principales que todos necesitan saber sobre el Zika"
-
 #: orb.models.ResourceFile.title:274
 msgid "Protegiendose a usted misma y a otros del Zika"
 msgstr "Protegerse a usted misma y a otros del Zika"
@@ -1030,14 +861,6 @@ msgid ""
 msgstr ""
 "Proceso de asesoramiento para la planificación familiar para clientes "
 "femeninos en áreas SIN transmisión local"
-
-#: orb.models.ResourceFile.title:293
-msgid ""
-"Counseling Male Clients about Risk of Zika Infection in Areas WITH Local "
-"Transmission"
-msgstr ""
-"Asesoramiento para clientes masculinos sobre el riesgo de infección por Zika"
-" en áreas CON transmisión local"
 
 #: orb.models.ResourceFile.title:304
 msgid ""
@@ -1091,12 +914,6 @@ msgid "Pneumonia Education - African French - Caregiver Poster"
 msgstr ""
 "Información sobre neumonía - Francés africano - Afiche para el cuidador"
 
-#: orb.models.ResourceFile.title:285
-msgid "What Men Need to Know about Zika for people living in areas with Zika"
-msgstr ""
-"Lo que los hombres deben saber sobre el Zika para personas que viven en "
-"áreas en las que existe esta enfermedad"
-
 #: orb.models.ResourceFile.title:166
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 1st Edition "
@@ -1120,7 +937,3 @@ msgid ""
 msgstr ""
 "Información sobre neumonía - Francés africano musulmán - Capacitación para "
 "trabajadores de la salud (sin amoxicilina)"
-
-#: orb.models.ResourceFile.title:259
-msgid "El Zika y las Relaciones Sexuales"
-msgstr "El Zika y las relaciones sexuales"

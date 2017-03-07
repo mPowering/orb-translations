@@ -98,11 +98,6 @@ msgstr ""
 "visite&nbsp;<a "
 "href=\\\"http://www.lifesavingcommodities.org/pneumonia\\\">http://www.lifesavingcommodities.org/pneumonia</a></p>"
 
-#: orb.models.Resource.description:502
-msgid "<p>Material de apoyo #5:&nbsp;Opciones de metodos anticonceptivos</p>"
-msgstr ""
-"<p>Material de apoyo n.º 5:&nbsp;Opciones de métodos anticonceptivos</p>"
-
 #: orb.models.Resource.title:150
 msgid "Is your child sick? Diarrhoea?"
 msgstr "¿Está enfermo/a su hijo/a? ¿Diarrea?"
@@ -140,7 +135,7 @@ msgstr ""
 msgid "Inserting a Gastric Tube"
 msgstr "Inserción de un tubo gástrico"
 
-#: orb.models.Resource.description:462 orb.models.Resource.description:463
+#: orb.models.Resource.description:463
 msgid ""
 "<p>This fact sheet advises women who are not pregnant but have tested "
 "positive for Zika how to best care for themselves and avoid spreading Zika "
@@ -257,10 +252,6 @@ msgstr "Material de apoyo n.º 6"
 #: orb.models.Resource.title:474
 msgid "Material de apoyo #5"
 msgstr "Material de apoyo n.º 5"
-
-#: orb.models.Resource.title:473
-msgid "Material de apoyo #4"
-msgstr "Material de apoyo n.º 4"
 
 #: orb.models.Resource.description:425
 msgid ""
@@ -914,14 +905,6 @@ msgstr ""
 "la planificación familiar, y problemas médicos durante el embarazo y el "
 "puerperio.</p>"
 
-#: orb.models.Resource.title:515
-msgid ""
-"What Men Need to Know about Zika for men living in areas where mosquitoes "
-"are not spreading Zika"
-msgstr ""
-"Lo que los hombres deben saber sobre el Zika para hombres que viven en áreas"
-" en las que los mosquitos no están propagando esta enfermedad"
-
 #: orb.models.Resource.title:246
 msgid "Importance of immunization"
 msgstr "Importancia de la vacunación"
@@ -1080,7 +1063,7 @@ msgid "Pneumonia Education - African French - Caregiver Flier"
 msgstr ""
 "Información sobre neumonía – Francés africano – Folleto para el cuidador"
 
-#: orb.models.Resource.description:466 orb.models.Resource.description:467
+#: orb.models.Resource.description:466
 msgid ""
 "<p>Checklist of questions healthworkers should discuss with a pregnant woman"
 " who traveled to an area impacted by Zika.</p>"
@@ -1240,14 +1223,6 @@ msgstr ""
 msgid "Zika Action Guide for Health Ministers"
 msgstr "Guía de acciones contra el Zika para ministros de salud"
 
-#: orb.models.Resource.title:511
-msgid ""
-"Strategies to Prevent Zika Virus and its Consequences for Clients Living in "
-"Areas WITHOUT Local Transmission"
-msgstr ""
-"Estrategias para prevenir el virus del Zika y sus consecuencias para "
-"clientes que viven en áreas SIN transmisión local"
-
 #: orb.models.Resource.description:322
 msgid "<p>Best Way to Treat Detail Aid 2 for Frontline Workers</p>"
 msgstr ""
@@ -1299,10 +1274,6 @@ msgstr ""
 #: orb.models.Resource.title:355
 msgid "Growing Up"
 msgstr "Crecer"
-
-#: orb.models.Resource.description:490
-msgid "<p>Family Planning Job aid.</p>"
-msgstr "<p>Recurso de ayuda para la planificación familiar.</p>"
 
 #: orb.models.Resource.title:289
 msgid "Energy Foods"
@@ -2001,15 +1972,6 @@ msgstr ""
 "Servicios de planificación familiar adecuados para jóvenes - Sesgo del "
 "proveedor (Negativo)"
 
-#: orb.models.Resource.description:507
-msgid ""
-"<p>Job Tool #1: Family planning counseling for femail clients in areas "
-"without local Zika transmission.&nbsp;</p>"
-msgstr ""
-"<p>Herramienta de trabajo n.º 1: Asesoramiento para la planificación "
-"familiar para clientes femeninos en áreas sin transmisión local del "
-"Zika.&nbsp;</p>"
-
 #: orb.models.Resource.title:168
 msgid "Treating Childhood Diarrhea (Short Version)"
 msgstr "Tratamiento de la diarrea infantil (versión corta)"
@@ -2088,12 +2050,6 @@ msgstr ""
 "width=\\\"560\\\" height=\\\"315\\\" "
 "src=\\\"https://www.youtube.com/embed/aDrDAXISDcI?rel=0&html5=1\\\" "
 "frameborder=\\\"0\\\" allowfullscreen></iframe></div>"
-
-#: orb.models.Resource.title:490
-msgid "Providing Client-Centered Contraceptive Counseling and Education"
-msgstr ""
-"Brindar asesoramiento e información centrada en los clientes sobre "
-"anticonceptivos"
 
 #: orb.models.Resource.title:354
 msgid "Project Ujjwal: Doctor Speaks on Use of Medical Abortion"
@@ -2181,23 +2137,9 @@ msgstr ""
 "familles les moyens d'am&eacute;liorer leurs &eacute;tats de sant&eacute; et"
 " pratiques sanitaires.</p>"
 
-#: orb.models.Resource.title:486
-msgid "What Men Need to Know about Zika for people living in areas with Zika"
-msgstr ""
-"Lo que los hombres deben saber sobre el Zika para personas que viven en "
-"áreas en las que existe esta enfermedad"
-
 #: orb.models.Resource.title:131
 msgid "Integrated Management of Newborn and Childhood Illnesses"
 msgstr "Tratamiento integrado de enfermedades del recién nacido y la niñez"
-
-#: orb.models.Resource.description:508
-msgid ""
-"<p>Job Aid #2:Initial Screening Questions for Female and Male Clients in "
-"Areas WITHOUT Local Transmission.</p>"
-msgstr ""
-"<p>Recurso de ayuda n.º 2: Preguntas iniciales de exploración para clientes "
-"femeninos y masculinos en áreas SIN transmisión local.</p>"
 
 #: orb.models.Resource.title:342
 msgid "Urban Health Initiative Behavioral Film: Post Partum"
@@ -2224,10 +2166,6 @@ msgstr ""
 #: orb.models.Resource.title:244
 msgid "Benefits of safe drinking water"
 msgstr "Beneficios del agua potable segura"
-
-#: orb.models.Resource.title:464
-msgid "El Zika y las Relaciones Sexuales"
-msgstr "El Zika y las relaciones sexuales"
 
 #: orb.models.Resource.title:210
 msgid "Complementary feeding for children aged 12 to 24 months"
@@ -2291,10 +2229,6 @@ msgstr ""
 "defectos de nacimiento. Trata sobre modos de herencia, asesoramiento médico "
 "genético, defectos de nacimiento debido a anormalidades cromosómicas, "
 "defectos genéticos únicos, teratogénesis y herencia multifactorial.</p>"
-
-#: orb.models.Resource.title:502
-msgid "Opciones de metodos anticonceptivos"
-msgstr "Opciones de métodos anticonceptivos"
 
 #: orb.models.Resource.title:320
 msgid "Training Presentation Frontline Providers - Africa"
@@ -2368,14 +2302,6 @@ msgstr ""
 "title=\\\"Understanding family planning (short &ndash; Southeast Asia)\\\" "
 "src=\\\"https://player.vimeo.com/video/169217917\\\" frameborder=\\\"0\\\" "
 "width=\\\"500\\\" height=\\\"281\\\"></iframe></div>"
-
-#: orb.models.Resource.title:492
-msgid ""
-"Strategies to Prevent Zika Virus and its Consequences for Clients Living in "
-"Areas WITH Local Transmission"
-msgstr ""
-"Estrategias para prevenir el virus del Zika y sus consecuencias para "
-"clientes que viven en áreas CON transmisión local"
 
 #: orb.models.Resource.description:255
 msgid ""
@@ -2452,14 +2378,6 @@ msgstr "Proyecto Ujjwal: Médico habla sobre el posparto"
 #: orb.models.Resource.title:327
 msgid "Early Initiation of Breastfeeding"
 msgstr "Iniciación temprana de la lactancia materna"
-
-#: orb.models.Resource.title:513
-msgid ""
-"Counseling Male Clients about Risk of Zika Infection in Areas WITHOUT Local "
-"Transmission"
-msgstr ""
-"Asesoramiento para clientes masculinos sobre el riesgo de infección por Zika"
-" en áreas SIN transmisión local"
 
 #: orb.models.Resource.description:269
 msgid ""
@@ -2546,7 +2464,7 @@ msgstr ""
 "pobreza y la injusticia. World Vision presta servicio a todas las personas, "
 "independientemente de su religión, raza, etnicidad o género.</p>"
 
-#: orb.models.Resource.description:464 orb.models.Resource.description:465
+#: orb.models.Resource.description:465
 msgid ""
 "<p>This fact sheet explains basic facts about sexual transmission of Zika "
 "and how men can reduce the risk of transmission to their partners.</p>"
@@ -2603,12 +2521,6 @@ msgid "Diarrhoea Management: Pre Test/Post Test for Skilled Providers"
 msgstr ""
 "Tratamiento de la diarrea: pruebas preliminares y posteriores para "
 "proveedores capacitados"
-
-#: orb.models.Resource.description:491
-msgid "<p>Family planning job aid about birth control method options.</p>"
-msgstr ""
-"<p>Recurso de ayuda para la planificación familiar en relación con las "
-"opciones de métodos de control de natalidad.</p>"
 
 #: orb.models.Resource.description:335
 msgid ""
@@ -2828,14 +2740,6 @@ msgstr ""
 "Información sobre neumonía - Francés africano musulmán - Capacitación para "
 "trabajadores de la salud (con amoxicilina)"
 
-#: orb.models.Resource.description:506
-msgid ""
-"<p>If a woman gets Zika while she is pregnant, she may have a miscarriage or"
-" her baby may be born with serious birth defects.</p>"
-msgstr ""
-"<p>Si una mujer contrae Zika mientras está embarazada, puede tener un aborto"
-" espontáneo o su bebé puede nacer con defectos congénitos graves.</p>"
-
 #: orb.models.Resource.description:271
 msgid ""
 "This video describes how to make nutrient rich food with local ingredients "
@@ -2895,13 +2799,6 @@ msgid "Pneumonia Education - Muslim African English - Health Worker Flier"
 msgstr ""
 "Información sobre neumonía – Inglés africano musulmán – Panfleto para "
 "trabajadores de la salud"
-
-#: orb.models.Resource.title:485
-msgid ""
-"Protecting Yourself and Others from Zika for women living in areas with Zika"
-msgstr ""
-"Protegerse a usted misma y a los demás del Zika para mujeres que viven en "
-"áreas con Zika"
 
 #: orb.models.Resource.title:396
 msgid ""
@@ -3000,14 +2897,6 @@ msgstr "Septicemia del recién nacido (Actualización)"
 #: orb.models.Resource.title:317
 msgid "Training Presentation Skilled Providers - Nigeria"
 msgstr "Presentación para capacitación de proveedores capacitados - Nigeria"
-
-#: orb.models.Resource.description:485
-msgid ""
-"<p>2-page document. Important information for women living in areas with "
-"Zika.&nbsp;</p>"
-msgstr ""
-"<p>Documento de 2 páginas. Información importante para mujeres que viven en "
-"áreas donde el Zika está presente&nbsp;</p>"
 
 #: orb.models.Resource.title:161
 msgid "Cervical Cancer: Screening and Treatment Options"
@@ -3207,14 +3096,6 @@ msgstr ""
 "center;\\\"><iframe title=\\\"How to care for a newborn baby: the first "
 "hours a baby is born\\\" src=\\\"https://player.vimeo.com/video/39194120\\\""
 " frameborder=\\\"0\\\" width=\\\"500\\\" height=\\\"281\\\"></iframe></div>"
-
-#: orb.models.Resource.description:514
-msgid ""
-"<p>Protecting Yourself and Others from Zika for women living in areas where "
-"mosquitoes are not spreading Zika</p>"
-msgstr ""
-"<p>Protegerse a usted misma y a los demás del Zika para mujeres que viven en"
-" áreas en las que los mosquitos no están propagando esta enfermedad</p>"
 
 #: orb.models.Resource.description:136
 msgid ""
@@ -3572,10 +3453,6 @@ msgstr "Importancia de la vacuna contra la poliomielitis"
 msgid "Detailing Aid Frontline Providers"
 msgstr "Detalles para proveedores de ayuda de primera línea"
 
-#: orb.models.Resource.title:459
-msgid "5 Premye Bagay Tout Moun Bezwen Donnen Sou Zika"
-msgstr "5 Premye Bagay Tout Moun Bezwen Donnen Sou Zika"
-
 #: orb.models.Resource.title:345
 msgid "Project Ujjwal: Doctor Speaks on Female Sterilization"
 msgstr "Proyecto Ujjwal: Médico habla sobre la esterilización femenina"
@@ -3646,14 +3523,6 @@ msgid ""
 msgstr ""
 "Información sobre neumonía – Inglés africano – Capacitación para "
 "trabajadores de la salud (con amoxicilina)"
-
-#: orb.models.Resource.description:509
-msgid ""
-"<p>Job Aid #3:&nbsp;Counseling Female Clients about Risk of Zika Infection "
-"in Areas WITHOUT Local Transmission.</p>"
-msgstr ""
-"<p>Recurso de ayuda n.º 3: Asesoramiento para clientes femeninos sobre el "
-"riesgo de infección por Zika en áreas SIN transmisión local.</p>"
 
 #: orb.models.Resource.title:432
 msgid "A Training Film for Fistula Nurses"
@@ -3874,12 +3743,6 @@ msgstr ""
 "src=\\\"https://www.youtube.com/embed/KTgDBCwIHBw?rel=0&html5=1\\\" "
 "frameborder=\\\"0\\\" allowfullscreen></iframe></div>"
 
-#: orb.models.Resource.title:484
-msgid "Important Information about Zika for people living in areas with Zika"
-msgstr ""
-"Información importante sobre el Zika para personas que viven en áreas donde "
-"esta enfermedad está presente"
-
 #: orb.models.Resource.description:151
 msgid ""
 "<p>This film focuses on identifying malaria, and why it is important to seek"
@@ -3913,15 +3776,6 @@ msgstr ""
 "center;\\\"><iframe "
 "src=\\\"https://www.youtube.com/embed/0mUlyeTIQ_8?rel=0&amp;html5=1\\\" "
 "frameborder=\\\"0\\\" width=\\\"560\\\" height=\\\"315\\\"></iframe></div>"
-
-#: orb.models.Resource.description:459 orb.models.Resource.description:460
-msgid ""
-"<p>The CDC provides an infographic listing the top 5 things everyone needs "
-"to know about Zika.</p>\\r\\n<p>&nbsp;</p>"
-msgstr ""
-"<p>Los Centros para el Control de Enfermedades brindan una infografía que "
-"enumera los cinco factores principales que todos deben conocer acerca del "
-"Zika.</p>\\r\\n<p>&nbsp;</p>"
 
 #: orb.models.Resource.title:236
 msgid "Importance of B.C.G.Vaccine"
@@ -4082,14 +3936,6 @@ msgstr ""
 #: orb.models.Resource.title:147
 msgid "How to Care for a newborn (full length)"
 msgstr "Cómo cuidar a un recién nacido (completo)"
-
-#: orb.models.Resource.description:473
-msgid ""
-"<p>Proporcionar consejeria centrada en el cliente y educacion sobre "
-"anticonceptivos.</p>"
-msgstr ""
-"<p>Proporcionar asesoramiento centrado en el cliente e información sobre "
-"anticonceptivos.</p>"
 
 #: orb.models.Resource.title:413
 msgid "Pneumonia Education - South Asian English - Caregiver Kit"
@@ -4392,20 +4238,6 @@ msgstr ""
 "relatarse en nueve países: Bangladesh, República Democrática del Congo, "
 "&nbsp;Etiopía, India, Kenia, Níger, Nigeria, Tanzania y Uganda.&nbsp;</p>"
 
-#: orb.models.Resource.description:513
-msgid ""
-"<p>Job Aid #8:&nbsp;Counseling Male Clients about Risk of Zika Infection in "
-"Areas WITHOUT Local Transmission.</p>"
-msgstr ""
-"<p>Recurso de ayuda n.º 8: Asesoramiento para clientes masculinos sobre el "
-"riesgo de infección por Zika en áreas SIN transmisión local.</p>"
-
-#: orb.models.Resource.title:512
-msgid "Who Needs Testing for Zika Virus? Areas WITHOUT Local Transmission"
-msgstr ""
-"¿Quién necesita pruebas de detección del virus del Zika? Áreas SIN "
-"transmisión local"
-
 #: orb.models.Resource.title:230
 msgid "Birth Preparedness"
 msgstr "Preparación para el nacimiento"
@@ -4441,10 +4273,6 @@ msgstr ""
 "cordón.</p>\\r\\n<div style=\\\"text-align: center;\\\"><iframe "
 "src=\\\"https://www.youtube.com/embed/JnSqkt9Ny3U?rel=0&amp;html5=1\\\" "
 "frameborder=\\\"0\\\" width=\\\"560\\\" height=\\\"315\\\"></iframe></div>"
-
-#: orb.models.Resource.title:491
-msgid "Birth Control Method Options in countries WITH Zika"
-msgstr "Opciones de métodos de control de la natalidad en países CON Zika"
 
 #: orb.models.Resource.title:136
 msgid "What pregnant women need to eat"
@@ -4706,14 +4534,6 @@ msgstr ""
 msgid "Helping a Breastfeeding Mother"
 msgstr "Ayudar a una madre lactante"
 
-#: orb.models.Resource.description:512
-msgid ""
-"<p>Job Aid #7:&nbsp;Who Needs Testing for Zika Virus? Areas WITHOUT Local "
-"Transmission.</p>"
-msgstr ""
-"<p>Recurso de ayuda n.º 7:&nbsp;¿Quién necesita pruebas de detección del "
-"virus del Zika? Áreas SIN transmisión local.</p>"
-
 #: orb.models.Resource.title:207
 msgid "Importance of breastfeeding"
 msgstr "Importancia de la lactancia materna"
@@ -4768,33 +4588,9 @@ msgstr ""
 "conceptos erróneos comunes y respuestas a las primeras consultas. &nbsp;Esta"
 " película trata sobre el posparto.</p>"
 
-#: orb.models.Resource.title:514
-msgid ""
-"Protecting Yourself and Others from Zika for women living in areas where "
-"mosquitoes are not spreading Zika"
-msgstr ""
-"Protegerse a usted misma y a los demás del Zika para mujeres que viven en "
-"áreas en las que los mosquitos no están propagando esta enfermedad"
-
-#: orb.models.Resource.description:488
-msgid ""
-"<p>Job aid for family planning health screening people living in areas with "
-"local Zika transmission.</p>"
-msgstr ""
-"<p>Recurso de ayuda para pruebas de detección para la planificación familiar"
-" en personas que viven en áreas con transmisión local del Zika.</p>"
-
 #: orb.models.Resource.title:128
 msgid "Adolescent and Youth Reproductive Health"
 msgstr "Salud reproductiva de adolescentes y jóvenes"
-
-#: orb.models.Resource.title:467
-msgid ""
-"Lista de Control para la consulta con el medico: Para las mujeres "
-"embarazadas que viajaron a un area con zika"
-msgstr ""
-"Lista de control para la consulta con el médico: para las mujeres "
-"embarazadas que viajaron a un área con Zika"
 
 #: orb.models.Resource.description:92
 msgid ""
@@ -4880,14 +4676,6 @@ msgstr "Importancia del cuidado prenatal focalizado"
 msgid "Newborn Physical Exam"
 msgstr "Examen físico a un recién nacido"
 
-#: orb.models.Resource.title:510
-msgid ""
-"Providing Client-Centered Contraceptive Counseling and Education for areas "
-"WITHOUT Zika"
-msgstr ""
-"Brindar asesoramiento e información centrada en los clientes sobre "
-"anticonceptivos para áreas SIN Zika"
-
 #: orb.models.Resource.title:403
 msgid ""
 "Pneumonia Education - African Muslim French - Caregiver Story with Doctor"
@@ -4902,12 +4690,6 @@ msgstr "Sanidad y lavado de manos"
 #: orb.models.Resource.title:439
 msgid "Understanding warning signs in pregnancy (short)"
 msgstr "Comprender los signos de advertencia durante el embarazo (breve)"
-
-#: orb.models.Resource.title:462
-msgid "For Women: A Positive Zika Virus Test- What does it mean for me?"
-msgstr ""
-"Para mujeres: Resultado positivo en la prueba de detección del virus del "
-"Zika: ¿qué implica esto para mí?"
 
 #: orb.models.Resource.description:440
 msgid ""
@@ -5076,11 +4858,6 @@ msgstr ""
 "&mdash;traduciéndolo a otro idioma o modificándolo&mdash; le otorgaremos una"
 " licencia simple para la adaptación. Envíe un correo electrónico a&nbsp;<a "
 "href=\\\"mailto:m4RH@fhi360.org\\\">m4RH@fhi360.org</a>.</p>"
-
-#: orb.models.Resource.description:494 orb.models.Resource.description:492
-#: orb.models.Resource.description:493
-msgid "<p>Family planning job aid.</p>"
-msgstr "<p>Recurso de ayuda para la planificación familiar.</p>"
 
 #: orb.models.Resource.description:185
 msgid ""
@@ -5341,22 +5118,6 @@ msgstr ""
 msgid "Importance of iron folic acid tablet"
 msgstr "Importancia de los comprimidos de hierro y ácido fólico"
 
-#: orb.models.Resource.title:487
-msgid ""
-"Family Planning Counseling Process for Female Clients in Areas WITH Local "
-"Transmission"
-msgstr ""
-"Proceso de asesoramiento para la planificación familiar para clientes "
-"femeninos en áreas CON transmisión local"
-
-#: orb.models.Resource.description:486
-msgid ""
-"<p>2-page document with information for men who live in areas with Zika "
-"mosquitos.</p>"
-msgstr ""
-"<p>Documento de 2 páginas con información para hombres que viven en áreas "
-"donde hay mosquitos transmisores del Zika.</p>"
-
 #: orb.models.Resource.description:141
 msgid ""
 "<p>This film follows Neema, a village birth attendant, while she helps to "
@@ -5581,14 +5342,6 @@ msgstr ""
 "href=\\\"http://www.lifesavingcommodities.org/pneumonia\\\"><span "
 "class=\\\"s2\\\">http://www.lifesavingcommodities.org/pneumonia</span></a></span></p>"
 
-#: orb.models.Resource.title:489
-msgid ""
-"Counseling Female Clients about Risk of Zika Infection in Areas WITH Local "
-"Transmission"
-msgstr ""
-"Asesoramiento para clientes femeninos sobre el riesgo de infección por Zika "
-"en áreas CON transmisión local"
-
 #: orb.models.Resource.description:142
 msgid ""
 "<p>This film follows Neema, a village birth attendant, while she helps to "
@@ -5666,10 +5419,6 @@ msgid "Pneumonia Education - African Muslim French - Health Worker Flier"
 msgstr ""
 "Información sobre neumonía - Francés africano musulmán - Panfleto para "
 "trabajadores de la salud"
-
-#: orb.models.Resource.title:460
-msgid "5 Premye Bagay Tout Moun Bezwen Konnen Sou Zika"
-msgstr "5 Premye Bagay Tout Moun Bezwen Konnen Sou Zika"
 
 #: orb.models.Resource.description:468
 msgid ""
@@ -5835,14 +5584,6 @@ msgstr ""
 "care\\\" webkitallowfullscreen mozallowfullscreen "
 "allowfullscreen></iframe></div>"
 
-#: orb.models.Resource.title:507
-msgid ""
-"Family Planning Counseling Process for Female Clients in Areas WITHOUT Local"
-" Transmission"
-msgstr ""
-"Proceso de asesoramiento para la planificación familiar para clientes "
-"femeninos en áreas SIN transmisión local"
-
 #: orb.models.Resource.title:255
 msgid "LAM-Lactational Amenorrhea Method"
 msgstr "Método de la amenorrea de la lactancia (LAM)"
@@ -5864,20 +5605,6 @@ msgstr ""
 #: orb.models.Resource.title:260
 msgid "Family planning -Temporary methods"
 msgstr "Planificación familiar - Métodos temporarios"
-
-#: orb.models.Resource.description:484
-msgid ""
-"<p>If a woman gets Zika while she is pregnant, she may have a miscarriage or"
-" her baby may be born with serious birth defects.&nbsp;</p>"
-msgstr ""
-"<p>Si una mujer contrae Zika mientras está embarazada, puede tener un aborto"
-" espontáneo o su bebé puede nacer con defectos congénitos graves.&nbsp;</p>"
-
-#: orb.models.Resource.title:493
-msgid "Who Needs Testing for Zika Virus? Areas WITH Local Transmission"
-msgstr ""
-"¿Quién necesita pruebas de detección del virus del Zika? Áreas CON "
-"transmisión local"
 
 #: orb.models.Resource.description:290
 msgid ""
@@ -6001,10 +5728,6 @@ msgstr ""
 msgid "Postpartum Care"
 msgstr "Cuidado posparto"
 
-#: orb.models.Resource.title:457
-msgid "Top 5 Things Everyone Needs to Know About Zika"
-msgstr "Los 5 datos principales que todos necesitan saber sobre el Zika"
-
 #: orb.models.Resource.description:501
 msgid ""
 "<p>Material de apoyo #4:&nbsp;Aconsejando a los clientes femeninos sobre el "
@@ -6024,14 +5747,6 @@ msgid "Family Planning Youth Friendly Services  - Provider Bias (Positive)"
 msgstr ""
 "Servicios de planificación familiar adecuados para jóvenes - Sesgo del "
 "proveedor (Positivo)"
-
-#: orb.models.Resource.title:494
-msgid ""
-"Counseling Male Clients about Risk of Zika Infection in Areas WITH Local "
-"Transmission"
-msgstr ""
-"Asesoramiento para clientes masculinos sobre el riesgo de infección por Zika"
-" en áreas CON transmisión local"
 
 #: orb.models.Resource.title:240
 msgid "Severe Acute Malnutrition (SAM)"
@@ -6207,14 +5922,6 @@ msgstr ""
 "align:center;\\\"><iframe width=\\\"560\\\" height=\\\"315\\\" "
 "src=\\\"https://www.youtube.com/embed/DrjIfjKsKBI?rel=0&html5=1\\\" "
 "frameborder=\\\"0\\\" allowfullscreen></iframe></div>"
-
-#: orb.models.Resource.title:506
-msgid ""
-"Important Information about Zika for people living in areas where mosquitoes"
-" are not spreading Zika"
-msgstr ""
-"Información importante sobre el Zika para personas que viven en áreas donde "
-"los mosquitos no están propagando esta enfermedad"
 
 #: orb.models.Resource.title:335
 msgid "Urban Health Initiative Behavioral Film: Encouraging Condom Use"
@@ -6447,15 +6154,6 @@ msgid "Importance of Diphtheria, Pertussis and Tetanus (DPT) Vaccine"
 msgstr ""
 "Importancia de la vacuna contra la difteria, la tos ferina y el tétanos "
 "(DPT)"
-
-#: orb.models.Resource.description:458 orb.models.Resource.description:457
-msgid ""
-"<p>The CDC provides an infographic listing the top 5 things everyone needs "
-"to know about Zika.</p>"
-msgstr ""
-"<p>Los Centros para el Control de Enfermedades brindan una infografía que "
-"enumera los cinco factores principales que todos deben conocer acerca del "
-"Zika.</p>"
 
 #: orb.models.Resource.title:419
 msgid "Pneumonia Education - Muslim African English - Health Worker Kit"
@@ -6941,14 +6639,6 @@ msgstr ""
 "src=\\\"https://www.youtube.com/embed/TvFr3hqo76w?rel=0&html5=1\\\" "
 "frameborder=\\\"0\\\" allowfullscreen></iframe></div>"
 
-#: orb.models.Resource.description:489
-msgid ""
-"<p>Family Planning job aid for health workers to counsel women about Zika "
-"risks.&nbsp;</p>"
-msgstr ""
-"<p>Recurso de ayuda para la planificación familiar para que los trabajadores"
-" de la salud aconsejen a las mujeres sobre los riesgos del Zika.&nbsp;</p>"
-
 #: orb.models.Resource.title:199
 msgid "Eye Infections"
 msgstr "Infecciones oculares"
@@ -7365,14 +7055,6 @@ msgstr ""
 "Proyecto Ujjwal: Médico habla sobre la importancia de las píldoras "
 "anticonceptivas orales"
 
-#: orb.models.Resource.title:488
-msgid ""
-"Initial Screening Questions for Female and Male Clients in Areas WITH Local "
-"Transmission"
-msgstr ""
-"Preguntas iniciales de exploración para clientes femeninos y masculinos en "
-"áreas CON transmisión local"
-
 #: orb.models.Resource.title:368
 msgid "Preparing and Giving Oral Amoxicillin"
 msgstr "Preparación y administración de amoxicilina por vía oral"
@@ -7534,22 +7216,6 @@ msgid "Pneumonia Education - African Muslim French - Caregiver Flier"
 msgstr ""
 "Información sobre neumonía - Francés africano musulmán - Afiche para el "
 "cuidador"
-
-#: orb.models.Resource.description:487
-msgid ""
-"<p>Job Aid for family planning counselers for women living in areas with "
-"local Zika transmission.</p>"
-msgstr ""
-"<p>Recurso de ayuda para consejeros de planificación familiar para mujeres "
-"que viven en áreas con transmisión local del Zika.</p>"
-
-#: orb.models.Resource.title:509
-msgid ""
-"Counseling Female Clients about Risk of Zika Infection in Areas WITHOUT "
-"Local Transmission"
-msgstr ""
-"Asesoramiento para clientes femeninos sobre el riesgo de infección por Zika "
-"en áreas SIN transmisión local"
 
 #: orb.models.Resource.description:298
 msgid ""
@@ -7754,14 +7420,6 @@ msgstr "Pasos para un parto normal - SE de Asia"
 msgid "Permanent Methods of Family Planning"
 msgstr "Métodos permanentes de planificación familiar"
 
-#: orb.models.Resource.title:508
-msgid ""
-"Initial Screening Questions for Female and Male Clients in Areas WITHOUT "
-"Local Transmission"
-msgstr ""
-"Preguntas iniciales de exploración para clientes femeninos y masculinos en "
-"áreas SIN transmisión local"
-
 #: orb.models.Resource.description:371
 msgid ""
 "<p>This video shows important features of a home visit for a newborn in the "
@@ -7932,14 +7590,6 @@ msgstr ""
 " y Uganda.&nbsp;</p>\\r\\n<p class=\\\"p1\\\"><span class=\\\"s1\\\">Si "
 "desea obtener más información sobre esta campaña, visite&nbsp;<a "
 "href=\\\"http://www.lifesavingcommodities.org/pneumonia\\\">http://www.lifesavingcommodities.org/pneumonia</a></p>"
-
-#: orb.models.Resource.description:510
-msgid ""
-"<p>Job Aid #4- Contraceptive counseling for areas WITHOUT Zika transmission "
-"locally.</p>"
-msgstr ""
-"<p>Recurso de ayuda n.º 4: Asesoramiento sobre anticonceptivos para áreas "
-"SIN transmisión local del Zika.</p>"
 
 #: orb.models.Resource.description:171
 msgid ""
@@ -8276,14 +7926,6 @@ msgstr ""
 "dirigido por el&nbsp;Centro para Programas de Comunicación (CCP) de la "
 "Escuela de Salud Pública Johns Hopkins Bloomberg.</p>"
 
-#: orb.models.Resource.description:511
-msgid ""
-"<p>Job Aid #6:&nbsp;Strategies to Prevent Zika Virus and its Consequences "
-"for Clients Living in Areas WITHOUT Local Transmission.</p>"
-msgstr ""
-"<p>Recurso de ayuda n.º 6:&nbsp;Estrategias para prevenir el virus del Zika "
-"y sus consecuencias para clientes que viven en áreas SIN transmisión "
-"local.</p>"
 
 #: orb.models.Resource.title:423
 msgid "test"
@@ -8403,15 +8045,6 @@ msgstr ""
 "Uganda.&nbsp;</p>\\r\\n<p class=\\\"p1\\\">Si desea obtener más información "
 "sobre esta campaña, visite&nbsp;<a "
 "href=\\\"http://www.lifesavingcommodities.org/pneumonia\\\">http://www.lifesavingcommodities.org/pneumonia</a></p>"
-
-#: orb.models.Resource.description:515
-msgid ""
-"<p>&nbsp;</p>\\r\\n<p>What Men Need to Know about Zika for men living in "
-"areas where mosquitoes are not spreading Zika</p>"
-msgstr ""
-"<p>&nbsp;</p>\\r\\n<p>Lo que los hombres deben saber sobre el Zika para "
-"hombres que viven en áreas en las que los mosquitos no están propagando esta"
-" enfermedad</p>"
 
 #: orb.models.Resource.description:177
 msgid ""
