@@ -578,3 +578,14 @@ msgstr "Ver/Descargar en el sitio web de Global Health Media (Francés)"
 #: orb.models.ResourceURL.title:1006 orb.models.ResourceURL.title:1008
 msgid "View on YouTube (Korku)"
 msgstr "Ver en YouTube (Korku)"
+
+
+#: orb.models.ResourceURL.title:1702
+msgid "How to install and run offline on Android smartphone "
+msgstr ""
+"Cómo instalar y administrar sin conexión en un teléfono inteligente con "
+"Android "
+
+#: orb.models.ResourceURL.title:1703
+msgid "View and download all languages"
+msgstr "Ver y descargar todos los idiomas"

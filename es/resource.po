@@ -8208,3 +8208,249 @@ msgstr ""
 "bebés pequeños.</p><div style=\"text-align: center;\"><iframe "
 "src=\"https://www.youtube.com/embed/pteyGu6h8mY\" frameborder=\"0\" "
 "width=\"560\" height=\"315\"></iframe></div>"
+
+#: orb.models.Resource.title:522
+msgid "PNC Pre-Discharge Checklist"
+msgstr "Lista de verificación anterior al alta para cuidado prenatal (PNC)"
+
+#: orb.models.Resource.title:528
+msgid "Urban WASH: Working with People"
+msgstr "Agua, sanidad e higiene (WASH) urbana: trabajar con la gente"
+
+#: orb.models.Resource.description:520 orb.models.Resource.description:521
+msgid ""
+"<p>After birth, all mothers and newborns need to stay in the facility for at"
+" least 24 hours to receive necessary health checks, counseling and care "
+"before discharge.</p>"
+msgstr ""
+"<p>Después del nacimiento, todas las madres y recién nacidos necesitan "
+"permanecer en las instalaciones durante al menos 24 horas para recibir los "
+"controles de salud necesarios, asesoramiento y cuidado antes del alta.</p>"
+
+#: orb.models.Resource.description:526
+msgid ""
+"<p>Appreciation of the context for water, sanitation and hygiene (WASH) "
+"services is necessary if those services are to be effective and long "
+"lasting. This Module provides essential background to WASH by explaining "
+"broader topical issues such as sustainability, resilience, population "
+"growth, urbanisation, climate change and global policy. It also looks at the"
+" interconnections between people and their environment, and the science that"
+" underpins that relationship.</p>"
+msgstr ""
+"<p>Es necesario apreciar el contexto de los servicios de agua, sanidad e "
+"higiene (WASH) para que esos servicios sean eficaces y duraderos. Este "
+"Módulo brinda información esencial para WASH mediante la explicación de "
+"cuestiones tropicales más amplias, como la sustentabilidad, la resiliencia, "
+"el crecimiento de la población, la urbanización, el cambio climático y las "
+"políticas globales. También examina las interconexiones entre las personas y"
+" el medioambiente, y la ciencia que sustenta esa relación.</p>"
+
+#: orb.models.Resource.description:529
+msgid ""
+"<p>This Module focuses on water service delivery in urban settings, "
+"including water supply from large utility companies, access points within a "
+"town, tariff setting, cost recovery, regulation and management. It considers"
+" the challenges for WASH provision in areas of high-density population where"
+" lack of space is a problem. It sets out the options for water supply in an "
+"urban situation and considers opportunities for improvement and innovation "
+"in service delivery and management.</p>"
+msgstr ""
+"<p>Este Módulo se centra en la prestación de servicios de agua en entornos "
+"urbanos, incluido el suministro de agua de grandes compañías de servicios, "
+"puntos de acceso dentro de una ciudad, establecimiento de tarifas, "
+"recuperación de costos, regulación y gestión. Considera los desafíos para la"
+" provisión de WASH en áreas densamente pobladas, donde la falta de espacio "
+"es un problema. Establece las opciones para el suministro de agua en una "
+"situación urbana y considera oportunidades para la mejora y la innovación en"
+" la prestación y gestión de servicios.</p>"
+
+#: orb.models.Resource.attribution:522 orb.models.Resource.attribution:523
+#: orb.models.Resource.attribution:524 orb.models.Resource.attribution:520
+#: orb.models.Resource.attribution:521
+msgid ""
+"The Maternal and Child Survival Program (MCSP) is a global, USAID "
+"Cooperative Agreement to introduce and support high-impact health "
+"interventions with a focus on 25 high-priority countries with the ultimate "
+"goal of ending preventable child and maternal deaths (EPCMD) within a "
+"generation."
+msgstr ""
+"El Programa de Supervivencia Maternal e Infantil (MCSP) es un acuerdo global"
+" y cooperativo de USAID para implementar y apoyar intervenciones de salud de"
+" alto impacto con un enfoque en 25 países de alta prioridad, con el objetivo"
+" final de poner fin a las muertes infantiles y maternas (EPCMD) que pueden "
+"prevenirse en una generación."
+
+#: orb.models.Resource.description:519
+msgid ""
+"<p>We now have a Portuguese version of the&nbsp;MLLA Animated Training Video"
+" to add to the English and French copies.&nbsp;</p>"
+msgstr ""
+"<p>Ahora, tenemos una versión en portugués del Video de capacitación "
+"animado de MLLA para añadir a las copias en inglés y francés.</p>"
+
+#: orb.models.Resource.title:521
+msgid "Postnatal Care Bedside Pre-Discharge Poster- Asia Context"
+msgstr ""
+"Afiche de cuidado posnatal para pacientes hospitalizados antes del alta - "
+"Contexto de Asia"
+
+#: orb.models.Resource.title:524
+msgid "PNC Pre-Discharge Checklist Asia"
+msgstr ""
+"Lista de verificación anterior al alta para cuidado prenatal (PNC) - Asia"
+
+#: orb.models.Resource.attribution:519
+msgid ""
+"This animation is made possible by the generous support of the American "
+"people through the United States Agency for International Development "
+"(USAID) under the terms of the Cooperative Agreement AID-OAA-A-14-00028. The"
+" contents are the responsibility of the Maternal and Child Survival Program "
+"and do not necessarily reflect the views of USAID or the United States "
+"Government."
+msgstr ""
+"Esta animación es posible gracias al generoso aporte de los estadounidenses "
+"a través de la Agencia de los Estados Unidos para el Desarrollo "
+"Internacional (USAID) en virtud de los términos del Acuerdo de cooperación "
+"AID-OAA-A-14-00028. El contenido es responsabilidad del Programa de "
+"Supervivencia Maternal e Infantil, y no necesariamente refleja los puntos de"
+" vista de USAID o del Gobierno de Estados Unidos."
+
+#: orb.models.Resource.description:524
+msgid ""
+"<p>Complete checklist for all mothers and newborns before discharge from the"
+" birthing facility.</p>"
+msgstr ""
+"<p>Complete la lista de verificación para todas las madres y recién nacidos "
+"antes del alta de un centro de maternidad.</p>"
+
+#: orb.models.Resource.title:519
+msgid ""
+"Mini-Laparotomy for Tubal Ligation Under Local Anesthesia Animated Training "
+"Video"
+msgstr ""
+"Video animado sobre minilaparotomía para ligación de trompas con anestesia "
+"local"
+
+#: orb.models.Resource.description:527
+msgid ""
+"<p>Improved sanitation has proven benefits for human health, quality of life"
+" and poverty reduction. It is important for WASH practitioners to understand"
+" the drivers and barriers to sanitation in any given context to best serve "
+"communities and users. This Module is designed to equip students with "
+"knowledge of the importance of sanitation, the benefits, the methods and the"
+" main challenges. It also covers the disposal of solid domestic waste and "
+"the benefits of an integrated approach to waste management.</p>"
+msgstr ""
+"<p>Las mejoras en la higiene han demostrado beneficios para la salud humana,"
+" la calidad de vida y la reducción de la pobreza. Es importante que los "
+"profesionales de WASH comprendan los impulsores y las barreras de la higiene"
+" en cualquier contexto para servir mejor a las comunidades y usuarios. Este "
+"Módulo está diseñado para brindarles a los estudiantes conocimientos "
+"respecto de la importancia de la higiene, los beneficios, los métodos y los "
+"principales desafíos. También trata sobre el desecho de desperdicios "
+"domésticos sólidos y los beneficios de un enfoque integral para la gestión "
+"de los desechos.</p>"
+
+#: orb.models.Resource.description:522 orb.models.Resource.description:523
+msgid ""
+"<p>A complete checklist of items for every mother and newborn.&nbsp;</p>"
+msgstr ""
+"<p>Una lista completa de elementos para cualquier madre y recién "
+"nacido.&nbsp;</p>"
+
+#: orb.models.Resource.title:523
+msgid "PNC Pre-Discharge Checklist Africa"
+msgstr ""
+"Lista de verificación anterior al alta para cuidado prenatal (PNC) - África"
+
+#: orb.models.Resource.title:525
+msgid "Hygiene and Environmental Health"
+msgstr "Higiene y salud ambiental"
+
+#: orb.models.Resource.title:516
+msgid ""
+"Technical Laboratory Training Manual for Health Workers in the Context of "
+"Zika"
+msgstr ""
+"Manual de capacitación técnica de laboratorio para trabajadores de la salud "
+"en el contexto del Zika"
+
+#: orb.models.Resource.title:527
+msgid "Urban Sanitation and Solid Waste Management"
+msgstr "Higiene urbana y gestión de desechos sólidos"
+
+#: orb.models.Resource.title:530
+msgid "The Story of Cholera"
+msgstr "La historia del cólera"
+
+#: orb.models.Resource.description:516
+msgid ""
+"<p>Modulo 1- Gestao em Saude e Intersetorialidade</p><p>Modulo 2- "
+"Epidemiologia, Clinica e Prevencao a Exposicao ao Zika</p><p>Modulo 3-"
+" Saude da Mulher no Contexto Atual do Zika</p><p>Modulo 4- Saude da "
+"Crianca e Vigilancia em Saude</p><p>Modulo 5- Estimulacao "
+"precoce/Intervencao precoce</p>"
+msgstr ""
+"<p>Modulo 1- Gestao em Saude e Intersetorialidade</p><p>Modulo 2- "
+"Epidemiologia, Clinica e Prevencao a Exposicao ao Zika</p><p>Modulo 3-"
+" Saude da Mulher no Contexto Atual do Zika</p><p>Modulo 4- Saude da "
+"Crianca e Vigilancia em Saude</p><p>Modulo 5- Estimulacao "
+"precoce/Intervencao precoce</p>"
+
+#: orb.models.Resource.title:520
+msgid "Postnatal Care Bedside Pre-Discharge Poster- Africa Context"
+msgstr ""
+"Afiche de cuidado posnatal para pacientes hospitalizados antes del alta - "
+"Contexto de África"
+
+#: orb.models.Resource.description:525
+msgid ""
+"<div class=\"entry\"><p>This course provides first the theoretical"
+" basis, and then the practices on good hygiene and pro-environmental "
+"behaviour that are applicable at village level.</p></div>"
+msgstr ""
+"<div class=\"entry\"><p>Este curso brinda, en primer lugar, la "
+"base teórica, y luego las prácticas de buena higiene y conducta a favor del "
+"medioambiente que se aplican a nivel de las aldeas.</p></div>"
+
+#: orb.models.Resource.title:526
+msgid "WASH: Context and Environment"
+msgstr "WASH: contexto y medioambiente"
+
+#: orb.models.Resource.title:529
+msgid "Urban Water Supply"
+msgstr "Suministro urbano de agua"
+
+#: orb.models.Resource.description:528
+msgid ""
+"<p>New WASH services are far more likely to be effective and sustainable if "
+"the people using the services are able to participate in, or at least be "
+"aware of, their planning, design and management. This Module is designed to "
+"provide WASH technicians and other employees of service providers with a "
+"good understanding of the social, cultural, financial and institutional "
+"issues at the local level as well as knowledge of the rights and "
+"responsibilities of service users, such as how users may influence decision "
+"makers and ensure the service providers are accountable to their "
+"customers.</p>"
+msgstr ""
+"<p>Los nuevos servicios de WASH pueden ser mucho más eficaces y sustentables"
+" si las personas que los usan pueden participar, o al menos conocer, su "
+"planificación, diseño y gestión. Este Módulo está diseñado para brindarles a"
+" los técnicos de WASH y a otros empleados de proveedores de servicios una "
+"buena comprensión de los problemas sociales, culturales, financieros e "
+"institucionales a nivel local así como conocimientos acerca de los derechos "
+"y las responsabilidades de los usuarios de servicios, como la forma en que "
+"estos pueden influir sobre quienes toman decisiones y garantizar que los "
+"proveedores se responsabilicen ante sus clientes.</p>"
+
+#: orb.models.Resource.description:530
+msgid ""
+"<p>This animation - produced in collaboration with <a "
+"href=\"http://yonigoodman.com/\">Yoni Goodman</a> - covers cholera "
+"transmission, prevention, signs, and care in a simple and accessible "
+"way.</p>"
+msgstr ""
+"<p>Esta animación, producida en colaboración con <a "
+"href=\"http://yonigoodman.com/\">Yoni Goodman</a>, abarca temas como la "
+"transmisión, la prevención, los signos y el cuidado del cólera de manera "
+"simple y accesible.</p>"

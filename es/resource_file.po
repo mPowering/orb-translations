@@ -937,3 +937,108 @@ msgid ""
 msgstr ""
 "Información sobre neumonía - Francés africano musulmán - Capacitación para "
 "trabajadores de la salud (sin amoxicilina)"
+
+#: orb.models.ResourceFile.title:358
+msgid ""
+"Urban WASH: Working with People - Global version - Moodle backup format"
+msgstr ""
+"Agua, sanidad e higiene (WASH) urbana: trabajar con la gente - Versión "
+"global - Formato de copia de seguridad de Moodle"
+
+#: orb.models.ResourceFile.title:357
+msgid ""
+"Urban Sanitation and Solid Waste Management - Ethiopia version - Moodle "
+"backup format"
+msgstr ""
+"Higiene urbana y gestión de desechos sólidos - Versión de Etiopía - Formato "
+"de copia de seguridad de Moodle"
+
+#: orb.models.ResourceFile.title:360
+msgid "Urban Water Supply - Global version - Moodle backup format"
+msgstr ""
+"Suministro urbano de agua - Versión global - Formato de copia de seguridad "
+"de Moodle"
+
+#: orb.models.ResourceFile.title:344
+msgid "Mini-Laparotomia Sob Anestesia Local para Laqueação das Trompas"
+msgstr "Mini-Laparotomia Sob Anestesia Local para Laqueação das Trompas"
+
+#: orb.models.ResourceFile.title:359
+msgid ""
+"Urban WASH: Working with People - Ethiopia version - Moodle backup format"
+msgstr ""
+"Agua, sanidad e higiene (WASH) urbana: trabajar con la gente - Versión de "
+"Etiopía - Formato de copia de seguridad de Moodle"
+
+#: orb.models.ResourceFile.title:347
+msgid "PNC Pre-Discharge Checklist Africa"
+msgstr ""
+"Lista de verificación anterior al alta para cuidado prenatal (PNC) - África"
+
+#: orb.models.ResourceFile.title:316
+msgid ""
+"manual tecnico Laboratorio de formacao do trabalhador de saude no contexto "
+"do virus Zika"
+msgstr ""
+"manual tecnico Laboratorio de formacao do trabalhador de saude no contexto "
+"do virus Zika"
+
+#: orb.models.ResourceFile.title:352
+msgid "HEH Part 1 - Ethiopia: Moodle course backup "
+msgstr "HEH Parte 1 - Etiopía: copia de seguridad del curso de Moodle "
+
+#: orb.models.ResourceFile.title:355
+msgid ""
+"WASH: Context and Environment - Ethiopia version - Moodle backup format"
+msgstr ""
+"WASH: contexto y medioambiente - Versión de Etiopía - Formato de copia de "
+"seguridad de Moodle"
+
+#: orb.models.ResourceFile.title:353
+msgid "HEH Part 2 - Ethiopia: Moodle course backup"
+msgstr "HEH Parte 2 - Etiopía: copia de seguridad del curso de Moodle"
+
+#: orb.models.ResourceFile.title:354
+msgid "WASH: Context and Environment - Global version - Moodle backup format"
+msgstr ""
+"WASH: contexto y medioambiente - Versión global - Formato de copia de "
+"seguridad de Moodle"
+
+#: orb.models.ResourceFile.title:356
+msgid ""
+"Urban Sanitation and Solid Waste Management - Global version - Moodle backup"
+" format"
+msgstr ""
+"Higiene urbana y gestión de desechos sólidos - Versión global - Formato de "
+"copia de seguridad de Moodle"
+
+#: orb.models.ResourceFile.title:350
+msgid "HEH Part 1 - Global: Moodle course backup "
+msgstr "HEH Parte 1 - Etiopía: copia de seguridad del curso de Moodle "
+
+#: orb.models.ResourceFile.title:345
+msgid "Postnatal Care Bedside Pre-Discharge Poster- Africa Context"
+msgstr ""
+"Afiche de cuidado posnatal para pacientes hospitalizados antes del alta - "
+"Contexto de África"
+
+#: orb.models.ResourceFile.title:346
+msgid "Postnatal Care Bedside Pre-Discharge Poster- Asia Context"
+msgstr ""
+"Afiche de cuidado posnatal para pacientes hospitalizados antes del alta - "
+"Contexto de Asia"
+
+#: orb.models.ResourceFile.title:361
+msgid "Urban Water Supply - Ethiopia version - Moodle backup format"
+msgstr ""
+"Suministro urbano de agua - Versión de Etiopía - Formato de copia de "
+"seguridad de Moodle"
+
+#: orb.models.ResourceFile.title:348
+msgid "PNC Pre-Discharge Checklist Asia"
+msgstr ""
+"Lista de verificación anterior al alta para cuidado prenatal (PNC) - Asia"
+
+#: orb.models.ResourceFile.title:351
+msgid "HEH Part 2 - Global: Moodle course backup "
+msgstr "HEH Parte 2 - Etiopía: copia de seguridad del curso de Moodle "
