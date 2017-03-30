@@ -1,70 +1,16 @@
-# Translators:
-# Tomás Medeot <a1projects@alphaomegatranslations.com>, 2017
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-21 00:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Tomás Medeot <a1projects@alphaomegatranslations.com>, 2017\n"
-"Language-Team: Spanish (https://www.transifex.com/bennylope/teams/64448/es/)\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: orb.models.ResourceCriteria.description:16
-msgid "Is the resource written in clear, easy to understand language?"
-msgstr "¿Está el recurso redactado en lenguaje claro y fácil de comprender?"
-
-#: orb.models.ResourceCriteria.description:7
-msgid "Is the information clear, correct and authentic?"
-msgstr "¿Es la información clara, correcta y auténtica?"
-
-#: orb.models.ResourceCriteria.description:19
-msgid ""
-"Does the resource reflect current medical guidelines and best practice?"
-msgstr "¿Refleja el recurso pautas y mejores prácticas médicas actualizadas?"
-
-#: orb.models.ResourceCriteria.description:12
-msgid "Does the resource feel authentic to FLHWs in low-resource settings?"
-msgstr ""
-"En entornos de bajos recursos, ¿el recurso parece ser auténtico de Frontline"
-" Health Workers (FLHW)?"
-
-#: orb.models.ResourceCriteria.description:6
-msgid "Is the resource likely to help improve FLHW performance?"
-msgstr "¿Es posible que el recurso ayude a mejorar el desempeño de FLHW?"
-
-#: orb.models.ResourceCriteria.description:4
-msgid "Has the resource been produced to high technical quality?"
-msgstr ""
-"¿El recurso se ha producido de manera tal que ofrezca una alta calidad "
-"técnica?"
-
-#: orb.models.ResourceCriteria.description:3
-msgid ""
-"Is the resource suitable for the intended mobile delivery method/device?"
-msgstr ""
-"¿Es el recurso adecuado para el método/dispositivo móvil de aplicación "
-"previsto?"
-
-#: orb.models.ResourceCriteria.description:2
-msgid ""
-"Is the resource released under an open license (Creative Commons or public "
-"domain)?"
-msgstr ""
-"¿El recurso se publica con una licencia abierta (Creative Commons o dominio "
-"público)?"
-
-#: orb.models.ResourceCriteria.description:9
-msgid "Can FLHWs identify with the providers and patients in the resource?"
-msgstr "¿Puede FLHW identificar a los proveedores y pacientes del recurso?"
-
-#: orb.models.ResourceCriteria.description:5
-msgid "Does the resource have clear learning objectives?"
-msgstr "¿Tiene el recurso objetivos de aprendizaje claros?"
 
 #: orb.models.ResourceCriteria.description:1
 msgid ""
@@ -74,3 +20,55 @@ msgstr ""
 "¿Se adapta el recurso a la derivación de mPowering de salud reproductiva, "
 "materna, del recién nacido y el niño (incluida la nutrición y el agua, "
 "sanidad e higiene [WASH])?"
+
+#: orb.models.ResourceCriteria.description:2
+msgid ""
+"Is the resource released under an open license (Creative Commons or public "
+"domain)?"
+msgstr ""
+"¿El recurso se publica con una licencia abierta (Creative Commons o dominio "
+"público)?"
+
+#: orb.models.ResourceCriteria.description:3
+msgid ""
+"Is the resource suitable for the intended mobile delivery method/device?"
+msgstr ""
+"¿Es el recurso adecuado para el método/dispositivo móvil de aplicación "
+"previsto?"
+
+#: orb.models.ResourceCriteria.description:4
+msgid "Has the resource been produced to high technical quality?"
+msgstr ""
+"¿El recurso se ha producido de manera tal que ofrezca una alta calidad "
+"técnica?"
+
+#: orb.models.ResourceCriteria.description:5
+msgid "Does the resource have clear learning objectives?"
+msgstr "¿Tiene el recurso objetivos de aprendizaje claros?"
+
+#: orb.models.ResourceCriteria.description:6
+msgid "Is the resource likely to help improve FLHW performance?"
+msgstr "¿Es posible que el recurso ayude a mejorar el desempeño de FLHW?"
+
+#: orb.models.ResourceCriteria.description:7
+msgid "Is the information clear, correct and authentic?"
+msgstr "¿Es la información clara, correcta y auténtica?"
+
+#: orb.models.ResourceCriteria.description:9
+msgid "Can FLHWs identify with the providers and patients in the resource?"
+msgstr "¿Puede FLHW identificar a los proveedores y pacientes del recurso?"
+
+#: orb.models.ResourceCriteria.description:12
+msgid "Does the resource feel authentic to FLHWs in low-resource settings?"
+msgstr ""
+"En entornos de bajos recursos, ¿el recurso parece ser auténtico de Frontline"
+" Health Workers (FLHW)?"
+
+#: orb.models.ResourceCriteria.description:16
+msgid "Is the resource written in clear, easy to understand language?"
+msgstr "¿Está el recurso redactado en lenguaje claro y fácil de comprender?"
+
+#: orb.models.ResourceCriteria.description:19
+msgid ""
+"Does the resource reflect current medical guidelines and best practice?"
+msgstr "¿Refleja el recurso pautas y mejores prácticas médicas actualizadas?"
