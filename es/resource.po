@@ -6842,25 +6842,26 @@ msgstr ""
 
 #: orb.models.Resource.description:469
 msgid ""
-"<p>Si una mujer adquiere el Zika mientras esta embarazada, ella puede tener un aborto espontaneo o su bebe puede nacer con defectos congenitos graves.&nbsp;</p>\r\n"
-"<p>Zintomas del Zika.</p>\r\n"
-"<p>Protejase a usted y a otros del Zika</p>"
+"<p>One page job aid for health workers providing key information to men and "
+"women living in areas with local Zika transmission. </p>"
 msgstr ""
 "<p>Si una mujer contrae Zika mientras está embarazada, puede tener un aborto"
 " espontáneo o su bebé puede nacer con defectos congénitos "
-"graves.&nbsp;</p><p>Síntomas del Zika.</p><p>Protegerse a sí misma y a otros"
-" del Zika</p>"
+"graves.</p><p>Síntomas del Zika.</p><p>Protegerse a sí misma y a otros del "
+"Zika</p>"
 
 #: orb.models.Resource.title:470
 msgid ""
 "Family Planning Counseling Process for Female Clients in Areas WITH Local "
 "Transmission "
-msgstr "Material de apoyo n.º 1"
+msgstr ""
+"Proceso de consejeria sobre planificacion familiar para clientes femeninos "
+"en areas con transmision local."
 
 #: orb.models.Resource.description:470
 msgid ""
-"<p>Proceso de consejeria sobre planificacion familiar para clientes "
-"femeninos en areas con transmision local.</p>"
+"<p>Job aid guidance for health workers who counsel female clients regarding "
+"Zika in areas with local transmission</p>"
 msgstr ""
 "<p>Proceso de asesoramiento para la planificación familiar para clientes "
 "femeninos en áreas con transmisión local.</p>"
@@ -6869,12 +6870,15 @@ msgstr ""
 msgid ""
 "Initial Screening Questions for Female and Male Clients in Areas WITH Local "
 "Transmission "
-msgstr "Material de apoyo n.º 2"
+msgstr ""
+"Preguntas de chequeo inicial para clientes femeninos y masculinos en areas "
+"CON transmision local."
 
 #: orb.models.Resource.description:471
 msgid ""
-"<p>Preguntas de chequeo inicial para clientes femeninos y masculinos en "
-"areas CON transmision local.</p>"
+"<p>Job aid for health workers to screen male and female clients with initial"
+" questions asked prior to scheduled visit in Areas WITH Local "
+"Transmission.<p> "
 msgstr ""
 "<p>Preguntas iniciales de exploración para clientes femeninos y masculinos "
 "en áreas CON transmisión local.</p>"
@@ -6883,60 +6887,71 @@ msgstr ""
 msgid ""
 "Counseling Female Clients about Risk of Zika Infection in Areas WITH Local "
 "Transmission "
-msgstr "Material de apoyo n.º 3"
+msgstr ""
+"Aconsejando a los clientes femeninos sobre el riesgo de infeccion con Zika "
+"en las areas CON transmision local."
 
 #: orb.models.Resource.description:472
 msgid ""
-"<p>Aconsejando a los clientes femeninos sobre el riesgo de infeccion con "
-"Zika en las areas CON transmision local.</p>"
+"<p>One-page job aid for health workers who are counseling female clients "
+"living in areas with local Zika transmission on the risks, recommendations "
+"and prevention strategies to avoid Zika.</p>"
 msgstr ""
 "<p>Asesoramiento para clientes femeninos sobre el riesgo de infección con "
 "Zika en las áreas CON transmisión local.</p>"
 
 #: orb.models.Resource.title:474
 msgid "Birth Control Method Options"
-msgstr "Material de apoyo n.º 5"
+msgstr "Opciones de metodos anticonceptivos"
 
 #: orb.models.Resource.description:474
-msgid "<p>Opciones de metodos anticonceptivos.</p>"
+msgid ""
+"<p>Job aid for health works with detailed descriptions of birth control "
+"options.</p>"
 msgstr "<p>Opciones de métodos anticonceptivos.</p>"
 
 #: orb.models.Resource.title:475
 msgid ""
 "Strategies to Prevent Zika Virus and its Consequences for Clients Living in "
 "Areas WITH Local Transmission "
-msgstr "Material de apoyo n.º 6"
+msgstr ""
+"Estrategias para prevenir el virus del Zika y sus consecuencias para los "
+"clientes que viven en areas CON transmision local."
 
 #: orb.models.Resource.description:475
 msgid ""
-"<p>Estrategias para prevenir el virus del Zika y sus consecuencias para los "
-"clientes que viven en areas CON transmision local.</p>"
+"<p>One-page job aid for health workers on counseling clients living in areas"
+" with local Zika transmission regarding prevention strategies and virus "
+"consequenses.</p>"
 msgstr ""
 "<p>Estrategias para prevenir el virus del Zika y sus consecuencias para los "
 "clientes que viven en áreas CON transmisión local.</p>"
 
 #: orb.models.Resource.title:476
 msgid "Who Needs Testing for Zika Virus? Areas WITH Local Transmission "
-msgstr "Material de apoyo n.º 7"
+msgstr ""
+"¿Quien necesita la prueba del virus del Zika? Areas CON transmision local."
 
 #: orb.models.Resource.description:476
 msgid ""
-"<p>&iquest;Quien necesita la prueba del virus del Zika? Areas CON "
-"transmision local.&nbsp;</p>"
+"<p>One-pager job aid providing guidance to health workers determining which "
+"clients need testing for Zika virus.</p>"
 msgstr ""
-"<p>&iquest;¿Quién necesita pruebas de detección del virus del Zika? Áreas "
-"CON transmisión local.&nbsp;</p>"
+"<p>¿Quién necesita pruebas de detección del virus del Zika? Áreas CON "
+"transmisión local.</p>"
 
 #: orb.models.Resource.title:477
 msgid ""
 "Counseling Male Clients about Risk of Zika Infection in Areas WITH Local "
 "Transmission"
-msgstr "Material de apoyo n.º 8"
+msgstr ""
+"Aconsejando a los clientes masculinos sobre el riesgo de infecion en areas "
+"CON transmission local de Zika."
 
 #: orb.models.Resource.description:477
 msgid ""
-"<p>Aconsejando a los clientes masculinos sobre el riesgo de infecion en "
-"areas CON transmission local de Zika.</p>"
+"<p>A one-page job aid for health workers to counsel men living in areas with"
+" Zika transmission on assessing risk, prevention and symptons.</p>"
 msgstr ""
 "<p>Asesoramiento para los clientes masculinos sobre el riesgo de infección "
 "en las áreas CON transmisión local del Zika.</p>"
@@ -6944,19 +6959,25 @@ msgstr ""
 #: orb.models.Resource.title:478
 msgid ""
 "Protecting Yourself and Others from Zika for women living in areas with Zika"
-msgstr "Lo que los hombres necesitan saber sobre el Zika"
+msgstr "Protegerse a usted misma y a otros del Zika"
 
 #: orb.models.Resource.description:478
-msgid "<p>Para las personas que viven en areas con Zika.</p>"
-msgstr "<p>Para las personas que viven en áreas con Zika.</p>"
+msgid ""
+"<p>A two-page job aid for health workers who are counseling women living in "
+"areas with Zika transmission--covering contraception and prevention of "
+"mosquito bites for pregnant and non-pregnant women.</p>"
+msgstr "<p>Para mujeres que viven en áreas con Zika.</p>"
 
 #: orb.models.Resource.title:479
 msgid "What Men Need to Know about Zika for people living in areas with Zika"
-msgstr "Protegerse a usted misma y a otros del Zika"
+msgstr "Lo que los hombres necesitan saber sobre el Zika"
 
 #: orb.models.Resource.description:479
-msgid "<p>Para mujeres viviendo en areas con Zika.</p>"
-msgstr "<p>Para mujeres que viven en áreas con Zika.</p>"
+msgid ""
+"<p>A two-page job aid for health workers who are counseling men about Zika "
+"risks, symptoms and preventative measures when living in areas with Zika "
+"transmission.</p>"
+msgstr "<p>Para las personas que viven en áreas con Zika.</p>"
 
 #: orb.models.Resource.title:480
 msgid "m4RH Basic messages, English"
@@ -7058,8 +7079,8 @@ msgstr ""
 
 #: orb.models.Resource.description:495
 msgid ""
-"<p>Si una mujer adquiere Zika mientras esta embarazada, ella puede tener un "
-"aborto espontaneo o su bebe puede nacer con defectos congenitos graves.</p>"
+"<p>One page job aid providing counseling information for people living in "
+"areas where Zika is present</p>"
 msgstr ""
 "<p>Si una mujer contrae Zika mientras está embarazada, puede tener un aborto"
 " espontáneo o su bebé puede nacer con defectos congénitos graves.</p>"
@@ -7106,11 +7127,12 @@ msgstr ""
 
 #: orb.models.Resource.description:498
 msgid ""
-"<p>Material de apoyo:&nbsp;Proceso de consejeria sobre planificacion "
-"familiar para clientes femeninos en areas SIN transmision local.</p>"
+"<p>A one-page job aid guiding health workers through the initial screening "
+"questions recommended prior to a Zika testing visit for women living in "
+"areas without local transmission.</p>"
 msgstr ""
-"<p>Material de apoyo:&nbsp;Proceso de asesoramiento sobre planificación "
-"familiar para clientes femeninos en áreas SIN transmisión local.</p>"
+"<p>Material de apoyo: Proceso de asesoramiento sobre planificación familiar "
+"para clientes femeninos en áreas SIN transmisión local.</p>"
 
 #: orb.models.Resource.title:499
 msgid ""
@@ -7122,11 +7144,11 @@ msgstr ""
 
 #: orb.models.Resource.description:499
 msgid ""
-"<p>Material de apolyo #2:&nbsp;Preguntas de chequeo inicial para clientes "
-"femeninos y masculinos en areas SIN transmision local.&nbsp;</p>"
+"Initial screening questions for female and male clients in areas without "
+"local transmission "
 msgstr ""
-"<p>Material de apoyo n.º 2:&nbsp;Preguntas iniciales de exploración para "
-"clientes femeninos y masculinos en áreas SIN transmisión local.&nbsp;</p>"
+"<p>Material de apoyo n.º 2: Preguntas iniciales de exploración para clientes"
+" femeninos y masculinos en áreas SIN transmisión local.</p>"
 
 #: orb.models.Resource.title:500
 msgid ""
@@ -7138,11 +7160,13 @@ msgstr ""
 
 #: orb.models.Resource.description:500
 msgid ""
-"<p>Material de apoyo #3:&nbsp;Aconsejando a los clientes femeninos sobre el "
-"riesgo del Zika en las areas SIN transmision local.&nbsp;</p>"
+"<p>This two page job aid guides health workers through the steps of "
+"counseling clients on current and future risks of Zika transmission "
+"pertaining to female clients living in areas without existing local "
+"transmission. </p>"
 msgstr ""
-"<p>Material de apoyo n.º 3:&nbsp;Asesoramiento para clientes femeninos sobre"
-" el riesgo del Zika en áreas SIN transmisión local.&nbsp;</p>"
+"<p>Material de apoyo n.º 3: Asesoramiento para clientes femeninos sobre el "
+"riesgo del Zika en áreas SIN transmisión local.</p>"
 
 #: orb.models.Resource.title:501
 msgid ""
@@ -7154,11 +7178,12 @@ msgstr ""
 
 #: orb.models.Resource.description:501
 msgid ""
-"<p>Material de apoyo #4:&nbsp;Aconsejando a los clientes femeninos sobre el "
-"riesgo del Zika en las areas SIN transmision local.&nbsp;</p>"
+"<p>This two-page job aid provides guidance for health workers who are "
+"counseling patients on contraceptive use in areas that are not effected by "
+"Zika. </p>"
 msgstr ""
-"<p>Material de apoyo n.º 4:&nbsp;Asesoramiento para clientes femeninos sobre"
-" el riesgo del Zika en áreas SIN transmisión local.&nbsp;</p>"
+"<p>Material de apoyo n.º 4: Asesoramiento para clientes femeninos sobre el "
+"riesgo del Zika en áreas SIN transmisión local.</p>"
 
 #: orb.models.Resource.title:503
 msgid ""
@@ -7170,12 +7195,12 @@ msgstr ""
 
 #: orb.models.Resource.description:503
 msgid ""
-"<p>Material de apoyo #6:&nbsp;Estrategias para prevenir el virus del Zika y "
-"sus consecuencias para los clientes que viven en areas SIN transmision "
-"local.</p>"
+"<p>This one page job aid provides strategies health workers can use in "
+"guiding patients through strategies to prevent Zika virus-specifically for "
+"those who are living in areas not affected by Zika virus.</p>"
 msgstr ""
-"<p>Material de apoyo n.º 6:&nbsp;Estrategias para prevenir el virus del Zika"
-" y sus consecuencias para los clientes que viven en áreas SIN transmisión "
+"<p>Material de apoyo n.º 6: Estrategias para prevenir el virus del Zika y "
+"sus consecuencias para los clientes que viven en áreas SIN transmisión "
 "local.</p>"
 
 #: orb.models.Resource.title:504
@@ -7186,11 +7211,12 @@ msgstr ""
 
 #: orb.models.Resource.description:504
 msgid ""
-"<p>Material de apoyo #7: &iquest;Quien necesita la prueba del virus del "
-"Zika? Areas SIN transmision local</p>"
+"<p>This one-page job aid provides information for healthworkers to counsel "
+"patients on testing for Zika virus - particularly for patients living in "
+"areas without local Zika transmission.</p>"
 msgstr ""
-"<p>Material de apoyo n.º 7: &iquest;¿Quién necesita pruebas de detección del"
-" virus del Zika? Áreas SIN transmisión local</p>"
+"<p>Material de apoyo n.º 7: ¿Quién necesita pruebas de detección del virus "
+"del Zika? Áreas SIN transmisión local</p>"
 
 #: orb.models.Resource.title:505
 msgid ""
@@ -7202,11 +7228,12 @@ msgstr ""
 
 #: orb.models.Resource.description:505
 msgid ""
-"<p>Material de apoyo #8:&nbsp;Aconsejando a los clientes masculinos sobre "
-"los riesgos de infeccionen en areas SIN tranmision local de Zika.&nbsp;</p>"
+"<p>This Zika counseling guide provides information for health workers who "
+"are counseling male clients living in areas without local Zika "
+"transmission</p>"
 msgstr ""
-"<p>Material de apoyo n.º 8:&nbsp;Asesoramiento para clientes masculinos "
-"sobre el riesgo infección en áreas SIN transmisión local del Zika.&nbsp;</p>"
+"<p>Material de apoyo n.º 8: Asesoramiento para clientes masculinos sobre el "
+"riesgo infección en áreas SIN transmisión local del Zika.</p>"
 
 #: orb.models.Resource.title:516
 msgid ""
@@ -7218,17 +7245,13 @@ msgstr ""
 
 #: orb.models.Resource.description:516
 msgid ""
-"<p>Modulo 1- Gestao em Saude e Intersetorialidade</p>\r\n"
-"<p>Modulo 2- Epidemiologia, Clinica e Prevencao a Exposicao ao Zika</p>\r\n"
-"<p>Modulo 3- Saude da Mulher no Contexto Atual do Zika</p>\r\n"
-"<p>Modulo 4- Saude da Crianca e Vigilancia em Saude</p>\r\n"
-"<p>Modulo 5- Estimulacao precoce/Intervencao precoce</p>"
+"<p>This technical manual provides guidance for laboratory workers with "
+"information for testing Zika virus.</p>"
 msgstr ""
-"<p>Modulo 1- Gestao em Saude e Intersetorialidade</p><p>Modulo 2- "
-"Epidemiologia, Clinica e Prevencao a Exposicao ao Zika</p><p>Modulo 3- Saude"
-" da Mulher no Contexto Atual do Zika</p><p>Modulo 4- Saude da Crianca e "
-"Vigilancia em Saude</p><p>Modulo 5- Estimulacao precoce/Intervencao "
-"precoce</p>"
+"<p>Módulo de Gestión de la Salud y la intersectorialidad 1-</p><p>Módulo de "
+"la exposición 2 Epidemiología y Prevención Clínica de Zika</p><p>Módulo 3 de"
+" la Salud de la Mujer en el contexto actual Zika</p><p>Módulo 4 Salud "
+"Infantil y Vigilancia de la Salud</p><p>"
 
 #: orb.models.Resource.title:518
 msgid "A new resource"
