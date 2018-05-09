@@ -424,38 +424,6 @@ msgstr "Información sobre neumonía – Video: respiración rápida"
 msgid "Mini-Laparotomy for Tubal Ligation Under Local Anesthesia"
 msgstr "Minilaparotomía para ligadura de trompas con anestesia local"
 
-#: orb.models.ResourceURL.title:1243
-msgid "Community and health volunteers manual"
-msgstr "Manual para la comunidad y los voluntarios de salud"
-
-#: orb.models.ResourceURL.title:1244
-msgid "Facilitator's manual "
-msgstr "Manual del facilitador"
-
-#: orb.models.ResourceURL.title:1245
-msgid ""
-"Tool for household monitoring for the prevention of Zika, dengue and "
-"chikungunya"
-msgstr ""
-"Herramienta para monitoreo de hogares para la prevención del Zika, dengue y "
-"chikungunya"
-
-#: orb.models.ResourceURL.title:1246
-msgid ""
-"Household checklist card on key measures for prevention of dengue, "
-"chikungunya and Zika (part of Household Handbook)"
-msgstr ""
-"Lista de verificación para hogares sobre medidas clave para la prevención "
-"del dengue, chikungunya y Zika (parte del Manual para el hogar)"
-
-#: orb.models.ResourceURL.title:1247
-msgid ""
-"Counselling flip chart on symptoms, complications, treatment, and prevention"
-" of dengue, chikungunya and Zika."
-msgstr ""
-"Rotafolio de asesoramiento sobre síntomas, complicaciones, tratamiento y "
-"prevención del dengue, el chikungunya y el Zika."
-
 #: orb.models.ResourceURL.title:1511 orb.models.ResourceURL.title:1517
 #: orb.models.ResourceURL.title:1522 orb.models.ResourceURL.title:1527
 #: orb.models.ResourceURL.title:1534 orb.models.ResourceURL.title:1542
@@ -612,4 +580,106 @@ msgstr ""
 
 #: orb.models.ResourceURL.title:1705
 msgid "Small Baby's Feeding Journey "
+msgstr ""
+
+#: orb.models.ResourceURL.title:1706
+msgid "Community Video (Niger): Men Support Handwashing in Maradi"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1707
+msgid "Hand Washing at Hospitals"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1708
+msgid "Mr. Tembo Comes Clean! Hand Washing in Communities"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1709
+msgid "Safe Surgery Using the WHO Checklist"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1710
+msgid "Welcome and Introduction"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1711
+msgid "How Ultrasound Works"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1712
+msgid "Tomography: How to See 3D Objects from 2D Images"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1713
+msgid "Infection Control Ultrasound Training"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1714
+msgid "2nd and 3rd Trimest Anatomy Ultrasound Training"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1715
+msgid "Fetal Dating: 2nd and 3rd Trimesters Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1716
+msgid "Pelvic Anatomy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1717
+msgid "1st Trimest Anatomy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1718
+msgid "1st Trimester Dating"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1719
+msgid "Amniotic Fluid Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1720
+msgid "Placenta Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1721
+msgid "Fetal Lie and Presentation Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1722
+msgid "1st Trimester Paid and Bleeding Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1723
+msgid "Ectopic Pregnancy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1724
+msgid "Multiple Gestation Pregnancy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1725
+msgid "Intrauterine Growth Restriction (IUGR) Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1726
+msgid "Fetal Anomalies Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1727
+msgid ""
+"Ultrasound Training Course Review and Video of Sonographer Scanning a "
+"Patient"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1728
+msgid "Download UNZA app from Google Play Store"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1729 orb.models.ResourceURL.title:1730
+msgid "Course on LSHTM Open Study site"
+msgstr ""
+
+#: orb.models.ResourceURL.title:1732
+msgid "How to install and run offline on Android smartphone"
 msgstr ""

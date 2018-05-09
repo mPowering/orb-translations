@@ -170,11 +170,24 @@ msgstr ""
 #: orb.models.Resource.attribution:500 orb.models.Resource.attribution:501
 #: orb.models.Resource.attribution:503 orb.models.Resource.attribution:504
 #: orb.models.Resource.attribution:505 orb.models.Resource.attribution:516
-#: orb.models.Resource.attribution:517 orb.models.Resource.attribution:518
-#: orb.models.Resource.attribution:525 orb.models.Resource.attribution:526
-#: orb.models.Resource.attribution:527 orb.models.Resource.attribution:528
-#: orb.models.Resource.attribution:529 orb.models.Resource.attribution:530
-#: orb.models.Resource.attribution:531 orb.models.Resource.attribution:532
+#: orb.models.Resource.attribution:517 orb.models.Resource.attribution:525
+#: orb.models.Resource.attribution:526 orb.models.Resource.attribution:527
+#: orb.models.Resource.attribution:528 orb.models.Resource.attribution:529
+#: orb.models.Resource.attribution:530 orb.models.Resource.attribution:531
+#: orb.models.Resource.attribution:532 orb.models.Resource.attribution:535
+#: orb.models.Resource.attribution:536 orb.models.Resource.attribution:538
+#: orb.models.Resource.attribution:541 orb.models.Resource.attribution:543
+#: orb.models.Resource.attribution:546 orb.models.Resource.attribution:547
+#: orb.models.Resource.attribution:548 orb.models.Resource.attribution:549
+#: orb.models.Resource.attribution:550 orb.models.Resource.attribution:551
+#: orb.models.Resource.attribution:552 orb.models.Resource.attribution:553
+#: orb.models.Resource.attribution:554 orb.models.Resource.attribution:555
+#: orb.models.Resource.attribution:556 orb.models.Resource.attribution:557
+#: orb.models.Resource.attribution:558 orb.models.Resource.attribution:559
+#: orb.models.Resource.attribution:560 orb.models.Resource.attribution:561
+#: orb.models.Resource.attribution:562 orb.models.Resource.attribution:563
+#: orb.models.Resource.attribution:564 orb.models.Resource.attribution:565
+#: orb.models.Resource.attribution:566 orb.models.Resource.attribution:569
 msgid ""
 msgstr ""
 
@@ -6241,7 +6254,7 @@ msgid ""
 "<p><span>This animation demonstrates the surgical technique of mini-"
 "laparotomy under local anesthesia for tubal ligation. It consists of nine "
 "chapters showing the steps of the procedure. The video is currently "
-"available in English and French.</span></p>"
+"available in English, Portuguese &nbsp;and French.</span></p>"
 msgstr ""
 "<p><span>Esta animación muestra la técnica quirúrgica de minilaparotomía con"
 " anestesia local para la ligadura de trompas. Consiste en nueve capítulos "
@@ -7253,14 +7266,6 @@ msgstr ""
 " la Salud de la Mujer en el contexto actual Zika</p><p>Módulo 4 Salud "
 "Infantil y Vigilancia de la Salud</p><p>"
 
-#: orb.models.Resource.title:518
-msgid "A new resource"
-msgstr ""
-
-#: orb.models.Resource.description:518
-msgid "<p>A description of my resource</p>"
-msgstr ""
-
 #: orb.models.Resource.description:519
 msgid ""
 "<p>We now have a Portuguese version of the&nbsp;MLLA Animated Training Video"
@@ -7479,4 +7484,531 @@ msgstr ""
 msgid ""
 "<p>Informational video detailing the breastfeeding methods for a baby born "
 "with low birth weight.&nbsp;</p>"
+msgstr ""
+
+#: orb.models.Resource.title:535
+msgid "Control Mosquitos that Spread Zika "
+msgstr ""
+
+#: orb.models.Resource.description:535
+msgid ""
+"<p>Provides a list of methods for controlling community interaction with "
+"mosquitos, a zika vector. &nbsp;</p>"
+msgstr ""
+
+#: orb.models.Resource.title:536
+msgid "Zika Infographic for Pregnancy"
+msgstr ""
+
+#: orb.models.Resource.description:536
+msgid ""
+"<p>Infographic with information on risks of Zika virus for women who either "
+"are pregnant or wish to get pregnant.&nbsp;</p>"
+msgstr ""
+
+#: orb.models.Resource.title:537
+msgid "Talking about LARCs with Young Clients: A Video for Providers"
+msgstr ""
+
+#: orb.models.Resource.description:537
+msgid ""
+"<p>Video providing information for providers on counseling young clients "
+"about using LARCs.&nbsp;</p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:537
+msgid ""
+"This I-Kit is made possible by the support of the American People through "
+"the United STates Agency for International Development (USAID). The Health "
+"Communication Capacity Collaborative (HC3) is supported by USAID's Office of"
+" Population and Reproductive Health, Bureau for Global Health, under "
+"Cooperative Agreement #AID-OAA-A-12-00058."
+msgstr ""
+
+#: orb.models.Resource.title:538
+msgid "Long-Acting Reversible Contraceptive Learning Resource Package"
+msgstr ""
+
+#: orb.models.Resource.description:538
+msgid ""
+"<p>This learning resource package provides trainers, facilitators, and "
+"program staff with a comprehensive resource for high-quality Long-Acting "
+"Reversible Contraceptive (LARC) service training using a modular, facility-"
+"based approach for capacity-building and mentorship. The integrated learning"
+" resource package consists of 10 learning modules and an implementation "
+"guide. These modules are designed for use in a variety of situations, "
+"including the interval, postpartum, and post-abortion periods.</p>"
+msgstr ""
+
+#: orb.models.Resource.title:539
+msgid "Cue Cards for Counseling Adults on Contraception"
+msgstr ""
+
+#: orb.models.Resource.description:539
+msgid ""
+"<p><span>This&nbsp;</span><a href=\"http://www.zikacommunicationnetwork.org/sites/default/files/resource_files/Adult-CueCards-Spanish-12.02.16.pdf\" target=\"_blank\">set of contraceptive counseling cue cards</a><span>&nbsp;was developed to support a range of providers (such as facility-based providers, community health workers, pharmacists, outreach workers, counselors, and peer providers) in counseling adults on their contraceptive options. The cards can be adapted to meet local circumstances and contexts.</span></p>\r\n"
+"<p>&nbsp;</p>\r\n"
+"<p><span><em>The Knowledge for Health II project (AID-OAA-A-13-00068) adapted this content with the permission of Pathfinder International and with the support of US citizens through the Agency for United States for International Development (USAID). The content of this adapted material is the sole responsibility of the original source, and does not reflect the views of USAID or the United States Government. The original material is here:&nbsp;<a href=\"http://www.pathfinder.org/publication-series/cue-cards/\" target=\"_blank\">http://www.pathfinder.org/publication-series/cue-cards/</a></em></span></p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:539
+msgid ""
+"The Knowledge for Health II project (AID-OAA-A-13-00068) adapted this "
+"content with the permission of Pathfinder International and with the support"
+" of US citizens through the Agency for United States for International "
+"Development (USAID). The content of this adapted material is the sole "
+"responsibility of the original source, and does not reflect the views of "
+"USAID or the United States Government. The original material is here: "
+"http://www.pathfinder.org/publication-series/cue-cards/"
+msgstr ""
+
+#: orb.models.Resource.title:540
+msgid "Cue Cards for Counseling Adolescents on Contraception"
+msgstr ""
+
+#: orb.models.Resource.description:540
+msgid ""
+"<p>This&nbsp;<a href=\"http://www.zikacommunicationnetwork.org/sites/default/files/resource_files/Adolescent-CueCards-Spanish-12.02.16pdf.pdf\" target=\"_blank\">set of contraceptive counseling cue cards</a>&nbsp;was developed to support a range of providers (such as facility-based providers, community health workers, pharmacists, outreach workers, counselors, and peer providers) in counseling young people on their contraceptive options. The cue cards provide information that is particularly relevant to adolescents (10&ndash;19 years), but can also be used with young people over age 19. The cards can be adapted to meet local circumstances and contexts.</p>\r\n"
+"<p><em>The Knowledge for Health II project (AID-OAA-A-13-00068) adapted this content with the permission of Pathfinder International and with the support of US citizens through the Agency for United States for International Development (USAID). The content of this adapted material is the sole responsibility of the original source, and does not reflect the views of USAID or the United States Government. The original material is here:&nbsp;<a href=\"http://www.pathfinder.org/publication-series/cue-cards/\" target=\"_blank\">http://www.pathfinder.org/publication-series/cue-cards/</a></em></p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:540
+msgid ""
+"The Knowledge for Health II project (AID-OAA-A-13-00068) adapted this content with the permission of Pathfinder International and with the support of US citizens through the Agency for United States for International Development (USAID). The content of this adapted material is the sole responsibility of the original source, and does not reflect the views of USAID or the United States Government. The original material is here: http://www.pathfinder.org/publication-series/cue-cards/\r\n"
+"\r\n"
+msgstr ""
+
+#: orb.models.Resource.title:541
+msgid ""
+"Prevention and control of the mosquito aedes aegypti: Guide of basic "
+"orientations for the prevention of Zika, Dengue and Chikungunya"
+msgstr ""
+
+#: orb.models.Resource.description:541
+msgid ""
+"<p><a "
+"href=\"http://www.zikacommunicationnetwork.org/sites/default/files/resource_files/MSP%20-%20Rotafolio"
+"%20hi-res%20final.pdf\" target=\"_blank\">Flipchart</a><span>&nbsp;for "
+"health promoters, community promoters and general health personnel on Zika, "
+"Dengue and Chikungunya, prepared by the Ministry of Public Health of the "
+"Dominican Republic with the support of UNICEF.</span></p>"
+msgstr ""
+
+#: orb.models.Resource.title:542
+msgid "Zika and My Partner Pamphlet"
+msgstr ""
+
+#: orb.models.Resource.description:542
+msgid ""
+"<p><span>This&nbsp;</span><a id=\"\" title=\"\" "
+"href=\"http://www.zikacommunicationnetwork.org/sites/default/files/resource_files"
+"/Panfleto-condon_branding%20MINSAL%20ELS.pdf\" rel=\"\" target=\"_blank"
+"\">Spanish-language pamphlet</a><span>&nbsp;was developed to provide "
+"information about the importance of using&nbsp;of condoms&nbsp;for the "
+"prevention of Zika and targets male partners of pregnant&nbsp;women. This "
+"version has been approved by&nbsp;the Ministry of Health of El Salvador and "
+"includes the logo of the Ministry. It is&nbsp;part of the regional "
+"/Mam&aacute; Segura, Beb&eacute; Seguro de Zika/ campaign launched in June "
+"2017 in Guatemala, Honduras and&nbsp;El Salvador (and pending in Dominican "
+"Republic, Nicaragua and Panam&aacute;).</span></p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:542
+msgid ""
+"This version has been approved by the Ministry of Health of El Salvador and "
+"includes the logo of the Ministry. It is part of the regional /Mamá Segura, "
+"Bebé Seguro de Zika/ campaign launched in June 2017 in Guatemala, Honduras "
+"and El Salvador (and pending in Dominican Republic, Nicaragua and Panamá)."
+msgstr ""
+
+#: orb.models.Resource.title:543
+msgid "Community Video: Men support handwashing in Maradi"
+msgstr ""
+
+#: orb.models.Resource.description:543
+msgid ""
+"<p><span><span>Sahoura asks her neighbor, Mariama, why her children are less healthy than Mariama&rsquo;s, even though Sahoura practices the 1000 days behaviors. Mariama explains that it is important for everyone to wash their hands with soap at critical times during the day to prevent infections. She takes Sahoura to see their water station for the household. He explains the proper method of handwashing at their Tippy Tap, and then Mariama shows how to wash the hands of her young child. Sahoura goes home and tells her husband what she has learned and asks him to build handwashing stations around their house</span></span></p>\r\n"
+"<p><span>This video is part of a social and behavior change campaign by the USAID-funded Strengthening Partnerships, Results, and Innovations in Nutrition Globally (SPRING) project and Digital Green that aims to improve child nutrition through improved hygiene. For more information about this and SPRING's other work in Niger, please visit&nbsp;</span><a class=\"yt-uix-servicelink  \" href=\"https://www.spring-nutrition.org/\" rel=\"nofollow noopener\" target=\"_blank\" data-url=\"https://www.spring-nutrition.org\" data-servicelink=\"CDUQ6TgYACITCKeC0qmTxtUCFcyanAodd74Fxyj4HQ\" data-target-new-window=\"True\">https://www.spring-nutrition.org</a></p>"
+msgstr ""
+
+#: orb.models.Resource.title:544
+msgid "Hand Washing at Hospitals"
+msgstr ""
+
+#: orb.models.Resource.description:544
+msgid ""
+"<p>A film in Hausa designed to teach the importance of hand washing in "
+"hospitals.</p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:544
+msgid ""
+"A Medical Aid Films production for Guy's and St. Thomas' NHS Foundation "
+"Trust; Ndola Central Hospital; THET Partnerships for Global Health; UKAID"
+msgstr ""
+
+#: orb.models.Resource.title:545
+msgid "Mr. Tembo Comes Clean! Hand Washing in Communities"
+msgstr ""
+
+#: orb.models.Resource.description:545
+msgid ""
+"<p>A film designed to teach the importance of hand washing in "
+"communities.&nbsp;</p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:545
+msgid ""
+"A Medical Aid Films production for Guy's and St. Thomas' NHS Foundation "
+"Trust; Ndola Central Hospital; THET Partnerships for Global Health; UKaid. "
+msgstr ""
+
+#: orb.models.Resource.title:546
+msgid "Safe Surgery Using the WHO Checklist"
+msgstr ""
+
+#: orb.models.Resource.description:546
+msgid "<p>A film using the WHO safe surgery checklist.</p>"
+msgstr ""
+
+#: orb.models.Resource.title:547
+msgid "Basic Obstetric Ultrasound Training Video Introduction"
+msgstr ""
+
+#: orb.models.Resource.description:547
+msgid ""
+"<p>This video provides a general introduction and overview of the training "
+"course</p>"
+msgstr ""
+
+#: orb.models.Resource.title:548
+msgid "How Ultrasound Works Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:548
+msgid ""
+"<p><span>Video. </span></p>\r\n"
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>How Ultrasound Works</span></li>\r\n"
+"<li><span>How to use the Ultrasound Machine</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:549
+msgid "Tomography: How to See 3D Objects from 2D Images"
+msgstr ""
+
+#: orb.models.Resource.description:549
+msgid ""
+"<p>Video.&nbsp;</p>\r\n"
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Orient the Transducer</span></li>\r\n"
+"<li><span>Orient the Screen</span></li>\r\n"
+"<li><span>Rapidly Survey a Pregnant Uterus</span></li>\r\n"
+"<li><span>Determine Fetal Orientation from a Single Transverse Scan</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:550
+msgid "Infection Control Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:550
+msgid ""
+"<p>Video.&nbsp;</p>\r\n"
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>The Purpose of IPC</span></li>\r\n"
+"<li><span>How to Keep Equipment Clean and Safe</span></li>\r\n"
+"<li><span>how to Wash Your Hands Properly</span></li>\r\n"
+"<li><span>How to Properly Cover Your Cough</span></li>\r\n"
+"</ol>\r\n"
+"<p>&nbsp;</p>"
+msgstr ""
+
+#: orb.models.Resource.title:551
+msgid "2nd and 3rd Trimest Anatomy Ultrasound Training"
+msgstr ""
+
+#: orb.models.Resource.description:551
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>How to Identify Normal Fetal Anatomy of the Head, Heart, Abdomen, Spine, Extremities, Skull, Face, and Brain</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:552
+msgid "Fetal Dating: 2nd and 3rd Trimesters Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:552
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>How to Measure the Head, Abdomen, and Femur to find Fetal Age</span></li>\r\n"
+"<li><span>How to Scan the Correct Level for each Structure</span></li>\r\n"
+"<li><span>How to Choose the Best Ultrasound Images to Assess Fetal Age in the 2nd and 3rd Trimesters</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:553
+msgid "Pelvic Anatomy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:553
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>How to Identify Normal Structures</span></li>\r\n"
+"<li><span>How to Identify Common Problems during Pregnancy</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:554
+msgid "1st Trimester Anatomy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:554
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>How to Identify the Following Structures on Ultrasound: Gestational Sac, Yolk Sac, Fetus, Corpus Luteum</span></li>\r\n"
+"<li><span>How to Describe how the Fetus Grows during the First 13 Weeks</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:555
+msgid "1st Trimester Dating Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:555
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>How to Measure \"Mean Sac Diameter\" to Estimate Fetal Age</span></li>\r\n"
+"<li><span>How to Measure \"Crown Rump Length\" to Estimate Fetal Age</span></li>\r\n"
+"<li><span>How to Choose the Best Ultrasound Images to Assess Fetal Age</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:556
+msgid "Amniotic Fluid Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:556
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Measure the volume of amniotic fluid.</span></li>\r\n"
+"<li><span>Provide appropriate care if amniotic fluid levels are too low or too high.</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:557
+msgid "Placenta Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:557
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Identify the position of the placenta</span></li>\r\n"
+"<li><span>Evaluate for placenta previa</span></li>\r\n"
+"<li><span>Assess for placental abruption</span></li>\r\n"
+"<li><span>Conduct appropriate follow up and referrals if you suspect either condition&nbsp;</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:558
+msgid "Fetal Lie and Presentation Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:558
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Why it is important to identify the fetal lie and presentation</span></li>\r\n"
+"<li><span>How to identify an abnormal fetal lie or presentation</span></li>\r\n"
+"<li><span>When to perform a follow up ultrasound</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:559
+msgid "1st Trimester Paid and Bleeding Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:559
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Identify the normal and abnormal gestational sac</span></li>\r\n"
+"<li><span>Evaluate fetal cardiac activity</span></li>\r\n"
+"<li><span>Identify the signs of complete and incomplete miscarriage</span></li>\r\n"
+"<li><span>Identify the signs of molar pregnancy</span></li>\r\n"
+"<li><span>Perform appropriate ultrasound followup</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:560
+msgid "Ectopic Pregnancy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:560
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Identify the signs of an ectopic pregancy on ultrasound</span></li>\r\n"
+"<li><span>Assess the risk level of ectopic pregnancy and respond appropriately</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:561
+msgid "Multiple Gestation Pregnancy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:561
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Identify dizygotic and monozygotic twins on ultrasound</span></li>\r\n"
+"<li><span>Identify complications that can result in high-risk birth</span></li>\r\n"
+"<li><span>Properly refer patients with multiple gestation to the hospital</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:562
+msgid "Intrauterine Growth Restriction (IUGR) Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:562
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Evaluate for IUGR on clinical exam</span></li>\r\n"
+"<li><span>Evaluate for IUGR with ultrasounds using three different indicators</span></li>\r\n"
+"<li><span>Make appropriate referrals for IUGR</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:563
+msgid "Fetal Anomalies Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.Resource.description:563
+msgid ""
+"<p><span>Learning Objectives:</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Identify some important abnormalities</span></li>\r\n"
+"<li><span>Many fetal anomalies cannot be seen by ultrasound or are difficult to see</span></li>\r\n"
+"<li><span>Some babies you scan may be born with abnormalities you did not see on ultrasound</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:564
+msgid ""
+"Ultrasound Training Course Review and Video of Sonographer Scanning a "
+"Patient"
+msgstr ""
+
+#: orb.models.Resource.description:564
+msgid ""
+"<p><span>This video represents a review of what you have learned and shows a sonographer scanning a pregnant woman.</span></p>\r\n"
+"<ol>\r\n"
+"<li><span>Learn how to make the patient comfortable during the examination</span></li>\r\n"
+"<li><span>Review how to measure fetal biometry and the amniotic fluid index</span></li>\r\n"
+"<li><span>Review how to perform the ROBUST scan</span></li>\r\n"
+"</ol>"
+msgstr ""
+
+#: orb.models.Resource.title:565
+msgid "Early Childhood Development Briefer"
+msgstr ""
+
+#: orb.models.Resource.description:565
+msgid ""
+"<p>A 2-page briefter about early childhood development as an integral part "
+"of the Zika response.&nbsp;</p>"
+msgstr ""
+
+#: orb.models.Resource.title:566
+msgid "Certificate in Leadership and Management Practice"
+msgstr ""
+
+#: orb.models.Resource.description:566
+msgid ""
+"<p>The 'Primary Health Care to Communities'&nbsp; (PHC2C) blended learning training, <strong>Certificate of Leadership and Management Practice (CLMP)</strong> enables facility heads to lead frontline teams to deliver integrated, people-centered care and advance toward universal health coverage. The PHC2C CLMP was first tested in Zambia in 2017 and then scaled as a national CPD program for all community level facility heads. From the USAID ORB website, the CLMP training can be downloaded as Word doc files along with the accompanying android mobile app and is ready for use, with the facilitators guide. For adaptation to different local contexts, word files of the workbook and guides are also available, along with the moodle files that can be downloaded to any moodle account.</p>\r\n"
+"<p>For more information about this course please contact Allison Annette Foster at&nbsp;<a href=\"mailto:afoster@intrahealth.org\"><span>afoster@intrahealth.org</span></a></p>"
+msgstr ""
+
+#: orb.models.Resource.title:567
+msgid ""
+"Preventing the Zika virus: Understanding and controlling the Aedes mosquito"
+msgstr ""
+
+#: orb.models.Resource.description:567
+msgid ""
+"<p><span>A series of downloadable resources and learning activities from the School's 'Preventing the Zika virus' course. The material was originally delivered as a free online course in&nbsp;</span>July 2016&nbsp;<a href=\"https://www.futurelearn.com/partners/london-school-hygiene-tropical-medicine\" target=\"_blank\">on the FutureLearn platform</a>.&nbsp;<span><span>Additional information about the course and its contributors can be found on&nbsp;</span></span><span><span><a href=\"http://www.lshtm.ac.uk/study/freeonlinecourses/zika/\">the School website</a></span></span><span><span>.</span></span></p>\r\n"
+"<p><span>The material is broken down into teaching weeks, topic-focused activities and learning steps. Individual steps are presented in a variety of different ways, and may be vehicles for delivering content, discussion opportunities, or informal assessment tasks.&nbsp;The material available on this page does not represent a course experience, and is intended for free, open re-use by educators.</span></p>\r\n"
+"<p>Course developers:<span>&nbsp;Dr. James Logan, Dr. Robert Jones, Dr. Vanessa Chen-Hussey, Megan Kill and Joanna Stroud</span></p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:567
+msgid ""
+"Preventing the Zika Virus: Understanding and Controlling the Aedes Mosquito by London School of Hygiene & Tropical Medicine is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\r\n"
+"Based on a work at Open Study at LSHTM.\r\n"
+"Permissions beyond the scope of this license may be available at openstudy@lshtm.ac.uk."
+msgstr ""
+
+#: orb.models.Resource.title:568
+msgid ""
+"Improving the health of women, children and adolescents: from evidence to "
+"action"
+msgstr ""
+
+#: orb.models.Resource.description:568
+msgid ""
+"<p><span>A series of downloadable resources and learning activities from the School's 'Improving the health of women, children and adolescents' course. The material was originally delivered as a free online course in&nbsp;</span>February 2016&nbsp;<a href=\"https://www.futurelearn.com/partners/london-school-hygiene-tropical-medicine\" target=\"_blank\">on the FutureLearn platform</a>.&nbsp;<span>Additional information about the course and its contributors can be found on&nbsp;</span><span><span><a href=\"http://www.lshtm.ac.uk/study/freeonlinecourses/women-children-health/\">the School website</a></span></span><span>.</span></p>\r\n"
+"<p><span>The material is broken down into teaching weeks, topic-focused activities and learning steps. Individual steps are presented in a variety of different ways, and may be vehicles for delivering content, discussion opportunities, or informal assessment tasks.&nbsp;The material available on this page does not represent a course experience and is intended for free, open re-use by educators.</span></p>\r\n"
+"<p id=\"yui_3_17_2_1_1517299493338_146\">Course developers:&nbsp;Dr Tanya Marchant, Professor Joy Lawn, Megan Kill, and Joanna Stroud.</p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:568
+msgid ""
+"Improving the Health of Women, Children and Adolescents: From Evidence to Action by London School of Hygiene & Tropical Medicine is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\r\n"
+"Based on a work at Open Study at LSHTM.\r\n"
+"Permissions beyond the scope of this license may be available at openstudy@lshtm.ac.uk."
+msgstr ""
+
+#: orb.models.Resource.title:569
+msgid "Health Management, Ethics and Research"
+msgstr ""
+
+#: orb.models.Resource.description:569
+msgid ""
+"<p>The&nbsp;<em>Health Management, Ethics and Research</em>&nbsp;Module brings together three important aspects of your work that underpin the practical activities described in the other Modules of the programme. There are 16 study sessions in this Module covering health management, healthcare ethics and health research.</p>\r\n"
+"<p>Some people think of management as the responsibility of senior personnel in an organisation; we may think of the &lsquo;boss&rsquo; as the manager. In practice, management is a fundamental part of many jobs, including yours as a Health Extension Worker or Practitioner. You need to plan and organise your work and the activities at your Health Post. You will be coordinating and leading volunteers from your community. You will be implementing health programmes and monitoring their outcomes. All these are aspects of management and they are described and explained in this Module.</p>"
+msgstr ""
+
+#: orb.models.Resource.title:570
+msgid ""
+"Prevention of Zika Virus Infection: Key Points for Counseling Women of "
+"Reproductive Age"
+msgstr ""
+
+#: orb.models.Resource.description:570
+msgid ""
+"<p><span>This brief summarizes key points to include when counseling women "
+"of reproductive age on prevention of Zika virus (ZIKV) infection.</span></p>"
+msgstr ""
+
+#: orb.models.Resource.attribution:570
+msgid ""
+"This brief is made possible by the generous support of the American people "
+"through the United States Agency for International Development (USAID) under"
+" the terms of the Cooperative Agreement AID-OAA-A-14-00028. The contents are"
+" the responsibility of the Maternal and Child Survival Program and do not "
+"necessarily reflect the views of USAID or the United States Government."
 msgstr ""

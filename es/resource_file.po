@@ -131,8 +131,9 @@ msgstr "Afiche (en inglés)"
 #: orb.models.ResourceFile.title:127 orb.models.ResourceFile.title:128
 #: orb.models.ResourceFile.title:129 orb.models.ResourceFile.title:130
 #: orb.models.ResourceFile.title:131 orb.models.ResourceFile.title:132
+#: orb.models.ResourceFile.title:394
 msgid "Moodle course backup"
-msgstr "Respaldo de curso de Moodle"
+msgstr ""
 
 #: orb.models.ResourceFile.title:154
 msgid "ANC Life Stage"
@@ -1019,14 +1020,6 @@ msgstr ""
 msgid "Top 5 Things Everyone Needs to Know about Zika CREOLE VERSION"
 msgstr ""
 
-#: orb.models.ResourceFile.title:342
-msgid "Resource in english"
-msgstr ""
-
-#: orb.models.ResourceFile.title:343
-msgid "Resource in Yoruba"
-msgstr ""
-
 #: orb.models.ResourceFile.title:344
 msgid "Mini-Laparotomia Sob Anestesia Local para Laqueação das Trompas"
 msgstr "Mini-Laparotomia Sob Anestesia Local para Laqueação das Trompas"
@@ -1134,4 +1127,202 @@ msgstr ""
 
 #: orb.models.ResourceFile.title:363
 msgid "Small Baby's Feeding Journey "
+msgstr ""
+
+#: orb.models.ResourceFile.title:364
+msgid "Mini-Laparotomy for Tubal Ligation Under Local Anesthesia- Portuguese"
+msgstr ""
+
+#: orb.models.ResourceFile.title:365
+msgid "Control Mosquito that Spread Zika"
+msgstr ""
+
+#: orb.models.ResourceFile.title:366
+msgid "Zika Virus Infographic in English"
+msgstr ""
+
+#: orb.models.ResourceFile.title:367
+msgid "Zika Virus Infographic in Spanish"
+msgstr ""
+
+#: orb.models.ResourceFile.title:368
+msgid "Cue Cards for Counseling Adults on Contraception"
+msgstr ""
+
+#: orb.models.ResourceFile.title:369
+msgid "Cue Cards for Counseling Adolescents on Contraception"
+msgstr ""
+
+#: orb.models.ResourceFile.title:370
+msgid ""
+"Prevention and control of the mosquito aedes aegypti: Guide of basic "
+"orientations for the prevention of Zika, Dengue and Chikungunya"
+msgstr ""
+
+#: orb.models.ResourceFile.title:371
+msgid "Zika and My Partner Pamphlet"
+msgstr ""
+
+#: orb.models.ResourceFile.title:372
+msgid "Hand Washing at Hospitals"
+msgstr ""
+
+#: orb.models.ResourceFile.title:373
+msgid "Mr. Tembo Comes Clean! Hand Washing in Communities"
+msgstr ""
+
+#: orb.models.ResourceFile.title:374
+msgid "Safe Surgery Using the WHO Checklist"
+msgstr ""
+
+#: orb.models.ResourceFile.title:375
+msgid "Welcome and Introduction"
+msgstr ""
+
+#: orb.models.ResourceFile.title:376
+msgid "How Ultrasound Works"
+msgstr ""
+
+#: orb.models.ResourceFile.title:377
+msgid "Tomography: How to See 3D Objects from 2D Images"
+msgstr ""
+
+#: orb.models.ResourceFile.title:378
+msgid "Infection Control Ultrasound Training"
+msgstr ""
+
+#: orb.models.ResourceFile.title:379
+msgid "2nd and 3rd Trimest Anatomy Ultrasound Training"
+msgstr ""
+
+#: orb.models.ResourceFile.title:380
+msgid "Fetal Dating: 2nd and 3rd Trimesters Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:381
+msgid "Pelvic Anatomy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:382
+msgid "1st Trimester Dating"
+msgstr ""
+
+#: orb.models.ResourceFile.title:383
+msgid "Amniotic Fluid Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:384
+msgid "Placenta Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:385
+msgid "Fetal Lie and Presentation Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:386
+msgid "1st Trimester Paid and Bleeding Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:387
+msgid "Ectopic Pregnancy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:388
+msgid "Multiple Gestation Pregnancy Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:389
+msgid "Intrauterine Growth Restriction (IUGR) Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:390
+msgid "Fetal Anomalies Ultrasound Training Video"
+msgstr ""
+
+#: orb.models.ResourceFile.title:391
+msgid ""
+"Ultrasound Training Course Review and Video of Sonographer Scanning a "
+"Patient"
+msgstr ""
+
+#: orb.models.ResourceFile.title:392
+msgid "MCSP Early Childhood Development and Zika Briefer"
+msgstr ""
+
+#: orb.models.ResourceFile.title:395
+msgid "CLMP - How to use this course"
+msgstr ""
+
+#: orb.models.ResourceFile.title:396
+msgid "Facilitators Guide"
+msgstr ""
+
+#: orb.models.ResourceFile.title:397
+msgid "1. Supervisors Guide"
+msgstr ""
+
+#: orb.models.ResourceFile.title:398
+msgid "2. Community Assessment"
+msgstr ""
+
+#: orb.models.ResourceFile.title:399
+msgid "3. CHIP Guidelines"
+msgstr ""
+
+#: orb.models.ResourceFile.title:400
+msgid "4. Fundamentals of Leadership Unit 1"
+msgstr ""
+
+#: orb.models.ResourceFile.title:401
+msgid "5. Leadership Unit 2A Strategy and Planning"
+msgstr ""
+
+#: orb.models.ResourceFile.title:402
+msgid "6. Leadership and Management Unit 2B"
+msgstr ""
+
+#: orb.models.ResourceFile.title:403
+msgid "7. Leadership and Management Unit 2C"
+msgstr ""
+
+#: orb.models.ResourceFile.title:404
+msgid "8. Evidence Based Practice"
+msgstr ""
+
+#: orb.models.ResourceFile.title:405
+msgid "9. Leadership and Management Unit 3 Skilled Influencing"
+msgstr ""
+
+#: orb.models.ResourceFile.title:406
+msgid "10. Supervision, Coaching, Teaching and Mentoring"
+msgstr ""
+
+#: orb.models.ResourceFile.title:407
+msgid "11A. Quality Improvement Unit 1"
+msgstr ""
+
+#: orb.models.ResourceFile.title:408
+msgid "11B. Quality Improvement Unit 2"
+msgstr ""
+
+#: orb.models.ResourceFile.title:409
+msgid "12. Leadership and Management Unit 4 Resource Management"
+msgstr ""
+
+#: orb.models.ResourceFile.title:410
+msgid "13. UNZA Mobile Transfer Note"
+msgstr ""
+
+#: orb.models.ResourceFile.title:411
+msgid "HMER Global: Moodle course backup"
+msgstr ""
+
+#: orb.models.ResourceFile.title:412
+msgid "HMER Ethiopia: Moodle course backup"
+msgstr ""
+
+#: orb.models.ResourceFile.title:414
+msgid ""
+"Prevention of Zika Virus Infection: Key Points for Counseling Women of "
+"Reproductive Age"
 msgstr ""

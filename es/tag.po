@@ -152,10 +152,6 @@ msgstr "mPowering Frontline Health Workers"
 msgid "JHU"
 msgstr "JHU"
 
-#: orb.models.Tag.name:41
-msgid "Intrahealth"
-msgstr "Intrahealth"
-
 #: orb.models.Tag.name:42
 msgid "JHUCCP"
 msgstr "JHUCCP"
@@ -1598,10 +1594,6 @@ msgstr "Ipas"
 msgid "African health foundation"
 msgstr "African health foundation"
 
-#: orb.models.Tag.name:419
-msgid "IntraHealth International"
-msgstr "IntraHealth International"
-
 #: orb.models.Tag.name:420
 msgid "Pathfinder International"
 msgstr "Pathfinder International"
@@ -2898,16 +2890,12 @@ msgstr ""
 msgid "UK"
 msgstr ""
 
-#: orb.models.Tag.name:754
-msgid "mPowering"
-msgstr ""
-
 #: orb.models.Tag.name:755
 msgid "MCSP/Jhpiego"
 msgstr ""
 
 #: orb.models.Tag.name:756
-msgid "& other Lusophone countries."
+msgid "Lusophone countries"
 msgstr ""
 
 #: orb.models.Tag.name:757
@@ -2988,4 +2976,198 @@ msgstr ""
 
 #: orb.models.Tag.name:776
 msgid "International Ministries"
+msgstr ""
+
+#: orb.models.Tag.name:777
+msgid "4tees Medical Laboratory Services"
+msgstr ""
+
+#: orb.models.Tag.name:778
+msgid "MCSP JSI"
+msgstr ""
+
+#: orb.models.Tag.name:779
+msgid "CDC"
+msgstr ""
+
+#: orb.models.Tag.name:780
+msgid "ECODIT"
+msgstr ""
+
+#: orb.models.Tag.name:781
+msgid "Private Water and sanitation Implementing agency"
+msgstr ""
+
+#: orb.models.Tag.name:782
+msgid "eHealth Africa"
+msgstr ""
+
+#: orb.models.Tag.name:783
+msgid "Ministry of Health"
+msgstr ""
+
+#: orb.models.Tag.name:784
+msgid "The American College of Obstetricians and Gynecologists"
+msgstr ""
+
+#: orb.models.Tag.name:785
+msgid "health minister"
+msgstr ""
+
+#: orb.models.Tag.name:786
+msgid "Health Communication Capacity Collaborative"
+msgstr ""
+
+#: orb.models.Tag.name:787
+msgid "Boston University School of Public Health"
+msgstr ""
+
+#: orb.models.Tag.name:788
+msgid "Vital Strategies"
+msgstr ""
+
+#: orb.models.Tag.name:789
+msgid "USAID Tanzania"
+msgstr ""
+
+#: orb.models.Tag.name:790
+msgid "PPFA/ARO"
+msgstr ""
+
+#: orb.models.Tag.name:791
+msgid "Instrat Global Health Solutions"
+msgstr ""
+
+#: orb.models.Tag.name:792
+msgid "CIHP"
+msgstr ""
+
+#: orb.models.Tag.name:793
+msgid "MAKERERE UNIVERSITY"
+msgstr ""
+
+#: orb.models.Tag.name:794
+msgid "Indiana University School of Medicine"
+msgstr ""
+
+#: orb.models.Tag.name:795 orb.models.Tag.name:814
+msgid ""
+msgstr "Secretaria de Salud"
+
+#: orb.models.Tag.name:796
+msgid "K4Health"
+msgstr ""
+
+#: orb.models.Tag.name:797
+msgid "MSP"
+msgstr ""
+
+#: orb.models.Tag.name:798
+msgid "Ministerio de Salud de El Salvador"
+msgstr ""
+
+#: orb.models.Tag.name:799
+msgid "PASMO"
+msgstr ""
+
+#: orb.models.Tag.name:800
+msgid "Population Services International"
+msgstr ""
+
+#: orb.models.Tag.name:801
+msgid "SPRING"
+msgstr ""
+
+#: orb.models.Tag.name:802
+msgid "Sahel"
+msgstr ""
+
+#: orb.models.Tag.name:803
+msgid "Maradi"
+msgstr ""
+
+#: orb.models.Tag.name:804
+msgid "S.R.B.S foundation, NEWDELHI, INDIA"
+msgstr ""
+
+#: orb.models.Tag.name:805
+msgid "University of Washington School of Medicine"
+msgstr ""
+
+#: orb.models.Tag.name:806
+msgid "Society for Family Health "
+msgstr ""
+
+#: orb.models.Tag.name:807
+msgid "WEEMA International"
+msgstr ""
+
+#: orb.models.Tag.name:808
+msgid "University of Zambia"
+msgstr ""
+
+#: orb.models.Tag.name:809
+msgid "Leadership and Management in Communities"
+msgstr "Leadership and Management in Communities"
+
+#: orb.models.Tag.name:810
+msgid "Intrahealth International"
+msgstr ""
+
+#: orb.models.Tag.name:811
+msgid "Blended Learning"
+msgstr ""
+
+#: orb.models.Tag.name:812
+msgid "Facility Head"
+msgstr ""
+
+#: orb.models.Tag.name:813
+msgid "District Supervisor"
+msgstr ""
+
+#: orb.models.Tag.name:815
+msgid ""
+"Agency For Research and Development Initiative (ARDI South Sudan) "
+"www.ardissd.org "
+msgstr ""
+
+#: orb.models.Tag.name:816
+msgid "CORE Group, Inc."
+msgstr ""
+
+#: orb.models.Tag.name:817
+msgid "JSI USAID DISCOVER Health Project"
+msgstr ""
+
+#: orb.models.Tag.name:818
+msgid "HAVOYOCO"
+msgstr ""
+
+#: orb.models.Tag.name:819
+msgid "University Of Ilorin, Ilorin"
+msgstr ""
+
+#: orb.models.Tag.name:820
+msgid "FMOH"
+msgstr ""
+
+#: orb.models.Tag.name:821
+msgid "cpi"
+msgstr ""
+
+#: orb.models.Tag.name:822
+msgid "InStrat"
+msgstr ""
+
+#: orb.models.Tag.name:823
+msgid "VTR Mobile"
+msgstr ""
+
+#: orb.models.Tag.name:824
+msgid "Self"
+msgstr ""
+
+#: orb.models.Tag.name:825
+msgid "Vital Wave"
 msgstr ""
