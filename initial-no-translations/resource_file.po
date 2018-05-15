@@ -14,87 +14,87 @@ msgstr ""
 
 #: orb.models.ResourceFile.title:2
 msgid "Counselling Cards"
-msgstr "Tarjetas de asesoramiento"
+msgstr ""
 
 #: orb.models.ResourceFile.title:64 orb.models.ResourceFile.title:65
 msgid "Download the video"
-msgstr "Descargar el video"
+msgstr ""
 
 #: orb.models.ResourceFile.title:66
 msgid "Questions and Answers (French)"
-msgstr "Preguntas y respuestas (Francés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:67
 msgid "Poster (in French)"
-msgstr "Afiche (en francés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:83
 msgid "Supplemental Feeding"
-msgstr "Alimentación complementaria"
+msgstr ""
 
 #: orb.models.ResourceFile.title:84
 msgid "Protein: Body Building Foods"
-msgstr "Proteínas: alimentos que desarrollan masa muscular"
+msgstr ""
 
 #: orb.models.ResourceFile.title:85
 msgid "Fruits and Vegetables"
-msgstr "Frutas y vegetales"
+msgstr ""
 
 #: orb.models.ResourceFile.title:86
 msgid "Energy Foods"
-msgstr "Alimentos energéticos"
+msgstr ""
 
 #: orb.models.ResourceFile.title:89
 msgid "Danger Signs Poster (French)"
-msgstr "Afiche sobre signos de peligro (Francés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:90
 msgid "Danger Signs Poster (India - in English)"
-msgstr "Afiche sobre signos de peligro (India, en Inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:91
 msgid "Danger Signs Poster (Africa - in English)"
-msgstr "Afiche sobre signos de peligro (África, en Inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:92
 msgid "Detailing Aid Skilled Providers (Africa - in English)"
-msgstr "Información para proveedores capacitados de ayuda (África, en inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:93
 msgid "Detailing Aid Skilled Providers (India - in English)"
-msgstr "Información para proveedores capacitados de ayuda (India, en inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:94
 msgid "Detailing Aid Skilled Providers (French)"
-msgstr "Detalles para proveedores con habilidades de asistencia (Francés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:95
 msgid "Poster option 2 (French)"
-msgstr "Afiche opción 2 (Francés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:96
 msgid "Poster for India (English)"
-msgstr "Afiche para India (inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:97
 msgid "Poster for Africa (English)"
-msgstr "Afiche para África (inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:98
 msgid "Poster for Africa - option 2 (English)"
-msgstr "Afiche para África, opción 2 (Inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:104
 msgid "Poster for India - option 2 (English)"
-msgstr "Afiche para India, opción 2 (Inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:107
 msgid "Questions and Answers (English)"
-msgstr "Preguntas y respuestas (Inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:108
 msgid "Poster (in English)"
-msgstr "Afiche (en inglés)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:113 orb.models.ResourceFile.title:114
 #: orb.models.ResourceFile.title:115 orb.models.ResourceFile.title:116
@@ -112,742 +112,582 @@ msgstr ""
 
 #: orb.models.ResourceFile.title:154
 msgid "ANC Life Stage"
-msgstr "Etapa de la vida para Cuidado Prenatal (ANC)"
+msgstr ""
 
 #: orb.models.ResourceFile.title:155
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 2nd Edition "
 "Facilitators Manual"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 2.º edición: Manual "
-"de los facilitadores"
 
 #: orb.models.ResourceFile.title:156
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 2nd Edition. "
 "Trainers Guide"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 2.º edición: Guía "
-"para los capacitadores"
 
 #: orb.models.ResourceFile.title:158
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 2nd Edition: "
 "Household Handbook"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 2.º edición: Manual "
-"para hogares"
 
 #: orb.models.ResourceFile.title:159
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, Data Collection "
 "Manual and Tools"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición, Manual para la "
-"recolección de datos y herramientas"
 
 #: orb.models.ResourceFile.title:160
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, Guideline and "
 "Manual for Supportive Supervision"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición, Pautas y Manual "
-"para supervisión de respaldo"
 
 #: orb.models.ResourceFile.title:161
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 2nd Edition: "
 "Participant's Manual"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 2.º edición: Manual "
-"del participante"
 
 #: orb.models.ResourceFile.title:162
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 2nd Edition: "
 "Storybooks"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 2.º edición: Libros "
-"de historias"
 
 #: orb.models.ResourceFile.title:163
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 1st Edition "
 "(French): Facilitators Manuals"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Francés): Manuales de los facilitadores"
 
 #: orb.models.ResourceFile.title:164
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, A Toolkit for "
 "Programme Planners"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición, Kit de herramientas"
-" para planificadores del programa"
 
 #: orb.models.ResourceFile.title:165
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 1st Edition "
 "(French): Introduction to CHW programming"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Francés): Introducción a la programación de CHW"
 
 #: orb.models.ResourceFile.title:166
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 1st Edition "
 "(French): Manuel de Menage"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Francés): Manuel de Menage"
 
 #: orb.models.ResourceFile.title:167
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 1st Edition "
 "(Spanish): Manual del Facilitador"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Español): Manual del facilitador"
 
 #: orb.models.ResourceFile.title:168
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 1st Edition "
 "(French): Livres des Histoires"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Francés): Livres des Histoires"
 
 #: orb.models.ResourceFile.title:170
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition, 1st Edition "
 "(Spanish): Libro Consejos familiares"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Español): Libro de consejos familiares"
 
 #: orb.models.ResourceFile.title:174
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition 1st edition "
 "(Spanish): Sistema de Monitoreo TTC e registos"
 msgstr ""
-"Asesoramiento medido y orientado para Salud y Nutrición 1.º edición "
-"(Español): Sistema de Monitoreo TTC y registros"
 
 #: orb.models.ResourceFile.title:176
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition 1st edition "
 "(Spanish): Sistema e fichas de supervision"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Español): Sistema y fichas de supervisión"
 
 #: orb.models.ResourceFile.title:177
 msgid ""
 "Timed and Targeted Counselling for Health and Nutrition 1st edition "
 "(Spanish):Tarjeta de Alimentos"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Español): Tarjeta de Alimentos"
 
 #: orb.models.ResourceFile.title:178
 msgid ""
 "Timed and Targeted Counselling 1st edition for Health and Nutrition "
 "(Spanish): Libros de Visitas"
 msgstr ""
-"Asesoramiento medido y orientado para salud y nutrición 1.º edición "
-"(Español): Libros de Visitas"
 
 #: orb.models.ResourceFile.title:179
 msgid "Pneumonia Education - African English - Health Worker Flier "
 msgstr ""
-"Información sobre neumonía – Inglés africano – Panfleto para trabajadores de"
-" la salud"
 
 #: orb.models.ResourceFile.title:180
 msgid "Pneumonia Education - African English - Caregiver Flier"
 msgstr ""
-"Información sobre neumonía – Inglés africano – Panfleto para el cuidador"
 
 #: orb.models.ResourceFile.title:181
 msgid ""
 "Pneumonia Education - African English - Health Worker Training (without "
 "amoxicillin)"
 msgstr ""
-"Información sobre neumonía – Inglés africano – Capacitación para "
-"trabajadores de la salud (sin amoxicilina)"
 
 #: orb.models.ResourceFile.title:182
 msgid "Pneumonia Education - African English - Caregiver Poster"
 msgstr ""
-"Información sobre neumonía - Inglés africano - Afiche para el cuidador"
 
 #: orb.models.ResourceFile.title:183
 msgid ""
 "Pneumonia Education - African English - Health Worker Training (with "
 "amoxicillin)"
 msgstr ""
-"Información sobre neumonía – Inglés africano – Capacitación para "
-"trabajadores de la salud (con amoxicilina)"
 
 #: orb.models.ResourceFile.title:184
 msgid "Pneumonia Education - African English - Caregiver Story with Doctor"
 msgstr ""
-"Información sobre neumonía – Inglés africano – Historia de cuidador con "
-"médico"
 
 #: orb.models.ResourceFile.title:185
 msgid ""
 "Pneumonia Education - African English - Caregiver Story with Health Worker"
 msgstr ""
-"Información sobre neumonía – Inglés africano – Historia de cuidador con "
-"trabajador de la salud"
 
 #: orb.models.ResourceFile.title:186
 msgid "Pneumonia Education - Video: Chest In-Drawing"
-msgstr "Información sobre neumonía – Video: retracción costal"
+msgstr ""
 
 #: orb.models.ResourceFile.title:187
 msgid "Pneumonia Education - African Muslim English - Caregiver Flier"
 msgstr ""
-"Información sobre neumonía - Inglés africano musulmán - Panfleto para el "
-"cuidador"
 
 #: orb.models.ResourceFile.title:188
 msgid "Pneumonia Education - Video: Fast Breathing"
-msgstr "Información sobre neumonía – Video: respiración rápida"
+msgstr ""
 
 #: orb.models.ResourceFile.title:189
 msgid "Pneumonia Education - African Muslim English - Caregiver Poster"
 msgstr ""
-"Información sobre neumonía - Inglés africano musulmán - Afiche para el "
-"cuidador"
 
 #: orb.models.ResourceFile.title:190
 msgid "Pneumonia Education - African Muslim English - Health Worker Flier"
 msgstr ""
-"Información sobre neumonía – Inglés africano musulmán – Panfleto para "
-"trabajadores de la salud"
 
 #: orb.models.ResourceFile.title:191
 msgid ""
 "Pneumonia Education - African Muslim English - Caregiver Story with Doctor"
 msgstr ""
-"Información sobre neumonía – Inglés africano musulmán – Historia de cuidador"
-" con médico"
 
 #: orb.models.ResourceFile.title:192
 msgid ""
 "Pneumonia Education - African Muslim English - Health Worker Training (no "
 "amoxicillin)"
 msgstr ""
-"Información sobre neumonía – Inglés africano musulmán – Capacitación para "
-"trabajadores de la salud (sin amoxicilina)"
 
 #: orb.models.ResourceFile.title:194
 msgid ""
 "Pneumonia Education - African Muslim English - Caregiver Story with Health "
 "Worker"
 msgstr ""
-"Información sobre neumonía – Inglés africano musulmán – Historia de cuidador"
-" con trabajador de la salud"
 
 #: orb.models.ResourceFile.title:195
 msgid "Pneumonia Education - South Asian English - Caregiver Flier"
 msgstr ""
-"Información sobre neumonía – Inglés sudasiático – Panfleto para el cuidador"
 
 #: orb.models.ResourceFile.title:196
 msgid "Pneumonia Education - South Asian English - Caregiver Poster"
 msgstr ""
-"Información sobre neumonía – Inglés sudasiático – Afiche para el cuidador"
 
 #: orb.models.ResourceFile.title:197
 msgid ""
 "Pneumonia Education - South Asian English - Caregiver Story with Health "
 "Worker"
 msgstr ""
-"Información sobre neumonía – Inglés sudasiático – Historia de cuidador con "
-"trabajador de la salud"
 
 #: orb.models.ResourceFile.title:198
 msgid ""
 "Pneumonia Education - South Asian English - Caregiver Story with Doctor"
 msgstr ""
-"Información sobre neumonía – Inglés sudasiático – Historia de cuidador con "
-"médico"
 
 #: orb.models.ResourceFile.title:199
 msgid "Pneumonia Education - African French - Caregiver Flier"
 msgstr ""
-"Información sobre neumonía – Francés africano – Folleto para el cuidador"
 
 #: orb.models.ResourceFile.title:200
 msgid "Pneumonia Education - African French - Caregiver Poster"
 msgstr ""
-"Información sobre neumonía - Francés africano - Afiche para el cuidador"
 
 #: orb.models.ResourceFile.title:201
 msgid "Pneumonia Education - African French - Caregiver Story with Doctor"
 msgstr ""
-"Información sobre neumonía - Francés africano - Historia de cuidador con "
-"médico"
 
 #: orb.models.ResourceFile.title:203
 msgid ""
 "Pneumonia Education - African Muslim English - Health Worker Training (with "
 "amoxicillin)"
 msgstr ""
-"Información sobre neumonía – Inglés africano musulmán – Capacitación para "
-"trabajadores de la salud (con amoxicilina)"
 
 #: orb.models.ResourceFile.title:204
 msgid ""
 "Pneumonia Education - African French - Caregiver Story with Health Worker"
 msgstr ""
-"Información sobre neumonía – Francés africano – Historia de cuidador con "
-"trabajador de la salud"
 
 #: orb.models.ResourceFile.title:205
 msgid "Pneumonia Education - South Asian English - Health Worker Flier"
 msgstr ""
-"Información sobre neumonía - Inglés sudasiático - Panfleto para trabajadores"
-" de la salud"
 
 #: orb.models.ResourceFile.title:206
 msgid "Pneumonia Education - African Muslim French - Caregiver Flier"
 msgstr ""
-"Información sobre neumonía - Francés africano musulmán - Afiche para el "
-"cuidador"
 
 #: orb.models.ResourceFile.title:207
 msgid "Pneumonia Education - African Muslim French - Caregiver Poster"
 msgstr ""
-"Información sobre neumonía - Francés africano musulmán - Afiche para el "
-"cuidador"
 
 #: orb.models.ResourceFile.title:208
 msgid ""
 "Pneumonia Education - South Asian English - Health Worker Training (without "
 "amoxicillin)"
 msgstr ""
-"Información sobre neumonía – Inglés sudasiático – Capacitación para "
-"trabajadores de la salud (sin amoxicilina)"
 
 #: orb.models.ResourceFile.title:209
 msgid ""
 "Pneumonia Education - African Muslim French - Caregiver Story with Health "
 "Worker"
 msgstr ""
-"Información sobre neumonía – Francés africano musulmán – Historia de "
-"cuidador con trabajador de la salud"
 
 #: orb.models.ResourceFile.title:210
 msgid ""
 "Pneumonia Education - African Muslim French - Caregiver Story with Doctor"
 msgstr ""
-"Información sobre neumonía – Francés africano musulmán – Historia de "
-"cuidador con médico"
 
 #: orb.models.ResourceFile.title:211
 msgid ""
 "Pneumonia Education - South Asian English - Health Worker Training (with "
 "amoxicilin)"
 msgstr ""
-"Información sobre neumonía – Inglés sudasiático – Capacitación para "
-"trabajadores de la salud (con amoxicilina)"
 
 #: orb.models.ResourceFile.title:212
 msgid "Pneumonia Education - African French - Health Worker Flier"
 msgstr ""
-"Información sobre neumonía - Francés africano - Panfleto para trabajadores "
-"de la salud"
 
 #: orb.models.ResourceFile.title:213
 msgid ""
 "Pneumonia Education - African French - Health Worker Training (without "
 "amoxicillin)"
 msgstr ""
-"Información sobre neumonía - Francés africano - Capacitación para "
-"trabajadores de la salud (sin amoxicilina)"
 
 #: orb.models.ResourceFile.title:214
 msgid ""
 "Pneumonia Education - African French - Health Worker Training (with "
 "amoxicillin)"
 msgstr ""
-"Información sobre neumonía - Francés africano - Capacitación para "
-"trabajadores de la salud (con amoxicilina)"
 
 #: orb.models.ResourceFile.title:215
 msgid "Pneumonia Education - African English - Caregiver Kit"
-msgstr "Información sobre neumonía – Inglés africano – Kit para el cuidador"
+msgstr ""
 
 #: orb.models.ResourceFile.title:216
 msgid "Pneumonia Education - African Muslim French - Health Worker Flier"
 msgstr ""
-"Información sobre neumonía - Francés africano musulmán - Panfleto para "
-"trabajadores de la salud"
 
 #: orb.models.ResourceFile.title:217
 msgid "Pneumonia Education - African Muslim English - Caregiver Kit"
 msgstr ""
-"Información sobre neumonía – Inglés africano musulmán – Kit para el cuidador"
 
 #: orb.models.ResourceFile.title:218
 msgid ""
 "Pneumonia Education - African Muslim French - Health Worker Training "
 "(without amoxicillin)"
 msgstr ""
-"Información sobre neumonía - Francés africano musulmán - Capacitación para "
-"trabajadores de la salud (sin amoxicilina)"
 
 #: orb.models.ResourceFile.title:219
 msgid ""
 "Pneumonia Education - African Muslim French - Health Worker Training (with "
 "amoxicillin)"
 msgstr ""
-"Información sobre neumonía - Francés africano musulmán - Capacitación para "
-"trabajadores de la salud (con amoxicilina)"
 
 #: orb.models.ResourceFile.title:220
 msgid "Pneumonia Education - South Asian English - Caregiver Kit"
 msgstr ""
-"Información sobre neumonía – Inglés sudasiático – Kit para el cuidador"
 
 #: orb.models.ResourceFile.title:221
 msgid "Pneumonia Education - African French - Caregiver Kit"
-msgstr "Información sobre neumonía – Francés africano – Kit para el cuidador"
+msgstr ""
 
 #: orb.models.ResourceFile.title:222
 msgid "Pneumonia Education - African English - Health Worker Kit"
 msgstr ""
-"Información sobre neumonía – Inglés africano – Kit para trabajadores de la "
-"salud"
 
 #: orb.models.ResourceFile.title:223
 msgid "Pneumonia Education - African Muslim French - Caregiver Kit"
 msgstr ""
-"Información sobre neumonía - Francés africano musulmán - Kit para el "
-"cuidador"
 
 #: orb.models.ResourceFile.title:224
 msgid "Pneumonia Education - African French - Health Worker Kit"
 msgstr ""
-"Información sobre neumonía - Francés africano - Kit para trabajadores de la "
-"salud"
 
 #: orb.models.ResourceFile.title:225
 msgid "Pneumonia Education - African Muslim English - Health Worker Kit"
 msgstr ""
-"Información sobre neumonía – Inglés africano musulmán – Kit para "
-"trabajadores de la salud"
 
 #: orb.models.ResourceFile.title:226
 msgid "Pneumonia Education - South Asian English - Health Worker Kit"
 msgstr ""
-"Información sobre neumonía - Inglés sudasiático - Kit para trabajadores de "
-"la salud"
 
 #: orb.models.ResourceFile.title:227
 msgid "Pneumonia Education - African Muslim French - Health Worker Kit"
 msgstr ""
-"Información sobre neumonía - Francés africano musulmán - Kit para "
-"trabajadores de la salud"
 
 #: orb.models.ResourceFile.title:228
 msgid ""
 "Timed and Targeted Counselling 2nd Edition (French) Manuel de Facilitateur"
 msgstr ""
-"Asesoramiento medido y orientado 2.º edición (Francés): Manuel de "
-"Facilitateur"
 
 #: orb.models.ResourceFile.title:229
 msgid "Timed and Targeted Counselling (french). Livres des histoires"
-msgstr "Asesoramiento medido y orientado (Francés). Livres des histoires"
+msgstr ""
 
 #: orb.models.ResourceFile.title:230
 msgid ""
 "Timed and Targeted Counselling (french). Directives et Manuel pour la "
 "supervision"
 msgstr ""
-"Asesoramiento medido y orientado (Francés). Directives et Manuel pour la "
-"supervision"
 
 #: orb.models.ResourceFile.title:231
 msgid ""
 "Timed and Targeted Counselling (french). Directives et Manuel pour la colect"
 " des donnees"
 msgstr ""
-"Asesoramiento medido y orientado (Francés). Directives et Manuel pour la "
-"colect des donnees"
 
 #: orb.models.ResourceFile.title:232
 msgid "Timed and Targeted Counselling (french). Manuel de ménage"
-msgstr "Asesoramiento medido y orientado (Francés). Manuel de ménage"
+msgstr ""
 
 #: orb.models.ResourceFile.title:233
 msgid "Community and health volunteers manual"
-msgstr "Manual para la comunidad y los voluntarios de salud"
+msgstr ""
 
 #: orb.models.ResourceFile.title:234
 msgid "Facilitator's manual "
-msgstr "Manual del facilitador"
+msgstr ""
 
 #: orb.models.ResourceFile.title:235
 msgid ""
 "Tool for household monitoring for the prevention of Zika, dengue and "
 "chikungunya"
 msgstr ""
-"Herramienta para monitoreo de hogares para la prevención del Zika, dengue y "
-"chikungunya"
 
 #: orb.models.ResourceFile.title:236
 msgid ""
 "Household checklist card on key measures for prevention of dengue, "
 "chikungunya and Zika (part of Household Handbook)"
 msgstr ""
-"Lista de verificación para hogares sobre medidas clave para la prevención "
-"del dengue, chikungunya y Zika (parte del Manual para el hogar)"
 
 #: orb.models.ResourceFile.title:237
 msgid ""
 "Counselling flip chart on symptoms, complications, treatment, and prevention"
 " of dengue, chikungunya and Zika."
 msgstr ""
-"Rotafolio de asesoramiento sobre síntomas, complicaciones, tratamiento y "
-"prevención del dengue, el chikungunya y el Zika."
 
 #: orb.models.ResourceFile.title:238
 msgid "download video"
-msgstr "descargar video"
+msgstr ""
 
 #: orb.models.ResourceFile.title:239 orb.models.ResourceFile.title:242
 #: orb.models.ResourceFile.title:243 orb.models.ResourceFile.title:244
 msgid "Factsheet"
-msgstr "Hoja informativa"
+msgstr ""
 
 #: orb.models.ResourceFile.title:240
 msgid "Zika Virus Protection for Outdoor Workers - QuickCard"
 msgstr ""
-"Protección contra el virus del Zika para personas que trabajan al aire libre"
-" - Tarjeta de referencia rápida"
 
 #: orb.models.ResourceFile.title:241
 msgid "Respuesta de los CDC ante el zika"
-msgstr "Respuesta de los CDC ante el zika"
+msgstr ""
 
 #: orb.models.ResourceFile.title:245
 msgid ""
 "La Mini-Laparotomie Sous Anesthésie Locale pour la Ligature des Trompes"
 msgstr ""
-"La Mini-Laparotomie Sous Anesthésie Locale pour la Ligature des Trompes"
 
 #: orb.models.ResourceFile.title:246
 msgid "Health Ministers Guide on Zika"
-msgstr "Guía sobre el Zika para ministros de salud"
+msgstr ""
 
 #: orb.models.ResourceFile.title:247
 msgid "Zika Action Guide for Health Ministers"
-msgstr "Guía de acciones para el Zika para ministros de salud"
+msgstr ""
 
 #: orb.models.ResourceFile.title:248
 msgid "Zika Basics Flipbook for Community Health Workers"
 msgstr ""
-"Libro de animaciones sobre aspectos básicos del Zika para trabajadores de la"
-" salud de la comunidad"
 
 #: orb.models.ResourceFile.title:249
 msgid "Key Zika Considerations for Healthcare Settings"
 msgstr ""
-"Consideraciones clave sobre el Zika para entornos de cuidado de la salud"
 
 #: orb.models.ResourceFile.title:250
 msgid "Sexual Transmission of Zika Posters"
-msgstr "Afiches sobre transmisión sexual del Zika"
+msgstr ""
 
 #: orb.models.ResourceFile.title:253
 msgid "5 Datos Importantes Que Todos Debemos Saber Sobre el Zika"
-msgstr "5 datos importantes que todos debemos saber sobre el Zika"
+msgstr ""
 
 #: orb.models.ResourceFile.title:256
 msgid "Companion Evaluation and Management Tool"
-msgstr "Herramienta complementaria de evaluación y gestión"
+msgstr ""
 
 #: orb.models.ResourceFile.title:258
 msgid ""
 "Para Mujeres: Resultado Positivo en la Prueba de Deteccion del Virus del "
 "Zika: Que implica esto para mi?"
 msgstr ""
-"Para mujeres: Resultado positivo en la prueba de detección del virus del "
-"Zika: ¿qué implica esto para mí?"
 
 #: orb.models.ResourceFile.title:260
 msgid "Zika and Sex"
-msgstr "Zika y el sexo"
+msgstr ""
 
 #: orb.models.ResourceFile.title:261
 msgid ""
 "Doctor's Visit Checklist: for pregnant women who traveled to an area with "
 "Zika"
 msgstr ""
-"Lista de verificación para el médico: para mujeres embarazadas que viajaron "
-"a un área con Zika"
 
 #: orb.models.ResourceFile.title:263
 msgid ""
 "Providing Family Planning Care for Non-Pregnant Women and Men of "
 "Reproductive Age in the Context of Zika"
 msgstr ""
-"Brindar atención para la planificación familiar a mujeres no embarazadas y "
-"hombres en edad reproductiva en el contexto del Zika"
 
 #: orb.models.ResourceFile.title:264
 msgid ""
 "Informacion importante sobre el Zika para las personas que viven en areas "
 "con Zika"
 msgstr ""
-"Información importante sobre el Zika para las personas que viven en áreas en"
-" donde existe esta enfermedad"
 
 #: orb.models.ResourceFile.title:265
 msgid "Material de apoyo #1"
-msgstr "Material de apoyo n.º 1"
+msgstr ""
 
 #: orb.models.ResourceFile.title:266
 msgid "Material de apoyo #2"
-msgstr "Material de apoyo n.º 2"
+msgstr ""
 
 #: orb.models.ResourceFile.title:267
 msgid "Material de apoyo #3"
-msgstr "Material de apoyo n.º 3"
+msgstr ""
 
 #: orb.models.ResourceFile.title:269
 msgid "Material de apoyo #5"
-msgstr "Material de apoyo n.º 5"
+msgstr ""
 
 #: orb.models.ResourceFile.title:270
 msgid "Material de apoyo #6"
-msgstr "Material de apoyo n.º 6"
+msgstr ""
 
 #: orb.models.ResourceFile.title:271
 msgid "Material de apoyo #7"
-msgstr "Material de apoyo n.º 7"
+msgstr ""
 
 #: orb.models.ResourceFile.title:272
 msgid "Material de apoyo #8"
-msgstr "Material de apoyo n.º 8"
+msgstr ""
 
 #: orb.models.ResourceFile.title:273
 msgid "Lo que los hombres necesitan saber sobre el Zika"
-msgstr "Lo que los hombres necesitan saber sobre el Zika"
+msgstr ""
 
 #: orb.models.ResourceFile.title:274
 msgid "Protegiendose a usted misma y a otros del Zika"
-msgstr "Protegerse a usted misma y a otros del Zika"
+msgstr ""
 
 #: orb.models.ResourceFile.title:275 orb.models.ResourceFile.title:277
 msgid "m4RH Basic messages, English"
-msgstr "Mensajes básicos de m4RH, Inglés"
+msgstr ""
 
 #: orb.models.ResourceFile.title:278
 msgid "m4RH Basic messages, Swahili"
-msgstr "Mensajes básicos de m4RH, Swahili"
+msgstr ""
 
 #: orb.models.ResourceFile.title:279
 msgid "m4RH Plus messages, English"
-msgstr "Mensajes adicionales de m4RH, Inglés"
+msgstr ""
 
 #: orb.models.ResourceFile.title:280
 msgid "m4RH Plus messages, Swahili"
-msgstr "Mensajes adicionales de m4RH, Swahili"
+msgstr ""
 
 #: orb.models.ResourceFile.title:281
 msgid "m4RH Youth messages, English"
-msgstr "Mensajes para los jóvenes de m4RH, Inglés"
+msgstr ""
 
 #: orb.models.ResourceFile.title:282
 msgid "m4RH Youth messages, Swahili"
-msgstr "Mensajes para jóvenes de m4RH, Swahili"
+msgstr ""
 
 #: orb.models.ResourceFile.title:294
 msgid ""
 "Informacion importante sobre el Zika para persona viviendo en areas donde "
 "los mosquitos no estan propagando el Zika"
 msgstr ""
-"Información importante sobre el Zika para personas que viven en áreas donde "
-"los mosquitos no están propagando el Zika"
 
 #: orb.models.ResourceFile.title:295
 msgid ""
 "Lo que los hombres necesitan saber sobre el Zika para hombres viviendo en "
 "areas donde los mosquitos no estan propagando el Zika"
 msgstr ""
-"Lo que los hombres necesitan saber sobre el Zika para hombres que viven en "
-"áreas donde los mosquitos no están propagando esta enfermedad"
 
 #: orb.models.ResourceFile.title:296
 msgid ""
 "Protegiendose a usted misma y a otros del Zika para mujeres viviendo en "
 "areas donde los mosquitos no estan propagando el Zika"
 msgstr ""
-"Protegerse a usted misma y a otros del Zika para mujeres que viven en áreas "
-"donde los mosquitos no están propagando esta enfermedad"
 
 #: orb.models.ResourceFile.title:297
 msgid ""
 "Proceso de consejeria sobre planificacion familiar para clientes femeninos "
 "en areas SIN transmision local"
 msgstr ""
-"Proceso de asesoramiento para la planificación familiar para clientes "
-"femeninos en áreas SIN transmisión local"
 
 #: orb.models.ResourceFile.title:298
 msgid ""
 "Preguntas de chequeo inicial para clientes femeninos y masculinos en areas "
 "SIN transmision local"
 msgstr ""
-"Preguntas iniciales de exploración para clientes femeninos y masculinos en "
-"áreas SIN transmisión local"
 
 #: orb.models.ResourceFile.title:299
 msgid ""
 "Aconsejando a los clientes femeninos sobre el riesgo del Zika en las areas "
 "SIN transmision local"
 msgstr ""
-"Asesoramiento para clientes femeninos sobre el riesgo del Zika en áreas SIN "
-"transmisión local"
 
 #: orb.models.ResourceFile.title:300
 msgid ""
 "Proporcionando consejeria centrada en el cliente y educacion sobre "
 "anticonceptivos"
 msgstr ""
-"Proporcionar asesoramiento centrado en el cliente e información sobre "
-"anticonceptivos"
 
 #: orb.models.ResourceFile.title:302
 msgid ""
 "Estrategias para prevenir el virus del Zika y sus consecuencias para los "
 "clientes que viven en areas SIN transmision local"
 msgstr ""
-"Estrategias para prevenir el virus del Zika y sus consecuencias para los "
-"clientes que viven en áreas SIN transmisión local"
 
 #: orb.models.ResourceFile.title:303
 msgid ""
 "Quien Necesita la prueba del virus del Zika? Areas SIN transmision local."
 msgstr ""
-"¿Quién necesita pruebas de detección del virus del Zika? Áreas SIN "
-"transmisión local."
 
 #: orb.models.ResourceFile.title:304
 msgid ""
 "Aconsejando a los clientes masculinos sobre los riesgos de infeccionen en "
 "areas SIN tranmision local de Zika"
 msgstr ""
-"Asesoramiento para los clientes masculinos sobre el riesgo de infección en "
-"las áreas SIN transmisión local del Zika"
 
 #: orb.models.ResourceFile.title:315
 msgid "test"
@@ -858,8 +698,6 @@ msgid ""
 "manual tecnico Laboratorio de formacao do trabalhador de saude no contexto "
 "do virus Zika"
 msgstr ""
-"manual tecnico Laboratorio de formacao do trabalhador de saude no contexto "
-"do virus Zika"
 
 #: orb.models.ResourceFile.title:318
 msgid ""
@@ -997,29 +835,23 @@ msgstr ""
 
 #: orb.models.ResourceFile.title:344
 msgid "Mini-Laparotomia Sob Anestesia Local para Laqueação das Trompas"
-msgstr "Mini-Laparotomia Sob Anestesia Local para Laqueação das Trompas"
+msgstr ""
 
 #: orb.models.ResourceFile.title:345
 msgid "Postnatal Care Bedside Pre-Discharge Poster- Africa Context"
 msgstr ""
-"Afiche de cuidado posnatal para pacientes hospitalizados antes del alta - "
-"Contexto de África"
 
 #: orb.models.ResourceFile.title:346
 msgid "Postnatal Care Bedside Pre-Discharge Poster- Asia Context"
 msgstr ""
-"Afiche de cuidado posnatal para pacientes hospitalizados antes del alta - "
-"Contexto de Asia"
 
 #: orb.models.ResourceFile.title:347
 msgid "PNC Pre-Discharge Checklist Africa"
 msgstr ""
-"Lista de verificación anterior al alta para cuidado prenatal (PNC) - África"
 
 #: orb.models.ResourceFile.title:348
 msgid "PNC Pre-Discharge Checklist Asia"
 msgstr ""
-"Lista de verificación anterior al alta para cuidado prenatal (PNC) - Asia"
 
 #: orb.models.ResourceFile.title:349
 msgid "Important Information about Zika for people living in areas with Zika"
@@ -1027,74 +859,58 @@ msgstr ""
 
 #: orb.models.ResourceFile.title:350
 msgid "HEH Part 1 - Global: Moodle course backup "
-msgstr "HEH Parte 1 - Etiopía: copia de seguridad del curso de Moodle "
+msgstr ""
 
 #: orb.models.ResourceFile.title:351
 msgid "HEH Part 2 - Global: Moodle course backup "
-msgstr "HEH Parte 2 - Etiopía: copia de seguridad del curso de Moodle "
+msgstr ""
 
 #: orb.models.ResourceFile.title:352
 msgid "HEH Part 1 - Ethiopia: Moodle course backup "
-msgstr "HEH Parte 1 - Etiopía: copia de seguridad del curso de Moodle "
+msgstr ""
 
 #: orb.models.ResourceFile.title:353
 msgid "HEH Part 2 - Ethiopia: Moodle course backup"
-msgstr "HEH Parte 2 - Etiopía: copia de seguridad del curso de Moodle"
+msgstr ""
 
 #: orb.models.ResourceFile.title:354
 msgid "WASH: Context and Environment - Global version - Moodle backup format"
 msgstr ""
-"WASH: contexto y medioambiente - Versión global - Formato de copia de "
-"seguridad de Moodle"
 
 #: orb.models.ResourceFile.title:355
 msgid ""
 "WASH: Context and Environment - Ethiopia version - Moodle backup format"
 msgstr ""
-"WASH: contexto y medioambiente - Versión de Etiopía - Formato de copia de "
-"seguridad de Moodle"
 
 #: orb.models.ResourceFile.title:356
 msgid ""
 "Urban Sanitation and Solid Waste Management - Global version - Moodle backup"
 " format"
 msgstr ""
-"Higiene urbana y gestión de desechos sólidos - Versión global - Formato de "
-"copia de seguridad de Moodle"
 
 #: orb.models.ResourceFile.title:357
 msgid ""
 "Urban Sanitation and Solid Waste Management - Ethiopia version - Moodle "
 "backup format"
 msgstr ""
-"Higiene urbana y gestión de desechos sólidos - Versión de Etiopía - Formato "
-"de copia de seguridad de Moodle"
 
 #: orb.models.ResourceFile.title:358
 msgid ""
 "Urban WASH: Working with People - Global version - Moodle backup format"
 msgstr ""
-"Agua, sanidad e higiene (WASH) urbana: trabajar con la gente - Versión "
-"global - Formato de copia de seguridad de Moodle"
 
 #: orb.models.ResourceFile.title:359
 msgid ""
 "Urban WASH: Working with People - Ethiopia version - Moodle backup format"
 msgstr ""
-"Agua, sanidad e higiene (WASH) urbana: trabajar con la gente - Versión de "
-"Etiopía - Formato de copia de seguridad de Moodle"
 
 #: orb.models.ResourceFile.title:360
 msgid "Urban Water Supply - Global version - Moodle backup format"
 msgstr ""
-"Suministro urbano de agua - Versión global - Formato de copia de seguridad "
-"de Moodle"
 
 #: orb.models.ResourceFile.title:361
 msgid "Urban Water Supply - Ethiopia version - Moodle backup format"
 msgstr ""
-"Suministro urbano de agua - Versión de Etiopía - Formato de copia de "
-"seguridad de Moodle"
 
 #: orb.models.ResourceFile.title:362
 msgid "Breastfeeding A Small Baby "

@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-21 00:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: orb.models.ResourceCriteria.description:1
+msgid ""
+"Does the resource fit the mPowering remit of reproductive, maternal, newborn"
+" and child health (incl. nutrition and WASH)?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:2
+msgid ""
+"Is the resource released under an open license (Creative Commons or public "
+"domain)?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:3
+msgid ""
+"Is the resource suitable for the intended mobile delivery method/device?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:4
+msgid "Has the resource been produced to high technical quality?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:5
+msgid "Does the resource have clear learning objectives?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:6
+msgid "Is the resource likely to help improve FLHW performance?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:7
+msgid "Is the information clear, correct and authentic?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:9
+msgid "Can FLHWs identify with the providers and patients in the resource?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:12
+msgid "Does the resource feel authentic to FLHWs in low-resource settings?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:16
+msgid "Is the resource written in clear, easy to understand language?"
+msgstr ""
+
+#: orb.models.ResourceCriteria.description:19
+msgid ""
+"Does the resource reflect current medical guidelines and best practice?"
+msgstr ""
