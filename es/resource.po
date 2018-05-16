@@ -72,7 +72,7 @@ msgstr ""
 "<p>Este es un conjunto de ocho tarjetas de consejos desarrolladas para "
 "abordar los problemas de alimentación en los bebés en el norte de "
 "Ghana.</p><div>Socios contribuyentes: MOH Ghana, CRS, UNICEF, Cruz Roja de "
-"Ghana</div>"
+"Ghana</div>\n"
 
 #: orb.models.Resource.title:52
 msgid "Initiation of Breastfeeding by Breast Crawl "
